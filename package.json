@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "NODE_ENV=production bake build --config",
+    "git-post-merge": "./.hooks/post-merge.sh",
+    "git-pre-commit": "lint-staged",
+    "start": "NODE_ENV=development bake serve --config"
+  },
+  "dependencies": {
+    "@datagraphics/baker": "^0.31.1",
+    "@datagraphics/delivery": "^0.6.0",
+    "archieml": "^0.4.2",
+    "d3-fetch": "^2.0.0",
+    "intersection-observer": "^0.12.0",
+    "rfs": "^9.0.3",
+    "sass-mq": "^5.0.1",
+    "svelte": "^3.32.1",
+    "yall-js": "^3.2.0"
+  },
+  "devDependencies": {
+    "@datagraphics/prettier-config": "^2.0.0",
+    "@zeit/git-hooks": "^0.1.4",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1"
+  },
+  "prettier": "@datagraphics/prettier-config",
+  "lint-staged": {
+    "*.{js,md,scss}": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{% block lang %}en{% endblock lang %}">
+<head>
+  {% block meta %}
+  {% endblock meta %}
+
+  {% block styles %}
+  <link rel="stylesheet" href="{% static 'styles/app.scss' %}">
+  {% endblock styles %}
+
+  {% block extra_styles %}
+  {% endblock extra_styles %}
+
+  {% block scripts %}
+  {% script 'app' %}
+  {% endblock scripts %}
+
+  {% block extra_scripts %}
+  {% endblock extra_scripts %}
+</head>
+<body>
+  {% block content %}
+  {% endblock content %}
+
+  <footer role="contentinfo">
+  {% block footer -%}
+  {% endblock footer -%}
+  </footer>
+</body>
+</html>

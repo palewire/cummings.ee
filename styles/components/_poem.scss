@@ -1,0 +1,20 @@
+.poem {
+  font-weight: 400;
+  font-family: monospace;
+  font-size: 5rem;
+  color: #222;
+  margin: 5rem 0;
+  .stanza {
+    margin: 10rem 0;
+    &:first-of-type {
+      margin-top: 0;
+    }
+  }
+  .title {
+    font-size: 6rem;
+  }
+  .line {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+}

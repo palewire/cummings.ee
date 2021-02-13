@@ -1,3 +1,8 @@
-@import 'normalize';
-@import 'settings/grid';
-@import 'components/poem';
+@use 'normalize';
+@use 'settings/grid';
+@use 'settings/colors';
+@use 'settings/fonts';
+@use 'components/header';
+@use 'components/break';
+@use 'components/booklist';
+@use 'components/poem';

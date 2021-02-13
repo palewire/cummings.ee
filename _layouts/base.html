@@ -2,6 +2,8 @@
 <html lang="{% block lang %}en{% endblock lang %}">
 <head>
   {% block meta %}
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   {% endblock meta %}
 
   {% block styles %}
@@ -10,10 +12,6 @@
 
   {% block extra_styles %}
   {% endblock extra_styles %}
-
-  {% block scripts %}
-  {% script 'app' %}
-  {% endblock scripts %}
 
   {% block extra_scripts %}
   {% endblock extra_scripts %}

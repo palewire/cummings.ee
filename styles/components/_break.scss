@@ -1,0 +1,6 @@
+@use '../settings/colors';
+
+.break {
+  margin: 6.66vw 0;
+  border-top: 1.5vw colors.$black solid;
+}

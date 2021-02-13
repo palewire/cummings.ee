@@ -402,8 +402,45 @@ p {
   position: relative;
   width: 100%;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 1vw;
   box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Newsreader";
+  src: url(/assets/fonts/Newsreader/Newsreader-VariableFont_opsz,wght.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Newsreader Italic";
+  src: url(/assets/fonts/Newsreader/Newsreader-Italic-VariableFont_opsz,wght.ttf) format("truetype");
+}
+header {
+  margin: 0;
+  text-align: center;
+  font-family: "Newsreader", serif;
+  font-variation-settings: "opsz" 20;
+}
+
+.break {
+  margin: 6.66vw 0;
+  border-top: 1.5vw #000000 solid;
+}
+
+.booklist {
+  display: flex;
+  flex-direction: column;
+}
+.booklist .book {
+  margin: 2vw 0;
+}
+.booklist .book:first-of-type {
+  margin-top: 0;
+}
+.booklist .book .book__title {
+  font-size: 3.33vw;
+}
+.booklist .book a {
+  color: #000000;
 }
 
 .poem {

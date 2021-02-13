@@ -1075,21 +1075,5 @@ class Poem extends SvelteComponentDev {
   }
 }
 
-async function main() {
-  const url = new URL(
-    new URL('assets/i.txt', import.meta.url).href,
-    import.meta.url
-  );
-  const data = await text(url);
-  const target = document.getElementById('container');
-  const props = {
-    text: data,
-  };
-  new Poem({
-    target,
-    props,
-  });
-}
-
-main();
-//# sourceMappingURL=app.js.map
+export { Poem as P, text as t };
+//# sourceMappingURL=Poem.chunk.js.map

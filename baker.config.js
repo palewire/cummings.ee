@@ -1,6 +1,8 @@
 const entrypoints = [
   // Add more script entrypoints here as needed
-  'app',
+  'index',
+  'book',
+  'poem',
 ];
 
 export default {

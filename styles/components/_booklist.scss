@@ -1,0 +1,18 @@
+@use '../settings/colors';
+
+.booklist {
+  display: flex;
+  flex-direction: column;
+  .book {
+    margin: 2vw 0;
+    &:first-of-type {
+      margin-top: 0;
+    }
+    .book__title {
+      font-size: 3.33vw;
+    }
+    a {
+      color: colors.$black;
+    }
+  }
+}

@@ -1,17 +1,19 @@
 @font-face {
   font-family: 'Newsreader';
-  src: static-url(
-      'assets/fonts/Newsreader/Newsreader-VariableFont_opsz,wght.ttf'
-    )
-    format('truetype');
+  src: static-url('assets/fonts/Newsreader/Newsreader[opsz,wght].woff2')
+      format('woff2 supports variations'),
+    static-url('assets/fonts/Newsreader/Newsreader[opsz,wght].woff2')
+      format('woff2-variations');
+  font-weight: 100 1000;
 }
 
 @font-face {
   font-family: 'Newsreader Italic';
-  src: static-url(
-      'assets/fonts/Newsreader/Newsreader-Italic-VariableFont_opsz,wght.ttf'
-    )
-    format('truetype');
+  src: static-url('assets/fonts/Newsreader/Newsreader-Italic[opsz,wght].woff2')
+      format('woff2 supports variations'),
+    static-url('assets/fonts/Newsreader/Newsreader-Italic[opsz,wght].woff2')
+      format('woff2-variations');
+  font-weight: 100 1000;
 }
 
 $font-family-serif: 'Newsreader', serif;

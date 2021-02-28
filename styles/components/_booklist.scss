@@ -1,9 +1,11 @@
 @use '../settings/colors';
+@use '../settings/fonts';
 
 .booklist {
   display: flex;
   flex-direction: column;
   .book {
+    font-family: fonts.$font-family-serif;
     margin: 2vw 0;
     &:first-of-type {
       margin-top: 0;

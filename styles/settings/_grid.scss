@@ -36,7 +36,9 @@ $mod-2: 1.5; // desktop
 }
 
 html {
-  @include fluid-type(18px, 26px);
+  @include fluid-type(20px, 26px);
+  line-height: 1.4;
+  font-family: fonts.$font-family-serif;
 }
 
 body {
@@ -45,5 +47,5 @@ body {
   width: 100%;
   max-width: $max-width;
   margin: 0;
-  padding: 0 1rem;
+  padding: 1rem;
 }

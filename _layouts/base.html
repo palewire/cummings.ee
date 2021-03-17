@@ -4,6 +4,45 @@
   {% block meta %}
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>{% block title %}{{ meta.seo_headline }}{% endblock title %}</title>
+  <meta name="description" content="{% block description %}{{ meta.seo_description }}{% endblock description %}">
+
+  {% block canonical_url %}<link rel="canonical" href="{{ page.absoluteUrl }}">{% endblock canonical_url %}
+
+  {% block opengraph %}
+  <meta property="og:title" content="{{ meta.social_headline }}">
+  <meta property="og:description" content="{{ meta.social_description }}">
+  <meta property="og:url" content="{{ page.absoluteUrl }}">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="cummings.ee">
+  <meta property="og:locale" content="en_US">
+  {% endblock opengraph %}
+
+  {% block twitter %}
+  <meta property="twitter:title" content="{{ meta.social_headline }}">
+  <meta property="twitter:description" content="{{ meta.social_description }}">
+  <meta property="twitter:url" content="{{ page.absoluteUrl }}">
+  <meta property="twitter:site" content="@palewire">
+  <meta property="twitter:card" content="summary_large_image">
+  {% endblock twitter %}
+
+  {% block ldjson %}
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "{{ meta.seo_headline }}",
+    "mainEntityOfPage": "{{ page.absoluteUrl }}",
+    "description": "{{ meta.seo_description }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "cummings.ee",
+      "url": "{{ DOMAIN }}"
+    }
+  }
+  </script>
+  {% endblock ldjson %}
   {% endblock meta %}
 
   {% block styles %}

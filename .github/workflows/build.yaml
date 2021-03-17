@@ -1,7 +1,8 @@
 name: Build
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - "master"
   workflow_dispatch:
 
 jobs:
@@ -18,11 +19,11 @@ jobs:
           node-version: 14
 
       - name: Install dependencies
-        uses: npm ci
+        run: npm ci
       
       - name: Run
         run: |
-          npm build
+          npm run-script build
           echo 'cummings.ee' > docs/CNAME
 
       - name: Commit

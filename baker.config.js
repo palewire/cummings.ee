@@ -7,6 +7,7 @@ const entrypoints = [
 
 export default {
   domain: 'https://cummings.ee/',
+  output: 'docs',
   entrypoints: `scripts/${
     entrypoints.length > 1 ? `{${entrypoints.join(',')}}` : entrypoints[0]
   }.js`,

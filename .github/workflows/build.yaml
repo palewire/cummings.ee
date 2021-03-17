@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - "master" # always deploy for branches
+      - "master"
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
           node-version: 14
 
       - name: Install dependencies
-        uses: npm ci
+        run: npm ci
       
       - name: Run
         run: |

@@ -1,7 +1,8 @@
 name: Build
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - "master" # always deploy for branches
   workflow_dispatch:
 
 jobs:

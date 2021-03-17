@@ -2,7 +2,7 @@
 @use '../settings/grid';
 
 header {
-  margin: 1rem 0 2rem 0;
+  margin: 0 0 1rem 0;
   text-align: left;
   font-family: fonts.$font-family-serif;
   h1 {
@@ -12,5 +12,11 @@ header {
     font-weight: 433;
     font-variation-settings: 'opsz' 25;
     line-height: 1.15;
+  }
+}
+
+.intro {
+  p {
+    max-width: grid.$max-width * 0.75;
   }
 }

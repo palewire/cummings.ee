@@ -3,14 +3,25 @@
 
 .booklist {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  margin: 0 -40px; /* grid trick, has to match box margin */
   .book {
     font-family: fonts.$font-family-serif;
-    margin: 2vw 0;
-    &:first-of-type {
-      margin-top: 0;
+    flex: 0 0 auto;
+    height: 325px;
+    width: 225px;
+    margin: 1.5rem 40px;
+    .book__cover {
+      height: 300px;
+      width: 225px;
+      background-color: gray;
     }
     .book__title {
+      margin-top: 0.125rem;
     }
     a {
       color: colors.$black;

@@ -1,5 +1,7 @@
 {% extends 'base.html' %}
 
+{% set meta = copy.index %}
+
 {% block scripts %}
 {% script 'index' %}
 {% endblock scripts %}
@@ -16,7 +18,7 @@
     <div class="break"></div>
     </header>
     <section name="intro" class="intro">
-        <p>A growing collection of the author’s work, as it enters the public domain.</p>
+        <p>{{ copy.index.description }}</p>
     </section>
     <section name="book-list" class="booklist">
     {% for book in books.list %}

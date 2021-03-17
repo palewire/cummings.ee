@@ -25,6 +25,7 @@
     {% if book.is_published == 'true' %}
     <section class="book">
       <a href="/book/{{ book.slug }}/">
+        <div class="book__cover"></div>
         <div class="book__title">{{ book.title }}</div>
       </a>
     </section>

@@ -1,5 +1,6 @@
 @use '../settings/colors';
 @use '../settings/fonts';
+@use '../settings/grid';
 
 .booklist {
   display: flex;
@@ -11,6 +12,7 @@
   margin: 0 -40px; /* grid trick, has to match box margin */
   .book {
     font-family: fonts.$font-family-serif;
+    @include grid.fluid-type(17px, 23px);
     flex: 0 0 auto;
     height: 325px;
     width: 225px;

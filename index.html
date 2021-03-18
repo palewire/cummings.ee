@@ -25,7 +25,9 @@
     {% if book.is_published == 'true' %}
     <section class="book">
       <a href="/book/{{ book.slug }}/">
-        <div class="book__cover"><img src="{% static '/assets/img/' + book.img %}" alt="{{ book.title }}"></div>
+        <div class="book__cover">
+<!--            <img src="{% static '/assets/img/' + book.img %}" alt="{{ book.title }}">-->
+        </div>
         <div class="book__title">{{ book.title }}</div>
       </a>
     </section>

@@ -2,9 +2,8 @@
   "private": true,
   "scripts": {
     "build": "NODE_ENV=production bake build --config",
-    "git-post-merge": "./.hooks/post-merge.sh",
     "git-pre-commit": "lint-staged",
-    "start": "NODE_ENV=development bake serve --config"
+    "start": "NODE_ENV=development bake serve --config --output=_dist/"
   },
   "dependencies": {
     "@datagraphics/baker": "^0.31.1",

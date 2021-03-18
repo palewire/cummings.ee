@@ -296,8 +296,7 @@ header h1 {
 .booklist .book {
   font-family: "Newsreader", serif;
   flex: 0 0 auto;
-  height: 325px;
-  width: 225px;
+  width: 200px;
   margin: 1.5rem 40px;
 }
 .booklist .book {
@@ -305,21 +304,19 @@ header h1 {
 }
 @media screen and (min-width: 320px) {
   .booklist .book {
-    font-size: calc( 17px + 6 * ((100vw - 320px) / 320) );
+    font-size: calc( 17px + 5 * ((100vw - 320px) / 320) );
   }
 }
 @media screen and (min-width: 640px) {
   .booklist .book {
-    font-size: 23px;
+    font-size: 22px;
   }
 }
-.booklist .book .book__cover {
-  height: 300px;
-  width: 225px;
-  background-color: gray;
-}
 .booklist .book .book__title {
-  margin-top: 0.125rem;
+  margin-top: 0.075rem;
+}
+.booklist .book img {
+  width: 100%;
 }
 .booklist .book a {
   color: #000000;

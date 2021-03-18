@@ -12,18 +12,15 @@
   margin: 0 -40px; /* grid trick, has to match box margin */
   .book {
     font-family: fonts.$font-family-serif;
-    @include grid.fluid-type(17px, 23px);
+    @include grid.fluid-type(17px, 22px);
     flex: 0 0 auto;
-    height: 325px;
-    width: 225px;
+    width: 200px;
     margin: 1.5rem 40px;
-    .book__cover {
-      height: 300px;
-      width: 225px;
-      background-color: gray;
-    }
     .book__title {
-      margin-top: 0.125rem;
+      margin-top: 0.075rem;
+    }
+    img {
+      width: 100%;
     }
     a {
       color: colors.$black;

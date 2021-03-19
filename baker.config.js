@@ -7,7 +7,7 @@ const entrypoints = [
 
 export default {
   domain: 'https://cummings.ee/',
-  output: process.env.BAKER_PATH_PREFIX || '_dist',
+  output: process.env.BAKER_OUTPUT || '_dist',
   entrypoints: `scripts/${
     entrypoints.length > 1 ? `{${entrypoints.join(',')}}` : entrypoints[0]
   }.js`,

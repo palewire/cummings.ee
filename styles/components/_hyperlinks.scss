@@ -1,0 +1,9 @@
+@use '../settings/colors';
+
+a {
+  color: colors.$black;
+}
+a:hover {
+  color: colors.$red;
+  text-decoration: none;
+}

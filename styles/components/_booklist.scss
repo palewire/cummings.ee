@@ -12,7 +12,7 @@
   margin: 0 -40px; /* grid trick, has to match box margin */
   .book {
     font-family: fonts.$font-family-serif;
-    @include grid.fluid-type(17px, 22px);
+    @include grid.fluid-type(18px, 20px);
     flex: 0 0 auto;
     width: 200px;
     margin: 1.5rem 40px;
@@ -21,9 +21,10 @@
     }
     img {
       width: 100%;
+      filter: grayscale(1);
     }
-    a {
-      color: colors.$black;
+    img:hover {
+      filter: none;
     }
   }
 }

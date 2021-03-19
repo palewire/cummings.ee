@@ -23,7 +23,7 @@ jobs:
       
       - name: Run
         run: |
-          export BAKER_PATH_PREFIX=docs/ && npm run-script build
+          export BAKER_OUTPUT=docs/ && npm run-script build
           echo 'cummings.ee' > docs/CNAME
 
       - name: Commit

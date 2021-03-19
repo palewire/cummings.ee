@@ -3,7 +3,7 @@
   "scripts": {
     "build": "NODE_ENV=production bake build --config",
     "git-pre-commit": "lint-staged",
-    "start": "NODE_ENV=development bake serve --config --output=_dist/"
+    "start": "NODE_ENV=development bake serve --config"
   },
   "dependencies": {
     "@datagraphics/baker": "^0.31.1",

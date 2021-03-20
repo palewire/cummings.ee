@@ -13,4 +13,11 @@ export default {
   }.js`,
   pathPrefix:
     process.env.BAKER_PATH_PREFIX || process.env.DELIVERY_BASE_PATH || '/',
+  // use createPages to generate pages on the fly
+  createPages(createPage, data) {
+    const books = data.books.list;
+    for (const d of books) {
+      createPage('book_detail.html', `/book/${d.slug}`, { book: d });
+    }
+  },
 };

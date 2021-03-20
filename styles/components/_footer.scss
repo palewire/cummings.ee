@@ -1,0 +1,8 @@
+@use '../settings/grid';
+
+.footer {
+  p {
+    @include grid.fluid-type(12px, 14px);
+    max-width: grid.$max-width * 0.75;
+  }
+}

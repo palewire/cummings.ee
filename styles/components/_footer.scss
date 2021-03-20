@@ -1,6 +1,13 @@
 @use '../settings/grid';
 
-.footer {
+main {
+  padding-bottom: 1.25rem;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 1.25rem;
   p {
     @include grid.fluid-type(12px, 14px);
     max-width: grid.$max-width * 0.75;

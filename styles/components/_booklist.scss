@@ -23,6 +23,11 @@
       width: 100%;
       filter: grayscale(1);
     }
+    a:hover {
+      img {
+        filter: none;
+      }
+    }
     img:hover {
       filter: none;
     }

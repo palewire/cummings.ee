@@ -46,5 +46,8 @@ body {
   box-sizing: border-box;
   width: 100%;
   margin: 0;
-  padding: 1rem;
+  min-height: 100vh;
+  .container {
+    padding: 1rem;
+  }
 }

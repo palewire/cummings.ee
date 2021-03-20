@@ -7,37 +7,36 @@
 {% endblock scripts %}
 
 {% block content %}
-<main>
-<div id="container" class="container">
-    <header name="header">
-        <h1>
-            <div>e.e.</div>
-            <div>cummings</div>
-            <div>free poetry archive</div>
-        </h1>
-    <div class="break big"></div>
-    </header>
-    <section name="intro" class="intro">
-        <p>{{ copy.index.description }}</p>
-    </section>
-    <section name="book-list" class="booklist">
-        {% for book in books.list %}
-        <section class="book">
-          <a href="/book/{{ book.slug }}/">
-            <div class="book__cover">
-                <img src="{% static '/assets/img/' + book.img %}" alt="{{ book.title }}">
-            </div>
-            <div class="book__title">{{ book.title }}</div>
-          </a>
+<div class="container">
+    <main>
+        <header name="header">
+            <h1>
+                <div>e.e.</div>
+                <div>cummings</div>
+                <div>free poetry archive</div>
+            </h1>
+        <div class="break big"></div>
+        </header>
+        <section name="intro" class="intro">
+            <p>{{ copy.index.description }}</p>
         </section>
-        {% endfor %}
-    </section>
-    <div class="break small"></div>
-    <section name="footer" class="footer">
+        <section name="book-list" class="booklist">
+            {% for book in books.list %}
+            <section class="book">
+              <a href="/book/{{ book.slug }}/">
+                <div class="book__cover">
+                    <img src="{% static '/assets/img/' + book.img %}" alt="{{ book.title }}">
+                </div>
+                <div class="book__title">{{ book.title }}</div>
+              </a>
+            </section>
+            {% endfor %}
+        </section>
+    </main>
+    <footer name="footer" class="footer">
         <p>
             Published by <a href="https://palewi.re/who-is-ben-welsh/">Ben Welsh</a> via <a href="https://github.com/ee-cummings-archive/cummings.ee">GitHub</a>
         </p>
-    </section>
+    </footer>
 </div>
-</main>
 {% endblock %}

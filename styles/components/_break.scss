@@ -1,7 +1,14 @@
 @use '../settings/colors';
 
 .break {
-  margin: 0.66rem 0;
-  border-top: 0.125rem colors.$black solid;
-  max-width: 12rem;
+  &.big {
+    margin: 0.66rem 0;
+    border-top: 0.125rem colors.$black solid;
+    max-width: 12rem;
+  }
+  &.small {
+    margin: 0.33rem 0;
+    border-top: 0.0625rem colors.$black solid;
+    max-width: 10rem;
+  }
 }

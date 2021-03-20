@@ -1,3 +1,26 @@
 {% extends 'base.html' %}
 
 {% set meta = copy.index %}
+
+{% block content %}
+<div class="container">
+    <main>
+        <header name="header">
+            <h1>
+                <div>e.e.</div>
+                <div>cummings</div>
+                <div>free poetry archive</div>
+            </h1>
+        <div class="break big"></div>
+        </header>
+        <section name="intro" class="intro">
+            <p></p>
+        </section>
+    </main>
+    <footer name="footer" class="footer">
+        <p>
+            Published by <a href="https://palewi.re/who-is-ben-welsh/">Ben Welsh</a> as <a href="https://github.com/ee-cummings-archive/cummings.ee">open source</a>
+        </p>
+    </footer>
+</div>
+{% endblock content %}

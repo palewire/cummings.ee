@@ -8,4 +8,4 @@ import { t, P as e } from './Poem.a30b3db3.chunk.js';
     o = document.getElementById('container');
   new e({ target: o, props: { text: a } });
 })();
-//# sourceMappingURL=index.b5bacd3a.js.map
+//# sourceMappingURL=poem.c71353eb.js.map

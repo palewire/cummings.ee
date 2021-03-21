@@ -56,12 +56,21 @@
   {% endblock extra_scripts %}
 </head>
 <body>
-  {% block content %}
-  {% endblock content %}
 
-  <footer role="contentinfo">
-  {% block footer -%}
+  {% block container %}
+  <div class="container">
+    <main>
+    {% block content %}
+    {% endblock content %}
+    </main>
+    {% block footer -%}
+      <footer name="footer" class="footer" role="contentinfo">
+      <p>
+        {{ footer.copy }}
+      </p>
+    </footer>
   {% endblock footer -%}
-  </footer>
+  </div>
+  {% endblock container %}
 </body>
 </html>

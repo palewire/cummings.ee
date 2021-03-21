@@ -1,11 +1,6 @@
 @use '../settings/fonts';
 @use '../settings/grid';
 
-header {
-  margin: 0 0 1rem 0;
-  text-align: left;
-}
-
 .intro {
   p {
     @include grid.fluid-type(20px, 25px);

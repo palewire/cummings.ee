@@ -13,9 +13,12 @@
   .book {
     font-family: fonts.$font-family-serif;
     @include grid.fluid-type(18px, 20px);
+    display: flex;
     flex: 0 0 auto;
     width: 200px;
+    height: 350px;
     margin: 1.5rem 40px;
+    align-items: flex-end;
     .book__title {
       margin-top: 0.075rem;
     }

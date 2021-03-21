@@ -1,0 +1,15 @@
+@use '../settings/fonts';
+@use '../settings/grid';
+
+nav.nav {
+  margin: 0 0 1rem 0;
+  p {
+    @include grid.fluid-type(20px, 32px);
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}

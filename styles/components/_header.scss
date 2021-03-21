@@ -8,7 +8,7 @@ header {
   h1 {
     margin: 0;
     padding: 0;
-    @include grid.fluid-type(38px, 68px);
+    @include grid.fluid-type(34px, 68px);
     font-weight: 433;
     font-variation-settings: 'opsz' 25;
     line-height: 1.15;

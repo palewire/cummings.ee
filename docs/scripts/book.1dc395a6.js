@@ -1,4 +1,4 @@
-import { t, P as e } from './Poem.f3995ae7.chunk.js';
+import { t, P as e } from './Poem.a30b3db3.chunk.js';
 !(async function () {
   const n = new URL(
       new URL('assets/i.269bf91f.txt', import.meta.url).href,
@@ -8,4 +8,4 @@ import { t, P as e } from './Poem.f3995ae7.chunk.js';
     o = document.getElementById('container');
   new e({ target: o, props: { text: a } });
 })();
-//# sourceMappingURL=poem.ecf18c2e.js.map
+//# sourceMappingURL=book.1dc395a6.js.map

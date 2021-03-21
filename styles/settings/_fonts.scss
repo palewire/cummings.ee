@@ -18,3 +18,15 @@
 
 $font-family-serif: 'Newsreader', serif;
 $font-family-italic: 'Newsreader Italic', serif;
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}

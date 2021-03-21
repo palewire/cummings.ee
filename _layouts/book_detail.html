@@ -3,15 +3,11 @@
 {% set meta = copy.index %}
 
 {% block content %}
-    <header name="header">
-        <h1>
-            <div>e.e.</div>
-            <div>cummings</div>
-            <div>free poetry archive</div>
-        </h1>
-    <div class="break big"></div>
-    </header>
-    <section name="intro" class="intro">
-        <p></p>
-    </section>
+<nav class="nav">
+    <p><a href="/">e.e. cummings free poetry archive</a></p>
+    <div class="break small"></div>
+</nav>
+<header class="book">
+    <h1>{{ book.title }}</h1>
+</head>
 {% endblock content %}

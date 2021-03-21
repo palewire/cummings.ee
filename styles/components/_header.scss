@@ -10,6 +10,5 @@ header {
   p {
     @include grid.fluid-type(20px, 25px);
     max-width: grid.$max-width * 0.75;
-    margin: 0 0 2.5rem 0;
   }
 }

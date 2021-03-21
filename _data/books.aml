@@ -2,4 +2,12 @@
 title: tulips and chimneys
 slug: tulips-and-chimneys
 img: tulips-and-chimneys.jpeg
+
+title: &
+slug: ampersand
+img: tulips-and-chimneys.jpeg
+
+title: XLI Poems
+slug: xli-poems
+img: tulips-and-chimneys.jpeg
 []

@@ -7,36 +7,27 @@
 {% endblock scripts %}
 
 {% block content %}
-<div class="container">
-    <main>
-        <header name="header">
-            <h1>
-                <div>e.e.</div>
-                <div>cummings</div>
-                <div>free poetry archive</div>
-            </h1>
-        <div class="break big"></div>
-        </header>
-        <section name="intro" class="intro">
-            <p>{{ copy.index.description }}</p>
+    <header name="header">
+        <h1>
+            <div>e.e.</div>
+            <div>cummings</div>
+            <div>free poetry archive</div>
+        </h1>
+    <div class="break big"></div>
+    </header>
+    <section name="intro" class="intro">
+        <p>{{ copy.index.description }}</p>
+    </section>
+    <section name="book-list" class="booklist">
+        {% for book in books.list %}
+        <section class="book">
+          <a href="/book/{{ book.slug }}/">
+            <div class="book__cover">
+                <img src="{% static '/assets/img/' + book.img %}" alt="{{ book.title }}">
+            </div>
+            <div class="book__title">{{ book.title }}</div>
+          </a>
         </section>
-        <section name="book-list" class="booklist">
-            {% for book in books.list %}
-            <section class="book">
-              <a href="/book/{{ book.slug }}/">
-                <div class="book__cover">
-                    <img src="{% static '/assets/img/' + book.img %}" alt="{{ book.title }}">
-                </div>
-                <div class="book__title">{{ book.title }}</div>
-              </a>
-            </section>
-            {% endfor %}
-        </section>
-    </main>
-    <footer name="footer" class="footer">
-        <p>
-            Published by <a href="https://palewi.re/who-is-ben-welsh/">Ben Welsh</a> as <a href="https://github.com/ee-cummings-archive/cummings.ee">open source</a>
-        </p>
-    </footer>
-</div>
+        {% endfor %}
+    </section>
 {% endblock %}

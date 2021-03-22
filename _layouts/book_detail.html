@@ -4,13 +4,16 @@
 
 {% block content %}
 <nav class="nav">
-    <p><a href="/">e.e. cummings free poetry archive</a></p>
-    <div class="break small"></div>
+  <p><a href="/">e.e. cummings free poetry archive</a></p>
+  <div class="break small"></div>
 </nav>
 <header class="book">
-    <h1>{{ book.title }}</h1>
+  <h1>{{ book.title }}</h1>
 </header>
 <section name="intro" class="intro">
-    <p>{{ book.description }}</p>
+  <p>{{ book.description }}</p>
+</section>
+<section name="toc" class="toc">
+  {{ toc[book.slug]|dump }}
 </section>
 {% endblock content %}

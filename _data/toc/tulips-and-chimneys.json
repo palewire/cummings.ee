@@ -1,3 +1,43 @@
-{
-  "name": "Tulips"
-}
+[
+    {
+      "name": "Tulips",
+      "slug": "tulips",
+      "children": [
+        {
+          "name": "Chansons Innocentes",
+          "slug": "chansons-innocentes",
+          "children": [
+            {
+                "name": "I",
+                "slug": "i"
+            },
+            {
+                "name": "II",
+                "slug": "ii"
+            },
+            {
+                "name": "III",
+                "slug": "iii"
+            },
+            {
+                "name": "IV",
+                "slug": "iv"
+            },
+            {
+                "name": "V",
+                "slug": "v"
+            }
+          ]
+        },
+        {
+          "name": "Of Nicolette",
+          "slug": "of-nicolette"
+        }
+      ]
+    },
+    {
+      "name": "Chimneys",
+      "slug": "chimneys",
+      "children": []
+    }
+]

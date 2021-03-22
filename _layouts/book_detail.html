@@ -14,6 +14,20 @@
   <p>{{ book.description }}</p>
 </section>
 <section name="toc" class="toc">
-  {{ toc[book.slug]|dump }}
+  <ul>
+  {% for level1 in toc[book.slug] %}
+    <li>{{ level1.name }}</li>
+    <ul>
+    {% for level2 in level1.children %}
+      <li>{{ level2.name }}</li>
+      <ul>
+        {% for level3 in level2.children %}
+          <li>{{ level3.name }}</li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+    </ul>
+  {% endfor %}
+  </ul>
 </section>
 {% endblock content %}

@@ -19,6 +19,10 @@
     height: 350px;
     margin: 1.5rem 40px;
     align-items: flex-end;
+    @media (max-width: 768px) {
+      align-items: flex-start;
+      height: auto;
+    }
     .book__title {
       margin-top: 0.075rem;
     }

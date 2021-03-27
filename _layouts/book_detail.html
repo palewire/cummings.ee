@@ -11,7 +11,10 @@
   <h1>{{ book.title }}</h1>
 </header>
 <section name="intro" class="intro">
-  <p>{{ book.description }}</p>
+  <p>
+    {{ book.description }}
+    {% if book.public_domain == 'false' %}Until then, it remains protected by copyright and cannot be republished here.{% endif %}
+  </p>
 </section>
 <section name="toc" class="toc">
   <ul class="level1">

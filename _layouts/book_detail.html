@@ -14,13 +14,13 @@
   <p>{{ book.description }}</p>
 </section>
 <section name="toc" class="toc">
-  <ul>
+  <ul class="level1">
   {% for level1 in toc[book.slug] %}
     <li>{{ level1.name }}</li>
-    <ul>
+    <ul class="level2">
     {% for level2 in level1.children %}
       <li>{{ level2.name }}</li>
-      <ul>
+      <ul class="level3">
         {% for level3 in level2.children %}
           <li>{{ level3.name }}</li>
         {% endfor %}

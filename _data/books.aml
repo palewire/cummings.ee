@@ -3,14 +3,71 @@ title: tulips and chimneys
 slug: tulips-and-chimneys
 img: tulips-and-chimneys.jpg
 description: This 1923 release, published by <a href="https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)">Thomas Seltzer</a>, was Cummings’s first published book of verse. It entered the public domain in 2019.
+public_domain: true
 
 title: &
 slug: ampersand
 img: ampersand.jpg
 description: This 1925 self-published release featured poems cut from <a href="/book/tulips-and-chimneys/">tulips and chimneys</a>. It entered the public domain in 2021.
+public_domain: true
 
 title: XLI Poems
 slug: xli-poems
 img: xli-poems.jpg
 description: Published by The Dial Press is 1925, this book entered the public domain in 2021.
+public_domain: true
+
+title: is 5
+slug: is-5
+img: xli-poems.jpg
+description: Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022.
+public_domain: false
+
+title: ViVa
+slug: viva
+img: xli-poems.jpg
+description: Published in 1930 by Liveright, this book will enter the public domain in 2026. 
+public_domain: false
+
+title: No Thanks
+slug: no-thanks
+img: xli-poems.jpg
+description: Published in 1935 by Golden Eagle Press, this book will enter the public domain in 2031.
+public_domain: false
+
+title: 1/20
+slug: 1-20
+img: xli-poems.jpg
+description: Published in 1936 by Roger Roughton, this book will enter the public domain in 2032.
+public_domain: false
+
+title: 50 Poems
+slug: 50-poems
+img: xli-poems.jpg
+description: Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036.
+public_domain: false
+
+title: 1 x 1
+slug: 1-x-1
+img: xli-poems.jpg
+description: Published in 1944 by Holt, this book will enter the public domain in 2040.
+public_domain: false
+
+title: XAIPE
+slug: xaipe
+img: xli-poems.jpg
+description: Published in 1950 by Oxford University Press, this book will enter the public domain in 2046.
+public_domain: false
+
+title: 95 Poems
+slug: 95-poems
+img: xli-poems.jpg
+description: Published in 1958 by Oxford University Press, this book will enter the public domain in 2054.
+public_domain: false
+
+title: 73 Poems
+slug: 73-poems
+img: xli-poems.jpg
+description: Published in 1963 by Harcourt, this book will enter the public domain in 2059.
+public_domain: false
 []

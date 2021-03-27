@@ -20,7 +20,7 @@
 </section>
 <section name="book-list" class="booklist">
     {% for book in books.list %}
-    <section class="book">
+    <section class="book" data-public-domain="{{ book.public_domain }}">
       <a href="/book/{{ book.slug }}/">
         <div class="book__cover">
             <img src="{% static '/assets/img/' + book.img %}" alt="{{ book.title }}">

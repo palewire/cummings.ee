@@ -16,7 +16,9 @@
     {% if book.public_domain == 'false' %}Until then, it remains protected by copyright and cannot be republished here.{% endif %}
   </p>
 </section>
+{% if book.public_domain == 'true' %}
 <section name="toc" class="toc">
+  <h2>Table of contents</h2>
   <ul class="level1">
   {% for level1 in toc[book.slug] %}
     <li>{{ level1.name }}</li>
@@ -33,4 +35,5 @@
   {% endfor %}
   </ul>
 </section>
+{% endif %}
 {% endblock content %}

@@ -11,4 +11,9 @@
     border-top: 0.06875rem colors.$black solid;
     max-width: 15rem;
   }
+  &.footer {
+    margin: 0 0 0.5rem 0;
+    border-top: 0.06875rem colors.$black solid;
+    max-width: 12rem;
+  }
 }

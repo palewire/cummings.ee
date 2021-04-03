@@ -11,14 +11,3 @@ h1 {
   line-height: 1.15;
   display: block;
 }
-
-h2 {
-  font-family: fonts.$font-family-serif;
-  margin: 0;
-  padding: 0;
-  @include grid.fluid-type(22px, 32px);
-  font-weight: 433;
-  font-variation-settings: 'opsz' 25;
-  line-height: 1.15;
-  display: block;
-}

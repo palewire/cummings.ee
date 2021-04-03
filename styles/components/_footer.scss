@@ -1,15 +1,14 @@
 @use '../settings/grid';
 
 main {
-  padding-bottom: 1.25rem;
+  padding-bottom: 2rem;
 }
 
 footer {
   position: absolute;
-  bottom: 0;
-  height: 1.25rem;
+  bottom: 1rem;
+  height: 2rem;
   p {
-    @include grid.fluid-type(12px, 14px);
-    max-width: grid.$max-width * 0.75;
+    @include grid.fluid-type(14px, 18px);
   }
 }

@@ -39,10 +39,16 @@
     &[data-public-domain='false'] {
       img {
         filter: grayscale(1);
+        opacity: 0.5;
+      }
+      a {
+        color: colors.$gray;
       }
       a:hover {
+        color: colors.$black;
         img {
           filter: none;
+          opacity: 1;
         }
       }
       img:hover {

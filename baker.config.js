@@ -1,6 +1,6 @@
 const entrypoints = [];
 
-export function parsePoem(text) {
+function parsePoem(text) {
   if (!text) {
     return [];
   }
@@ -21,7 +21,7 @@ export function parsePoem(text) {
   return stanzaList;
 }
 
-export function parseClass(text) {
+function parseClass(text) {
   if (text.startsWith('# ')) {
     return 'title';
   } else {
@@ -29,7 +29,7 @@ export function parseClass(text) {
   }
 }
 
-export function parseText(text) {
+function parseText(text) {
   return text.replace('# ', '').replace(' ', '&nbsp;');
 }
 
@@ -53,6 +53,8 @@ export default {
       createPage('book_detail.html', `/book/${b.slug}/`, { book: b });
       const poems = data.poems[b.slug] || {};
       for (const [slug, p] of Object.entries(poems)) {
+        p.book = b;
+        p.slug = slug;
         createPage('poem_detail.html', `/book/${b.slug}/poem/${slug}/`, {
           book: b,
           poem: p,

@@ -1,11 +1,37 @@
-const entrypoints = [
-  // Add more script entrypoints here as needed
-  'index',
-  'book',
-  'poem',
-];
+const entrypoints = [];
 
-const fs = require('fs');
+export function parsePoem(text) {
+  if (!text) {
+    return [];
+  }
+  const lines = text.split(/\r?\n/);
+  let stanzaList = [];
+  let thisStanza = [];
+  lines.forEach((l) => {
+    if (l.trim().length == 0) {
+      stanzaList.push(thisStanza);
+      thisStanza = [];
+    } else {
+      thisStanza.push({
+        text: parseText(l),
+        class: parseClass(l),
+      });
+    }
+  });
+  return stanzaList;
+}
+
+export function parseClass(text) {
+  if (text.startsWith('# ')) {
+    return 'title';
+  } else {
+    return 'line';
+  }
+}
+
+export function parseText(text) {
+  return text.replace('# ', '').replace(' ', '&nbsp;');
+}
 
 export default {
   domain: 'https://cummings.ee/',
@@ -15,16 +41,14 @@ export default {
   }.js`,
   pathPrefix:
     process.env.BAKER_PATH_PREFIX || process.env.DELIVERY_BASE_PATH || '/',
+  nunjucksFilters: {
+    parsePoem,
+    parseClass,
+    parseText,
+  },
   // use createPages to generate pages on the fly
   createPages(createPage, data) {
     const books = data.books.list;
-    fs.writeFile('output.json', JSON.stringify(data), 'utf8', function (err) {
-      if (err) {
-        console.log('An error occured while writing JSON Object to File.');
-        return console.log(err);
-      }
-      console.log('JSON file has been saved.');
-    });
     for (const b of books) {
       createPage('book_detail.html', `/book/${b.slug}/`, { book: b });
       const poems = data.poems[b.slug] || {};

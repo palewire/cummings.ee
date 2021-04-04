@@ -8,9 +8,15 @@
   <div class="break small"></div>
 </nav>
 <header class="poem">
-  <h1>Poem title</h1>
+  <h1>{{ poem.title }}</h1>
 </header>
 <section class="poem">
-  {{ poem|dump }}
+  {% for stanza in poem.text|parsePoem %}
+  <section class="stanza">
+    {% for line in stanza %}
+      <p class="{{ line.class }}">{{ line.text }}</p>
+    {% endfor %}
+  </section>
+  {% endfor %}
 </section>
 {% endblock content %}

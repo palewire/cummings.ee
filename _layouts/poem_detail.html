@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% set meta = book %}
+
+{% block content %}
+<nav class="nav">
+  <p><a href="/">e.e. cummings free poetry archive</a></p>
+  <div class="break small"></div>
+</nav>
+<header class="poem">
+  <h1>Poem title</h1>
+</header>
+<section class="poem">
+  {{ poem|dump }}
+</section>
+{% endblock content %}

@@ -11,5 +11,7 @@
   }
   .line {
     @include grid.fluid-type(18px, 25px);
+    text-indent: -1em;
+    padding-left: 1em;
   }
 }

@@ -14,7 +14,7 @@
   {% for stanza in poem.text|parsePoem %}
   <section class="stanza">
     {% for line in stanza %}
-      <p class="{{ line.class }}">{{ line.text }}</p>
+      <div class="{{ line.class }}">{{ line.text }}<br/></div>
     {% endfor %}
   </section>
   {% endfor %}

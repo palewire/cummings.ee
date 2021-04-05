@@ -1,20 +1,15 @@
+@use '../settings/colors';
+@use '../settings/fonts';
+@use '../settings/grid';
+
 .poem {
-  font-weight: 400;
-  font-family: monospace;
-  font-size: 5rem;
+  font-family: fonts.$font-family-serif;
   color: #222;
-  margin: 5rem 0;
+  margin: 0 0 0.5rem 0;
   .stanza {
-    margin: 10rem 0;
-    &:first-of-type {
-      margin-top: 0;
-    }
-  }
-  .title {
-    font-size: 6rem;
+    margin: 0 0 1.25rem 0;
   }
   .line {
-    font-size: 3rem;
-    line-height: 4rem;
+    @include grid.fluid-type(20px, 25px);
   }
 }

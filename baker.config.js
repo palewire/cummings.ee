@@ -1,9 +1,6 @@
-const fs = require('fs');
-
 const entrypoints = [];
 
 function parsePoem(text) {
-  console.log(text);
   if (!text) {
     return [];
   }
@@ -48,6 +45,7 @@ export default {
       createPage('book_detail.html', `/book/${b.slug}/`, { book: b });
       const poems = data.poems[b.slug] || {};
       for (const [slug, p] of Object.entries(poems)) {
+        p.slug = slug;
         createPage('poem_detail.html', `/book/${b.slug}/poem/${slug}/`, {
           book: b,
           poem: p,

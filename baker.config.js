@@ -1,6 +1,9 @@
+const fs = require('fs');
+
 const entrypoints = [];
 
 function parsePoem(text) {
+  console.log(text);
   if (!text) {
     return [];
   }
@@ -14,19 +17,12 @@ function parsePoem(text) {
     } else {
       thisStanza.push({
         text: parseText(l),
-        class: parseClass(l),
+        class: 'line',
       });
     }
   });
+  stanzaList.push(thisStanza);
   return stanzaList;
-}
-
-function parseClass(text) {
-  if (text.startsWith('# ')) {
-    return 'title';
-  } else {
-    return 'line';
-  }
 }
 
 function parseText(text) {
@@ -43,7 +39,6 @@ export default {
     process.env.BAKER_PATH_PREFIX || process.env.DELIVERY_BASE_PATH || '/',
   nunjucksFilters: {
     parsePoem,
-    parseClass,
     parseText,
   },
   // use createPages to generate pages on the fly
@@ -53,8 +48,6 @@ export default {
       createPage('book_detail.html', `/book/${b.slug}/`, { book: b });
       const poems = data.poems[b.slug] || {};
       for (const [slug, p] of Object.entries(poems)) {
-        p.book = b;
-        p.slug = slug;
         createPage('poem_detail.html', `/book/${b.slug}/poem/${slug}/`, {
           book: b,
           poem: p,

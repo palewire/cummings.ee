@@ -20,3 +20,13 @@
   {% endfor %}
 </section>
 {% endblock content %}
+
+{% block footer -%}
+<footer name="footer" class="footer" role="contentinfo">
+  <div class="break footer"></div>
+  <p>The poem was first published in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.” It is also avaiable in <a href="https://github.com/ee-cummings-archive/cummings.ee/tree/master/_data/poems/{{ book.slug }}/{{ poem.slug }}.yaml">YAML</a> format.
+  <p>
+    {{ footer.copy }}
+  </p>
+</footer>
+{% endblock footer -%}

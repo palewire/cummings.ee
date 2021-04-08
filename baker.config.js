@@ -26,6 +26,14 @@ function parseText(text) {
   return text.replace('# ', '').replace(' ', '&nbsp;');
 }
 
+function getChildren(node) {
+  if (node.children) {
+    return node.children.map(getChildren).flat();
+  } else {
+    return node;
+  }
+}
+
 export default {
   domain: 'https://cummings.ee/',
   output: process.env.BAKER_OUTPUT || '_dist',
@@ -41,17 +49,23 @@ export default {
   // use createPages to generate pages on the fly
   createPages(createPage, data) {
     const books = data.books.list;
-    for (const b of books) {
-      createPage('book_detail.html', `/book/${b.slug}/`, { book: b });
-      const poems = data.poems[b.slug] || {};
-      for (const [slug, p] of Object.entries(poems)) {
-        p.slug = slug;
-        createPage('poem_detail.html', `/book/${b.slug}/poem/${slug}/`, {
-          book: b,
-          poem: p,
+    for (const book of books) {
+      const toc = data.toc[book.slug] || [];
+      const allPoems = toc.map(getChildren).flat();
+      const availablePoems = data.poems[book.slug] || {};
+      for (const [slug, poem] of Object.entries(availablePoems)) {
+        poem.slug = slug;
+        createPage('poem_detail.html', `/book/${book.slug}/poem/${slug}/`, {
+          book,
+          poem,
           slug: slug,
         });
       }
+      createPage('book_detail.html', `/book/${book.slug}/`, {
+        book,
+        allPoems,
+        availablePoems,
+      });
     }
   },
 };

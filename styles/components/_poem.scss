@@ -10,7 +10,7 @@
     margin: 0 0 1.25rem 0;
   }
   .line {
-    @include grid.fluid-type(18px, 25px);
+    @include grid.fluid-type(16px, 25px);
     text-indent: -1em;
     padding-left: 1em;
   }

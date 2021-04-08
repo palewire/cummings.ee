@@ -19,15 +19,15 @@
     <p>{{ index.description }} Three books are now available.</p>
 </section>
 <section name="book-list" class="booklist">
-    {% for book in books.list %}
-    <section class="book" data-public-domain="{{ book.public_domain }}">
-      <a href="/book/{{ book.slug }}/">
-        <div class="book__cover">
-            <img src="{% static '/assets/img/' + book.img %}" alt="The book ‘{{ book.title }} >’ {% if book.public_domain %}is{% else %}is not{% endif %} in the public domain.">
-        </div>
-        <div class="book__title">{{ book.title }}</div>
-      </a>
-    </section>
-    {% endfor %}
+  {% for book in books.list %}
+  <section class="book" data-public-domain="{{ book.public_domain }}">
+    <a href="/book/{{ book.slug }}/">
+      <div class="book__cover">
+          <img src="{% static '/assets/img/' + book.img %}" alt="The book ‘{{ book.title }} >’ {% if book.public_domain %}is{% else %}is not{% endif %} in the public domain.">
+      </div>
+      <div class="book__title">{{ book.title }}</div>
+    </a>
+  </section>
+  {% endfor %}
 </section>
 {% endblock %}

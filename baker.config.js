@@ -54,6 +54,15 @@ export default {
       const allPoems = toc.map(getChildren).flat();
       const availablePoems = data.poems[book.slug] || {};
       for (const [slug, poem] of Object.entries(availablePoems)) {
+        const index = allPoems.findIndex((e, i) => e.slug === slug);
+        const previousIndex = allPoems[index - 1];
+        if (previousIndex) {
+          poem.previous_poem = availablePoems[previousIndex.slug] || {};
+        }
+        const nextIndex = allPoems[index + 1];
+        if (nextIndex) {
+          poem.next_poem = availablePoems[nextIndex.slug] || {};
+        }
         poem.slug = slug;
         createPage('poem_detail.html', `/book/${book.slug}/poem/${slug}/`, {
           book,

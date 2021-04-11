@@ -30,6 +30,12 @@
 <footer name="footer" class="footer" role="contentinfo">
   <div class="break footer"></div>
   <p>The poem was first published in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.” It is also available in <a href="https://github.com/ee-cummings-archive/cummings.ee/tree/master/_data/poems/{{ book.slug }}/{{ poem.slug }}.yaml">YAML</a> format.
+  {% if poem.previous_poem.slug %}
+    <p>The previous poem is “<a href="/book/{{ book.slug }}/poem/{{ poem.previous_poem.slug }}/">{{ poem.previous_poem.title }}</a>.”</p>
+  {% endif %}
+  {% if poem.next_poem.slug %}
+    <p>The next poem is “<a href="/book/{{ book.slug }}/poem/{{ poem.next_poem.slug }}/">{{ poem.next_poem.title }}</a>.”</p>
+  {% endif %}
   <p>
     {{ footer.copy }}
   </p>

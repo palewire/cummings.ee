@@ -7,18 +7,23 @@
   <p><a href="/">e.e. cummings free poetry archive</a></p>
   <div class="break small"></div>
 </nav>
-<header class="poem--title">
-  <h1>{{ poem.title }}</h1>
-</header>
-<section class="poem">
-  {% for stanza in poem.text|parsePoem %}
-  <section class="stanza">
+<article>
+  <header class="poem--title">
+    <h1>{{ poem.title }}</h1>
+  </header>
+  <section class="poem">
+    {% for stanza in poem.text|parsePoem %}
+    <p class="stanza">
     {% for line in stanza %}
-      <div class="{{ line.class }}">{{ line.text }}<br/></div>
+      <span class="{{ line.class }}">
+        {{ line.text }}
+      </span>
+      <br/>
+    {% endfor %}
+    </p>
     {% endfor %}
   </section>
-  {% endfor %}
-</section>
+</article>
 {% endblock content %}
 
 {% block footer -%}

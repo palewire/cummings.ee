@@ -12,13 +12,10 @@
     <h1>{{ poem.title }}</h1>
   </header>
   <section class="poem">
-    {% for stanza in poem.text|parsePoem %}
+    {% for stanza in poem.text|parsePoem -%}
     <p class="stanza">
-    {% for line in stanza %}
-      <span class="{{ line.class }}">
-        {{ line.text }}
-      </span>
-      <br/>
+    {% for line in stanza -%}
+      <span class="{{ line.class }}">{{ line.text }}</span><br/>
     {% endfor %}
     </p>
     {% endfor %}

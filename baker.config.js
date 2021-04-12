@@ -23,7 +23,7 @@ function parsePoem(text) {
 }
 
 function parseText(text) {
-  return text.replace('# ', '').replace(' ', '&nbsp;');
+  return text;
 }
 
 function getChildren(node) {

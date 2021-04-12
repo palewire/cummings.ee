@@ -13,9 +13,15 @@
     @include grid.fluid-type(16px, 25px);
     line-height: 1.3;
     .line {
+      white-space: pre-wrap;
       text-indent: -1em;
       padding-left: 1em;
       display: inline-block;
+    }
+  }
+  &.nowrap {
+    .line {
+      white-space: pre;
     }
   }
 }

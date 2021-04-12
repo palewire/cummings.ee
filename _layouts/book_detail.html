@@ -50,3 +50,13 @@
 </section>
 {% endif %}
 {% endblock content %}
+
+{% block footer -%}
+<footer name="footer" class="footer" role="contentinfo">
+  <div class="break footer"></div>
+  {% if book.source %}
+    <p>{{ book.source }}</p>
+  {% endif %}
+  <p>{{ footer.copy }}</p>
+</footer>
+{% endblock footer -%}

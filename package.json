@@ -6,7 +6,7 @@
     "start": "NODE_ENV=development bake serve --config"
   },
   "dependencies": {
-    "@datagraphics/baker": "^0.31.2",
+    "@datagraphics/baker": "github:datadesk/baker#minify",
     "@datagraphics/delivery": "^0.6.0",
     "archieml": "^0.4.2",
     "d3-fetch": "^2.0.0",

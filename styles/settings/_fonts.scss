@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'Newsreader';
-  src: static-url('assets/fonts/Newsreader/Newsreader[opsz,wght].woff2')
+  src: static-url('./assets/fonts/Newsreader/Newsreader[opsz,wght].woff2')
       format('woff2 supports variations'),
-    static-url('assets/fonts/Newsreader/Newsreader[opsz,wght].woff2')
+    static-url('./assets/fonts/Newsreader/Newsreader[opsz,wght].woff2')
       format('woff2-variations');
   font-weight: 100 1000;
   font-display: swap;
@@ -10,9 +10,11 @@
 
 @font-face {
   font-family: 'Newsreader Italic';
-  src: static-url('assets/fonts/Newsreader/Newsreader-Italic[opsz,wght].woff2')
+  src: static-url(
+        './assets/fonts/Newsreader/Newsreader-Italic[opsz,wght].woff2'
+      )
       format('woff2 supports variations'),
-    static-url('assets/fonts/Newsreader/Newsreader-Italic[opsz,wght].woff2')
+    static-url('./assets/fonts/Newsreader/Newsreader-Italic[opsz,wght].woff2')
       format('woff2-variations');
   font-weight: 100 1000;
   font-display: swap;

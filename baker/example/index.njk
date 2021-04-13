@@ -1,0 +1,21 @@
+{% extends 'base.njk' %}
+
+{% block content %}
+  Our favorite type of dog is always {{ meta.breed }} {{ "5000"|intcomma }}.
+
+  <p>This text should have a different font! {{ '2018-05-10'|date('yyyy-MM-dd HH:mm:ss') }}</p>
+  <div class="bg-image"></div>
+  <div id="svelte"></div>
+  <div id="preact"></div>
+
+  {% staticabsolute 'styles/main.scss' %}
+
+  {% static 'assets/demo.json' %}
+
+  <img src="{% static 'https://via.placeholder.com/150' %}">
+
+  {% if NODE_ENV == 'production' %}
+  We are in production!
+  {% endif %}
+  {{ page|log }}
+{% endblock content %}

@@ -12,8 +12,7 @@
     "bake": "./bin/bake.js"
   },
   "scripts": {
-    "build": "./bin/bake.js build --config example/baker.config.js",
-    "build:simple": "./bin/bake.js build --config example-simple/baker.config.js",
+    "build": "NODE_ENV=production bake build --config",
     "git-pre-commit": "precise-commits",
     "release": "np --no-yarn --no-tests",
     "serve:simple": "NODE_ENV=development ./bin/bake.js serve --config example-simple/baker.config.js",

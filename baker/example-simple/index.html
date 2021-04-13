@@ -1,0 +1,16 @@
+{% extends 'template.html' %}
+
+{% block styles %}
+<link rel="stylesheet" href="{% static 'styles/main.scss' %}" />
+{% endblock styles %}
+
+{% block content %}
+{{ 4|square }}
+{{ 4|log }}
+{{ 5|logContext }}
+{% doubler 20 %}
+
+{% logger 1, 2, three=true %}
+
+{% delay 3000 %}
+{% endblock content %}

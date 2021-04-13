@@ -1,0 +1,30 @@
+@import 'variables';
+@import 'type';
+
+@font-face {
+  font-family: 'Benton Gothic';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: static-url('assets/fonts/benton-gothic-regular.woff2') format('woff2'),
+    static-url('assets/fonts/benton-gothic-regular.woff') format('woff');
+}
+
+body {
+  background-color: $color;
+  font-family: $font-family;
+}
+
+.bg-image {
+  background-image: static-url('assets/images/corgi.jpg');
+  width: 400px;
+  height: 400px;
+}
+
+p {
+  font-family: 'Benton Gothic';
+}
+
+select {
+  appearance: none;
+}

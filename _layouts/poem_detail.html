@@ -11,7 +11,7 @@
   <header class="poem--title">
     <h1>{{ poem.title }}</h1>
   </header>
-  <section class="poem">
+  <section class="poem{% if poem.nowrap %} nowrap{% endif %}">
     {% for stanza in poem.text|parsePoem -%}
     <p class="stanza">
     {% for line in stanza -%}

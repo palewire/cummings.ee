@@ -1,4 +1,4 @@
-const entrypoints = [];
+const entrypoints = ['poem'];
 
 function parsePoem(text) {
   if (!text) {

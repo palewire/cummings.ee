@@ -1,0 +1,1691 @@
+id,contractNum,inmateDeathAmt,inmateDeathHcon,inmateRecoveries,inmatePositiveAmt,staffPositiveAmt,staffRecoveries,staffDeathAmt,update_date
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2020-12-23
+"Portland, OR",additional_52,0,0,1,1,0,0,0,2020-12-23
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2020-12-23
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2020-12-23
+"Tacoma, WA",additional_109,0,0,0,1,0,0,0,2020-12-23
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2020-12-23
+"Boston, MA",15BRRC20D00000046,0,0,2,4,0,0,0,2020-12-23
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2020-12-23
+"Washington, DC",additional_110,0,0,0,1,0,0,0,2020-12-23
+"Detriot, MI",15BRRC19D00000203,0,0,0,4,0,0,0,2020-12-23
+"Nashville, TN",additional_103,0,0,1,2,0,0,0,2020-12-23
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2020-12-23
+"Memphis, TN",additional_45,0,0,4,15,0,0,0,2020-12-23
+"St Albans, WV",additional_113,0,0,0,10,0,0,0,2020-12-23
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2020-12-23
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2020-12-23
+"Baltimore, MD",additional_53,0,0,2,14,0,0,0,2020-12-23
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2020-12-23
+"Harrisburg, PA",additional_101,0,0,2,4,0,0,0,2020-12-23
+"Philadelphia, PA",15BRRC19D00000194,0,0,11,2,0,0,0,2020-12-23
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2020-12-23
+"Rochester,NY",15BRRC19D00000218,0,0,1,8,0,0,0,2020-12-23
+"Pittsburgh, PA",additional_114,0,0,0,1,0,0,0,2020-12-23
+"Cleveland, OH",additional_49,0,0,2,1,0,0,0,2020-12-23
+"Hartford, CT",15BRRC20D00000297,0,0,0,1,0,0,0,2020-12-23
+"Louisville, KY",additional_86,0,0,3,2,0,0,0,2020-12-23
+"West Palm Beach, FL",additional_60,0,0,10,1,0,0,0,2020-12-23
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2020-12-23
+"Dania, FL",15BRRC19D00000208,0,0,4,0,0,0,0,2020-12-23
+"Birmingham, AL",15BRRC19D00000207,0,0,0,2,0,0,0,2020-12-23
+"Miami, FL",additional_41,0,0,3,1,0,0,0,2020-12-23
+"Chattanooga, TN",additional_25,0,0,5,1,0,0,0,2020-12-23
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2020-12-23
+"Florence, SC",additional_81,0,0,1,10,0,0,0,2020-12-23
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2020-12-23
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2020-12-23
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2020-12-23
+"Tampa, FL",additional_18,0,0,4,0,0,0,0,2020-12-23
+"Columbia, SC",additional_108,0,0,0,3,0,0,0,2020-12-23
+"Miami, FL",additional_100,0,0,1,0,0,0,0,2020-12-23
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2020-12-23
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2020-12-23
+"Minneapolis, MN",15BRRC20D00000275,0,0,9,0,0,0,0,2020-12-23
+"Janesville, WI",additional_106,0,0,0,3,0,0,0,2020-12-23
+"Youngstown, OH",additional_102,0,0,1,2,0,0,0,2020-12-23
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2020-12-23
+"Indianapolis, IN",additional_16,0,0,5,1,0,0,0,2020-12-23
+"Marion, IL",additional_92,0,0,2,0,0,0,0,2020-12-23
+"Chicago, IL",15BRRC18D00000091,0,0,12,1,0,0,0,2020-12-23
+"Peoria, IL",additional_90,0,0,6,1,0,0,0,2020-12-23
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2020-12-23
+"Grand Rapids, MI",15BRRC19D00000005,0,0,2,4,0,0,0,2020-12-23
+"Rapid City, SD",additional_11,0,0,1,1,0,0,0,2020-12-23
+"Brownsville, TX",additional_31,1,1,1,1,0,0,0,2020-12-23
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2020-12-23
+"Hutchins, TX",15BRRC19D00000185,1,0,13,1,0,0,0,2020-12-23
+"Fort Worth, TX",additional_46,0,0,1,0,0,0,0,2020-12-23
+"San Antonio, TX",additional_19,0,0,13,2,0,0,0,2020-12-23
+"Tyler,TX",additional_65,0,0,10,0,0,0,0,2020-12-23
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2020-12-23
+"Houston, TX",DJB200242,2,0,9,6,0,0,0,2020-12-23
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2020-12-23
+"Del Rio, TX",additional_42,0,0,6,1,0,0,0,2020-12-23
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2020-12-23
+"Edinburg, TX",additional_35,0,0,14,14,0,0,0,2020-12-23
+"Albuquerque, NM",additional_13,0,0,32,2,0,0,0,2020-12-23
+"Midland, TX",additional_50,0,0,11,1,0,0,0,2020-12-23
+"Laredo, TX",additional_24,0,0,1,2,0,0,0,2020-12-23
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2020-12-23
+"Farmington, MO",15BRRC19D00000148,0,0,2,0,0,0,0,2020-12-23
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2020-12-23
+"Sioux City, IA",additional_22,0,0,1,1,0,0,0,2020-12-23
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2020-12-23
+"Roseville, MN",additional_68,0,0,6,1,0,0,0,2020-12-23
+"Toledo, OH",DJB200236,0,0,0,3,0,0,0,2020-12-23
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2020-12-23
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2020-12-23
+"Omaha, NE",additional_62,0,0,6,1,0,0,0,2020-12-23
+"Denver, CO",additional_89,1,0,5,1,0,0,0,2020-12-23
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2020-12-23
+"Leavenworth, KS",15BRRC19D00000149,0,0,28,1,0,0,0,2020-12-23
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2020-12-23
+"Boise, ID",additional_87,0,0,1,8,0,0,0,2020-12-23
+"Mills, WY",additional_97,0,0,3,3,0,0,0,2020-12-23
+"Great Falls, MT",additional_85,0,0,7,0,0,0,0,2020-12-23
+"Devils Lake, ND",additional_104,0,0,2,2,0,0,0,2020-12-23
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2020-12-23
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2020-12-23
+"Billings, MT",additional_44,0,0,3,0,0,0,0,2020-12-23
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2020-12-23
+"Van Nuys, CA",additional_58,0,0,2,0,0,0,0,2020-12-23
+"Tucson, AZ",additional_29,0,0,1,6,0,0,0,2020-12-23
+"San Diego, CA",additional_12,0,0,10,3,0,0,0,2020-12-23
+"Las Vegas, NV",additional_28,0,0,7,2,0,0,0,2020-12-23
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2020-12-23
+"Los Angeles, CA",additional_111,0,0,0,2,0,0,0,2020-12-23
+"Salt Lake City, UT",additional_38,0,0,23,0,0,0,0,2020-12-23
+"El Monte, CA",additional_51,0,0,1,2,0,0,0,2020-12-23
+"Garden Grove, CA",additional_59,0,0,2,2,0,0,0,2020-12-23
+"Los Angeles, CA",additional_1,0,0,0,2,0,0,0,2020-12-23
+"Rubidoux, CA",additional_67,0,0,2,9,0,0,0,2020-12-23
+"Phoenix, AZ",DJB200252,1,0,4,0,0,0,0,2020-12-23
+"Brawley, CA",additional_21,1,0,9,1,0,0,0,2020-12-23
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2020-12-23
+"Atlanta, GA",additional_30,0,0,3,1,0,0,0,2020-12-23
+"San Juan, PR",additional_63,0,0,16,0,0,0,0,2020-12-23
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2020-12-23
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2020-12-23
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2020-12-23
+"Brooklyn, NY",15BRRC19D00000249,0,0,5,6,0,0,0,2020-12-23
+"Albany, NY",additional_15,0,0,1,0,0,0,0,2020-12-23
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2020-12-23
+"Buffalo, NY",additional_83,0,0,0,1,0,0,0,2020-12-23
+"Neward, NJ",additional_91,1,0,9,0,0,0,0,2020-12-23
+"Syracuse, NY",additional_78,0,0,1,1,0,0,0,2020-12-23
+"Pawtucket, RI",additional_107,0,0,0,3,0,0,0,2020-12-23
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2020-12-23
+"Del Valle, TX",additional_34,1,1,1,0,0,0,0,2020-12-23
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2020-12-28
+"Portland, OR",additional_52,0,0,1,1,0,0,0,2020-12-28
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2020-12-28
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2020-12-28
+"Tacoma, WA",additional_109,0,0,0,1,0,0,0,2020-12-28
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2020-12-28
+"Boston, MA",15BRRC20D00000046,0,0,2,4,0,0,0,2020-12-28
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2020-12-28
+"Washington, DC",additional_110,0,0,0,1,0,0,0,2020-12-28
+"Detriot, MI",15BRRC19D00000203,0,0,0,7,0,0,0,2020-12-28
+"Nashville, TN",additional_103,0,0,1,3,0,0,0,2020-12-28
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2020-12-28
+"Memphis, TN",additional_45,0,0,4,14,0,0,0,2020-12-28
+"St Albans, WV",additional_113,0,0,0,10,0,0,0,2020-12-28
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2020-12-28
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2020-12-28
+"Baltimore, MD",additional_53,0,0,2,16,0,0,0,2020-12-28
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2020-12-28
+"Harrisburg, PA",additional_101,0,0,2,4,0,0,0,2020-12-28
+"Philadelphia, PA",15BRRC19D00000194,0,0,11,2,0,0,0,2020-12-28
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2020-12-28
+"Rochester,NY",15BRRC19D00000218,0,0,1,8,0,0,0,2020-12-28
+"Pittsburgh, PA",additional_114,0,0,0,1,0,0,0,2020-12-28
+"Cleveland, OH",additional_49,0,0,2,2,0,0,0,2020-12-28
+"Hartford, CT",15BRRC20D00000297,0,0,0,1,0,0,0,2020-12-28
+"Louisville, KY",additional_86,0,0,2,2,0,0,0,2020-12-28
+"West Palm Beach, FL",additional_60,0,0,10,1,0,0,0,2020-12-28
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2020-12-28
+"Dania, FL",15BRRC19D00000208,0,0,4,0,0,0,0,2020-12-28
+"Birmingham, AL",15BRRC19D00000207,0,0,0,2,0,0,0,2020-12-28
+"Miami, FL",additional_41,0,0,3,1,0,0,0,2020-12-28
+"Chattanooga, TN",additional_25,0,0,4,1,0,0,0,2020-12-28
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2020-12-28
+"Florence, SC",additional_81,0,0,1,10,0,0,0,2020-12-28
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2020-12-28
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2020-12-28
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2020-12-28
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2020-12-28
+"Columbia, SC",additional_108,0,0,0,3,0,0,0,2020-12-28
+"Miami, FL",additional_100,0,0,1,0,0,0,0,2020-12-28
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2020-12-28
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2020-12-28
+"Minneapolis, MN",15BRRC20D00000275,0,0,8,0,0,0,0,2020-12-28
+"Janesville, WI",additional_106,0,0,0,3,0,0,0,2020-12-28
+"Youngstown, OH",additional_102,0,0,1,2,0,0,0,2020-12-28
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2020-12-28
+"Indianapolis, IN",additional_16,0,0,5,1,0,0,0,2020-12-28
+"Marion, IL",additional_92,0,0,2,0,0,0,0,2020-12-28
+"Chicago, IL",15BRRC18D00000091,0,0,12,1,0,0,0,2020-12-28
+"Peoria, IL",additional_90,0,0,6,1,0,0,0,2020-12-28
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2020-12-28
+"Grand Rapids, MI",15BRRC19D00000005,0,0,2,4,0,0,0,2020-12-28
+"Rapid City, SD",additional_11,0,0,1,1,0,0,0,2020-12-28
+"Brownsville, TX",additional_31,1,1,1,1,0,0,0,2020-12-28
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2020-12-28
+"Hutchins, TX",15BRRC19D00000185,1,0,12,1,0,0,0,2020-12-28
+"San Antonio, TX",additional_19,0,0,11,2,0,0,0,2020-12-28
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2020-12-28
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2020-12-28
+"Houston, TX",DJB200242,2,0,9,7,0,0,0,2020-12-28
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2020-12-28
+"Del Rio, TX",additional_42,0,0,5,1,0,0,0,2020-12-28
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2020-12-28
+"Edinburg, TX",additional_35,0,0,13,14,0,0,0,2020-12-28
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2020-12-28
+"Midland, TX",additional_50,0,0,11,1,0,0,0,2020-12-28
+"Laredo, TX",additional_24,0,0,1,2,0,0,0,2020-12-28
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2020-12-28
+"Farmington, MO",15BRRC19D00000148,0,0,1,0,0,0,0,2020-12-28
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2020-12-28
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2020-12-28
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2020-12-28
+"Roseville, MN",additional_68,0,0,6,1,0,0,0,2020-12-28
+"Toledo, OH",DJB200236,0,0,0,3,0,0,0,2020-12-28
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2020-12-28
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2020-12-28
+"Omaha, NE",additional_62,0,0,5,1,0,0,0,2020-12-28
+"Denver, CO",additional_89,1,0,4,1,0,0,0,2020-12-28
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2020-12-28
+"Leavenworth, KS",15BRRC19D00000149,0,0,27,1,0,0,0,2020-12-28
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2020-12-28
+"Boise, ID",additional_87,0,0,1,8,0,0,0,2020-12-28
+"Mills, WY",additional_97,0,0,3,3,0,0,0,2020-12-28
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2020-12-28
+"Devils Lake, ND",additional_104,0,0,2,2,0,0,0,2020-12-28
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2020-12-28
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2020-12-28
+"Billings, MT",additional_44,0,0,2,0,0,0,0,2020-12-28
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2020-12-28
+"Van Nuys, CA",additional_58,0,0,2,0,0,0,0,2020-12-28
+"Tucson, AZ",additional_29,0,0,1,5,0,0,0,2020-12-28
+"San Diego, CA",additional_12,0,0,9,2,0,0,0,2020-12-28
+"Las Vegas, NV",additional_28,0,0,7,2,0,0,0,2020-12-28
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2020-12-28
+"Los Angeles, CA",additional_111,0,0,0,2,0,0,0,2020-12-28
+"Salt Lake City, UT",additional_38,0,0,22,0,0,0,0,2020-12-28
+"El Monte, CA",additional_51,0,0,1,2,0,0,0,2020-12-28
+"Garden Grove, CA",additional_59,0,0,2,3,0,0,0,2020-12-28
+"Los Angeles, CA",additional_1,0,0,0,1,0,0,0,2020-12-28
+"Rubidoux, CA",additional_67,0,0,2,10,0,0,0,2020-12-28
+"Phoenix, AZ",DJB200252,1,0,3,0,0,0,0,2020-12-28
+"Brawley, CA",additional_21,1,0,9,1,0,0,0,2020-12-28
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2020-12-28
+"Atlanta, GA",additional_30,0,0,3,1,0,0,0,2020-12-28
+"San Juan, PR",additional_63,0,0,16,0,0,0,0,2020-12-28
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2020-12-28
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2020-12-28
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2020-12-28
+"Brooklyn, NY",15BRRC19D00000249,0,0,5,6,0,0,0,2020-12-28
+"Albany, NY",additional_15,0,0,1,0,0,0,0,2020-12-28
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2020-12-28
+"Buffalo, NY",additional_83,0,0,0,1,0,0,0,2020-12-28
+"Neward, NJ",additional_91,1,0,9,0,0,0,0,2020-12-28
+"Syracuse, NY",additional_78,0,0,1,1,0,0,0,2020-12-28
+"Pawtucket, RI",additional_107,0,0,0,3,0,0,0,2020-12-28
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2020-12-28
+"Del Valle, TX",additional_34,1,1,1,0,0,0,0,2020-12-28
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2020-12-29
+"Portland, OR",additional_52,0,0,1,1,0,0,0,2020-12-29
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2020-12-29
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2020-12-29
+"Tacoma, WA",additional_109,0,0,0,1,0,0,0,2020-12-29
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2020-12-29
+"Boston, MA",15BRRC20D00000046,0,0,2,4,0,0,0,2020-12-29
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2020-12-29
+"Washington, DC",additional_110,0,0,0,1,0,0,0,2020-12-29
+"Detriot, MI",15BRRC19D00000203,0,0,0,7,0,0,0,2020-12-29
+"Nashville, TN",additional_103,0,0,1,3,0,0,0,2020-12-29
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2020-12-29
+"Memphis, TN",additional_45,0,0,4,14,0,0,0,2020-12-29
+"St Albans, WV",additional_113,0,0,0,10,0,0,0,2020-12-29
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2020-12-29
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2020-12-29
+"Baltimore, MD",additional_53,0,0,2,16,0,0,0,2020-12-29
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2020-12-29
+"Clarksburg, WV",additional_116,0,0,0,1,0,0,0,2020-12-29
+"Harrisburg, PA",additional_101,0,0,2,4,0,0,0,2020-12-29
+"Philadelphia, PA",15BRRC19D00000194,0,0,11,2,0,0,0,2020-12-29
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2020-12-29
+"Rochester,NY",15BRRC19D00000218,0,0,1,8,0,0,0,2020-12-29
+"Pittsburgh, PA",additional_114,0,0,0,1,0,0,0,2020-12-29
+"Cleveland, OH",additional_49,0,0,2,2,0,0,0,2020-12-29
+"Hartford, CT",15BRRC20D00000297,0,0,0,1,0,0,0,2020-12-29
+"Louisville, KY",additional_86,0,0,2,2,0,0,0,2020-12-29
+"West Palm Beach, FL",additional_60,0,0,10,1,0,0,0,2020-12-29
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2020-12-29
+"Dania, FL",15BRRC19D00000208,0,0,4,0,0,0,0,2020-12-29
+"Birmingham, AL",15BRRC19D00000207,0,0,0,2,0,0,0,2020-12-29
+"Miami, FL",additional_41,0,0,3,2,0,0,0,2020-12-29
+"Chattanooga, TN",additional_25,0,0,4,1,0,0,0,2020-12-29
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2020-12-29
+"Florence, SC",additional_81,0,0,1,10,0,0,0,2020-12-29
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2020-12-29
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2020-12-29
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2020-12-29
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2020-12-29
+"Columbia, SC",additional_108,0,0,0,5,0,0,0,2020-12-29
+"Miami, FL",additional_100,0,0,1,0,0,0,0,2020-12-29
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2020-12-29
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2020-12-29
+"Minneapolis, MN",15BRRC20D00000275,0,0,8,0,0,0,0,2020-12-29
+"Janesville, WI",additional_106,0,0,0,3,0,0,0,2020-12-29
+"Youngstown, OH",additional_102,0,0,1,2,0,0,0,2020-12-29
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2020-12-29
+"Indianapolis, IN",additional_16,0,0,5,1,0,0,0,2020-12-29
+"Marion, IL",additional_92,0,0,2,0,0,0,0,2020-12-29
+"Chicago, IL",15BRRC18D00000091,0,0,12,1,0,0,0,2020-12-29
+"Peoria, IL",additional_90,0,0,6,1,0,0,0,2020-12-29
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2020-12-29
+"Grand Rapids, MI",15BRRC19D00000005,0,0,2,4,0,0,0,2020-12-29
+"Rapid City, SD",additional_11,0,0,1,1,0,0,0,2020-12-29
+"Brownsville, TX",additional_31,1,1,1,1,0,0,0,2020-12-29
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2020-12-29
+"Hutchins, TX",15BRRC19D00000185,1,0,12,1,0,0,0,2020-12-29
+"San Antonio, TX",additional_19,0,0,11,3,0,0,0,2020-12-29
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2020-12-29
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2020-12-29
+"Houston, TX",DJB200242,2,0,9,8,0,0,0,2020-12-29
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2020-12-29
+"Del Rio, TX",additional_42,0,0,5,1,0,0,0,2020-12-29
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2020-12-29
+"Edinburg, TX",additional_35,0,0,13,16,0,0,0,2020-12-29
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2020-12-29
+"Midland, TX",additional_50,0,0,11,1,0,0,0,2020-12-29
+"Laredo, TX",additional_24,0,0,1,2,0,0,0,2020-12-29
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2020-12-29
+"Farmington, MO",15BRRC19D00000148,0,0,1,0,0,0,0,2020-12-29
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2020-12-29
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2020-12-29
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2020-12-29
+"Roseville, MN",additional_68,0,0,6,1,0,0,0,2020-12-29
+"Toledo, OH",DJB200236,0,0,0,3,0,0,0,2020-12-29
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2020-12-29
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2020-12-29
+"Omaha, NE",additional_62,0,0,5,1,0,0,0,2020-12-29
+"Denver, CO",additional_89,1,0,4,1,0,0,0,2020-12-29
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2020-12-29
+"Leavenworth, KS",15BRRC19D00000149,0,0,27,2,0,0,0,2020-12-29
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2020-12-29
+"Boise, ID",additional_87,0,0,1,8,0,0,0,2020-12-29
+"Mills, WY",additional_97,0,0,3,3,0,0,0,2020-12-29
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2020-12-29
+"Devils Lake, ND",additional_104,0,0,2,2,0,0,0,2020-12-29
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2020-12-29
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2020-12-29
+"Billings, MT",additional_44,0,0,2,0,0,0,0,2020-12-29
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2020-12-29
+"Van Nuys, CA",additional_58,0,0,2,0,0,0,0,2020-12-29
+"Tucson, AZ",additional_29,0,0,1,7,0,0,0,2020-12-29
+"San Diego, CA",additional_12,0,0,9,3,0,0,0,2020-12-29
+"Las Vegas, NV",additional_28,0,0,7,2,0,0,0,2020-12-29
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2020-12-29
+"Los Angeles, CA",additional_111,0,0,0,3,0,0,0,2020-12-29
+"Salt Lake City, UT",additional_38,0,0,22,0,0,0,0,2020-12-29
+"El Monte, CA",additional_51,0,0,1,2,0,0,0,2020-12-29
+"Garden Grove, CA",additional_59,0,0,2,4,0,0,0,2020-12-29
+"Los Angeles, CA",additional_1,0,0,0,2,0,0,0,2020-12-29
+"Rubidoux, CA",additional_67,0,0,2,10,0,0,0,2020-12-29
+"Phoenix, AZ",DJB200252,1,0,3,0,0,0,0,2020-12-29
+"Brawley, CA",additional_21,1,0,9,1,0,0,0,2020-12-29
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2020-12-29
+"Atlanta, GA",additional_30,0,0,3,1,0,0,0,2020-12-29
+"San Juan, PR",additional_63,0,0,16,0,0,0,0,2020-12-29
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2020-12-29
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2020-12-29
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2020-12-29
+"Brooklyn, NY",15BRRC19D00000249,0,0,5,6,0,0,0,2020-12-29
+"Albany, NY",additional_15,0,0,1,0,0,0,0,2020-12-29
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2020-12-29
+"Buffalo, NY",additional_83,0,0,0,1,0,0,0,2020-12-29
+"Neward, NJ",additional_91,1,0,9,0,0,0,0,2020-12-29
+"Syracuse, NY",additional_78,0,0,1,1,0,0,0,2020-12-29
+"Pawtucket, RI",additional_107,0,0,0,3,0,0,0,2020-12-29
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2020-12-29
+"Del Valle, TX",additional_34,1,1,1,0,0,0,0,2020-12-29
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2020-12-30
+"Portland, OR",additional_52,0,0,1,1,0,0,0,2020-12-30
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2020-12-30
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2020-12-30
+"Tacoma, WA",additional_109,0,0,0,1,0,0,0,2020-12-30
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2020-12-30
+"Boston, MA",15BRRC20D00000046,0,0,2,4,0,0,0,2020-12-30
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2020-12-30
+"Washington, DC",additional_110,0,0,0,1,0,0,0,2020-12-30
+"Detriot, MI",15BRRC19D00000203,0,0,0,7,0,0,0,2020-12-30
+"Nashville, TN",additional_103,0,0,1,4,0,0,0,2020-12-30
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2020-12-30
+"Memphis, TN",additional_45,0,0,4,14,0,0,0,2020-12-30
+"St Albans, WV",additional_113,0,0,0,10,0,0,0,2020-12-30
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2020-12-30
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2020-12-30
+"Baltimore, MD",additional_53,0,0,2,16,0,0,0,2020-12-30
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2020-12-30
+"Clarksburg, WV",additional_116,0,0,0,1,0,0,0,2020-12-30
+"Harrisburg, PA",additional_101,0,0,2,4,0,0,0,2020-12-30
+"Philadelphia, PA",15BRRC19D00000194,0,0,11,2,0,0,0,2020-12-30
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2020-12-30
+"Rochester,NY",15BRRC19D00000218,0,0,1,8,0,0,0,2020-12-30
+"Pittsburgh, PA",additional_114,0,0,0,1,0,0,0,2020-12-30
+"Cleveland, OH",additional_49,0,0,2,3,0,0,0,2020-12-30
+"Hartford, CT",15BRRC20D00000297,0,0,0,1,0,0,0,2020-12-30
+"Louisville, KY",additional_86,0,0,2,2,0,0,0,2020-12-30
+"West Palm Beach, FL",additional_60,0,0,10,1,0,0,0,2020-12-30
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2020-12-30
+"Dania, FL",15BRRC19D00000208,0,0,4,0,0,0,0,2020-12-30
+"Birmingham, AL",15BRRC19D00000207,0,0,0,2,0,0,0,2020-12-30
+"Miami, FL",additional_41,0,0,3,2,0,0,0,2020-12-30
+"Chattanooga, TN",additional_25,0,0,4,1,0,0,0,2020-12-30
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2020-12-30
+"Florence, SC",additional_81,0,0,1,10,0,0,0,2020-12-30
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2020-12-30
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2020-12-30
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2020-12-30
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2020-12-30
+"Columbia, SC",additional_108,0,0,0,5,0,0,0,2020-12-30
+"Miami, FL",additional_100,0,0,1,0,0,0,0,2020-12-30
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2020-12-30
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2020-12-30
+"Minneapolis, MN",15BRRC20D00000275,0,0,8,0,0,0,0,2020-12-30
+"Janesville, WI",additional_106,0,0,0,3,0,0,0,2020-12-30
+"Youngstown, OH",additional_102,0,0,1,2,0,0,0,2020-12-30
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2020-12-30
+"Indianapolis, IN",additional_16,0,0,5,1,0,0,0,2020-12-30
+"Marion, IL",additional_92,0,0,2,0,0,0,0,2020-12-30
+"Chicago, IL",15BRRC18D00000091,0,0,12,1,0,0,0,2020-12-30
+"Peoria, IL",additional_90,0,0,6,1,0,0,0,2020-12-30
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2020-12-30
+"Grand Rapids, MI",15BRRC19D00000005,0,0,2,4,0,0,0,2020-12-30
+"Rapid City, SD",additional_11,0,0,1,1,0,0,0,2020-12-30
+"Brownsville, TX",additional_31,1,1,1,1,0,0,0,2020-12-30
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2020-12-30
+"Hutchins, TX",15BRRC19D00000185,1,0,12,1,0,0,0,2020-12-30
+"San Antonio, TX",additional_19,0,0,11,3,0,0,0,2020-12-30
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2020-12-30
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2020-12-30
+"Houston, TX",DJB200242,2,0,9,8,0,0,0,2020-12-30
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2020-12-30
+"Del Rio, TX",additional_42,0,0,5,1,0,0,0,2020-12-30
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2020-12-30
+"Edinburg, TX",additional_35,0,0,13,16,0,0,0,2020-12-30
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2020-12-30
+"Midland, TX",additional_50,0,0,11,1,0,0,0,2020-12-30
+"Laredo, TX",additional_24,0,0,1,2,0,0,0,2020-12-30
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2020-12-30
+"Farmington, MO",15BRRC19D00000148,0,0,1,1,0,0,0,2020-12-30
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2020-12-30
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2020-12-30
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2020-12-30
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2020-12-30
+"Roseville, MN",additional_68,0,0,6,1,0,0,0,2020-12-30
+"Toledo, OH",DJB200236,0,0,0,3,0,0,0,2020-12-30
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2020-12-30
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2020-12-30
+"Omaha, NE",additional_62,0,0,5,1,0,0,0,2020-12-30
+"Denver, CO",additional_89,1,0,4,1,0,0,0,2020-12-30
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2020-12-30
+"Leavenworth, KS",15BRRC19D00000149,0,0,27,2,0,0,0,2020-12-30
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2020-12-30
+"Boise, ID",additional_87,0,0,1,8,0,0,0,2020-12-30
+"Mills, WY",additional_97,0,0,3,3,0,0,0,2020-12-30
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2020-12-30
+"Devils Lake, ND",additional_104,0,0,2,2,0,0,0,2020-12-30
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2020-12-30
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2020-12-30
+"Billings, MT",additional_44,0,0,2,0,0,0,0,2020-12-30
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2020-12-30
+"Van Nuys, CA",additional_58,0,0,2,0,0,0,0,2020-12-30
+"Tucson, AZ",additional_29,0,0,1,7,0,0,0,2020-12-30
+"San Diego, CA",additional_12,0,0,9,4,0,0,0,2020-12-30
+"Las Vegas, NV",additional_28,0,0,7,2,0,0,0,2020-12-30
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2020-12-30
+"Los Angeles, CA",additional_111,0,0,0,3,0,0,0,2020-12-30
+"Salt Lake City, UT",additional_38,0,0,22,0,0,0,0,2020-12-30
+"El Monte, CA",additional_51,0,0,1,3,0,0,0,2020-12-30
+"Garden Grove, CA",additional_59,0,0,2,4,0,0,0,2020-12-30
+"Los Angeles, CA",additional_1,0,0,0,2,0,0,0,2020-12-30
+"Rubidoux, CA",additional_67,0,0,2,12,0,0,0,2020-12-30
+"Phoenix, AZ",DJB200252,1,0,3,0,0,0,0,2020-12-30
+"Brawley, CA",additional_21,1,0,9,1,0,0,0,2020-12-30
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2020-12-30
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2020-12-30
+"San Juan, PR",additional_63,0,0,16,0,0,0,0,2020-12-30
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2020-12-30
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2020-12-30
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2020-12-30
+"Brooklyn, NY",15BRRC19D00000249,0,0,5,6,0,0,0,2020-12-30
+"Albany, NY",additional_15,0,0,1,0,0,0,0,2020-12-30
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2020-12-30
+"Buffalo, NY",additional_83,0,0,0,3,0,0,0,2020-12-30
+"Neward, NJ",additional_91,1,0,9,1,0,0,0,2020-12-30
+"Syracuse, NY",additional_78,0,0,1,1,0,0,0,2020-12-30
+"Pawtucket, RI",additional_107,0,0,0,3,0,0,0,2020-12-30
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2020-12-30
+"Del Valle, TX",additional_34,1,1,1,0,0,0,0,2020-12-30
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2020-12-31
+"Portland, OR",additional_52,0,0,1,1,0,0,0,2020-12-31
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2020-12-31
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2020-12-31
+"Tacoma, WA",additional_109,0,0,0,1,0,0,0,2020-12-31
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2020-12-31
+"Boston, MA",15BRRC20D00000046,0,0,2,4,0,0,0,2020-12-31
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2020-12-31
+"Washington, DC",additional_110,0,0,0,1,0,0,0,2020-12-31
+"Detriot, MI",15BRRC19D00000203,0,0,0,9,0,0,0,2020-12-31
+"Nashville, TN",additional_103,0,0,1,4,0,0,0,2020-12-31
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2020-12-31
+"Memphis, TN",additional_45,0,0,4,16,0,0,0,2020-12-31
+"St Albans, WV",additional_113,0,0,0,10,0,0,0,2020-12-31
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2020-12-31
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2020-12-31
+"Baltimore, MD",additional_53,0,0,2,18,0,0,0,2020-12-31
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2020-12-31
+"Clarksburg, WV",additional_116,0,0,0,1,0,0,0,2020-12-31
+"Harrisburg, PA",additional_101,0,0,2,4,0,0,0,2020-12-31
+"Philadelphia, PA",15BRRC19D00000194,0,0,11,2,0,0,0,2020-12-31
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2020-12-31
+"Rochester,NY",15BRRC19D00000218,0,0,1,8,0,0,0,2020-12-31
+"Pittsburgh, PA",additional_114,0,0,0,1,0,0,0,2020-12-31
+"Cleveland, OH",additional_49,0,0,2,3,0,0,0,2020-12-31
+"Hartford, CT",15BRRC20D00000297,0,0,0,1,0,0,0,2020-12-31
+"Louisville, KY",additional_86,0,0,2,2,0,0,0,2020-12-31
+"West Palm Beach, FL",additional_60,0,0,10,1,0,0,0,2020-12-31
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2020-12-31
+"Dania, FL",15BRRC19D00000208,0,0,4,0,0,0,0,2020-12-31
+"Birmingham, AL",15BRRC19D00000207,0,0,0,2,0,0,0,2020-12-31
+"Miami, FL",additional_41,0,0,3,2,0,0,0,2020-12-31
+"Chattanooga, TN",additional_25,0,0,4,1,0,0,0,2020-12-31
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2020-12-31
+"Florence, SC",additional_81,0,0,1,10,0,0,0,2020-12-31
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2020-12-31
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2020-12-31
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2020-12-31
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2020-12-31
+"Columbia, SC",additional_108,0,0,0,6,0,0,0,2020-12-31
+"Miami, FL",additional_100,0,0,1,0,0,0,0,2020-12-31
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2020-12-31
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2020-12-31
+"Minneapolis, MN",15BRRC20D00000275,0,0,8,0,0,0,0,2020-12-31
+"Janesville, WI",additional_106,0,0,0,3,0,0,0,2020-12-31
+"Youngstown, OH",additional_102,0,0,1,2,0,0,0,2020-12-31
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2020-12-31
+"Indianapolis, IN",additional_16,0,0,5,1,0,0,0,2020-12-31
+"Marion, IL",additional_92,0,0,2,0,0,0,0,2020-12-31
+"Chicago, IL",15BRRC18D00000091,0,0,12,1,0,0,0,2020-12-31
+"Peoria, IL",additional_90,0,0,6,1,0,0,0,2020-12-31
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2020-12-31
+"Grand Rapids, MI",15BRRC19D00000005,0,0,2,4,0,0,0,2020-12-31
+"Rapid City, SD",additional_11,0,0,1,1,0,0,0,2020-12-31
+"Brownsville, TX",additional_31,1,1,1,1,0,0,0,2020-12-31
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2020-12-31
+"Hutchins, TX",15BRRC19D00000185,1,0,12,2,0,0,0,2020-12-31
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2020-12-31
+"San Antonio, TX",additional_19,0,0,11,3,0,0,0,2020-12-31
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2020-12-31
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2020-12-31
+"Houston, TX",DJB200242,2,0,9,8,0,0,0,2020-12-31
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2020-12-31
+"Del Rio, TX",additional_42,0,0,5,1,0,0,0,2020-12-31
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2020-12-31
+"Edinburg, TX",additional_35,0,0,13,16,0,0,0,2020-12-31
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2020-12-31
+"Midland, TX",additional_50,0,0,11,1,0,0,0,2020-12-31
+"Laredo, TX",additional_24,0,0,1,2,0,0,0,2020-12-31
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2020-12-31
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2020-12-31
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2020-12-31
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2020-12-31
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2020-12-31
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2020-12-31
+"Roseville, MN",additional_68,0,0,6,1,0,0,0,2020-12-31
+"Toledo, OH",DJB200236,0,0,0,3,0,0,0,2020-12-31
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2020-12-31
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2020-12-31
+"Omaha, NE",additional_62,0,0,5,1,0,0,0,2020-12-31
+"Denver, CO",additional_89,1,0,4,1,0,0,0,2020-12-31
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2020-12-31
+"Leavenworth, KS",15BRRC19D00000149,0,0,27,3,0,0,0,2020-12-31
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2020-12-31
+"Boise, ID",additional_87,0,0,1,8,0,0,0,2020-12-31
+"Mills, WY",additional_97,0,0,3,3,0,0,0,2020-12-31
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2020-12-31
+"Devils Lake, ND",additional_104,0,0,2,2,0,0,0,2020-12-31
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2020-12-31
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2020-12-31
+"Billings, MT",additional_44,0,0,2,0,0,0,0,2020-12-31
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2020-12-31
+"Van Nuys, CA",additional_58,0,0,2,1,0,0,0,2020-12-31
+"Tucson, AZ",additional_29,0,0,1,9,0,0,0,2020-12-31
+"San Diego, CA",additional_12,0,0,9,4,0,0,0,2020-12-31
+"Las Vegas, NV",additional_28,0,0,7,2,0,0,0,2020-12-31
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2020-12-31
+"Los Angeles, CA",additional_111,0,0,0,3,0,0,0,2020-12-31
+"Salt Lake City, UT",additional_38,0,0,22,0,0,0,0,2020-12-31
+"El Monte, CA",additional_51,0,0,1,3,0,0,0,2020-12-31
+"Garden Grove, CA",additional_59,0,0,2,5,0,0,0,2020-12-31
+"Los Angeles, CA",additional_1,0,0,0,2,0,0,0,2020-12-31
+"Rubidoux, CA",additional_67,0,0,2,12,0,0,0,2020-12-31
+"Phoenix, AZ",DJB200252,1,0,3,0,0,0,0,2020-12-31
+"Brawley, CA",additional_21,1,0,9,1,0,0,0,2020-12-31
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2020-12-31
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2020-12-31
+"San Juan, PR",additional_63,0,0,16,0,0,0,0,2020-12-31
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2020-12-31
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2020-12-31
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2020-12-31
+"Brooklyn, NY",15BRRC19D00000249,0,0,5,7,0,0,0,2020-12-31
+"Albany, NY",additional_15,0,0,1,0,0,0,0,2020-12-31
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2020-12-31
+"Buffalo, NY",additional_83,0,0,0,3,0,0,0,2020-12-31
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2020-12-31
+"Neward, NJ",additional_91,1,0,9,1,0,0,0,2020-12-31
+"Syracuse, NY",additional_78,0,0,1,1,0,0,0,2020-12-31
+"Pawtucket, RI",additional_107,0,0,0,3,0,0,0,2020-12-31
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2020-12-31
+"Del Valle, TX",additional_34,1,1,1,0,0,0,0,2020-12-31
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-04
+"Portland, OR",additional_52,0,0,1,1,0,0,0,2021-01-04
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-04
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-04
+"Tacoma, WA",additional_109,0,0,0,1,0,0,0,2021-01-04
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-04
+"Boston, MA",15BRRC20D00000046,0,0,2,4,0,0,0,2021-01-04
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2021-01-04
+"Washington, DC",additional_110,0,0,0,1,0,0,0,2021-01-04
+"Detriot, MI",15BRRC19D00000203,0,0,0,9,0,0,0,2021-01-04
+"Nashville, TN",additional_103,0,0,1,3,0,0,0,2021-01-04
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-04
+"Memphis, TN",additional_45,0,0,3,15,0,0,0,2021-01-04
+"St Albans, WV",additional_113,0,0,0,10,0,0,0,2021-01-04
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2021-01-04
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-04
+"Baltimore, MD",additional_53,0,0,2,18,0,0,0,2021-01-04
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2021-01-04
+"Clarksburg, WV",additional_116,0,0,0,1,0,0,0,2021-01-04
+"Harrisburg, PA",additional_101,0,0,2,3,0,0,0,2021-01-04
+"Philadelphia, PA",15BRRC19D00000194,0,0,10,2,0,0,0,2021-01-04
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-04
+"Rochester,NY",15BRRC19D00000218,0,0,1,8,0,0,0,2021-01-04
+"Pittsburgh, PA",additional_114,0,0,0,1,0,0,0,2021-01-04
+"Cleveland, OH",additional_49,0,0,2,3,0,0,0,2021-01-04
+"Hartford, CT",15BRRC20D00000297,0,0,0,1,0,0,0,2021-01-04
+"Louisville, KY",additional_86,0,0,2,2,0,0,0,2021-01-04
+"West Palm Beach, FL",additional_60,0,0,10,1,0,0,0,2021-01-04
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-04
+"Dania, FL",15BRRC19D00000208,0,0,4,0,0,0,0,2021-01-04
+"Birmingham, AL",15BRRC19D00000207,0,0,0,2,0,0,0,2021-01-04
+"Miami, FL",additional_41,0,0,3,2,0,0,0,2021-01-04
+"Chattanooga, TN",additional_25,0,0,4,1,0,0,0,2021-01-04
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-04
+"Florence, SC",additional_81,0,0,1,10,0,0,0,2021-01-04
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-04
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2021-01-04
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-04
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-04
+"Columbia, SC",additional_108,0,0,0,6,0,0,0,2021-01-04
+"Miami, FL",additional_100,0,0,1,0,0,0,0,2021-01-04
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-04
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2021-01-04
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,0,0,0,0,2021-01-04
+"Janesville, WI",additional_106,0,0,0,3,0,0,0,2021-01-04
+"Youngstown, OH",additional_102,0,0,1,2,0,0,0,2021-01-04
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2021-01-04
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-04
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-04
+"Chicago, IL",15BRRC18D00000091,0,0,11,2,0,0,0,2021-01-04
+"Peoria, IL",additional_90,0,0,6,1,0,0,0,2021-01-04
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-04
+"Grand Rapids, MI",15BRRC19D00000005,0,0,1,4,0,0,0,2021-01-04
+"Rapid City, SD",additional_11,0,0,1,1,0,0,0,2021-01-04
+"Brownsville, TX",additional_31,1,1,1,1,0,0,0,2021-01-04
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-04
+"Hutchins, TX",15BRRC19D00000185,1,0,11,3,0,0,0,2021-01-04
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2021-01-04
+"San Antonio, TX",additional_19,0,0,11,3,0,0,0,2021-01-04
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-04
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-04
+"Houston, TX",DJB200242,2,0,9,7,0,0,0,2021-01-04
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-04
+"Del Rio, TX",additional_42,0,0,5,1,0,0,0,2021-01-04
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-04
+"Edinburg, TX",additional_35,0,0,13,15,0,0,0,2021-01-04
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2021-01-04
+"Midland, TX",additional_50,0,0,10,1,0,0,0,2021-01-04
+"Laredo, TX",additional_24,0,0,1,2,0,0,0,2021-01-04
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-04
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2021-01-04
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-04
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2021-01-04
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2021-01-04
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-04
+"Roseville, MN",additional_68,0,0,5,1,0,0,0,2021-01-04
+"Toledo, OH",DJB200236,0,0,0,3,0,0,0,2021-01-04
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2021-01-04
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-04
+"Omaha, NE",additional_62,0,0,5,0,0,0,0,2021-01-04
+"Denver, CO",additional_89,1,0,5,1,0,0,0,2021-01-04
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-04
+"Leavenworth, KS",15BRRC19D00000149,0,0,25,3,0,0,0,2021-01-04
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2021-01-04
+"Boise, ID",additional_87,0,0,1,8,0,0,0,2021-01-04
+"Mills, WY",additional_97,0,0,3,3,0,0,0,2021-01-04
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2021-01-04
+"Devils Lake, ND",additional_104,0,0,2,2,0,0,0,2021-01-04
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-04
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-04
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-04
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-04
+"Van Nuys, CA",additional_58,0,0,2,2,0,0,0,2021-01-04
+"Tucson, AZ",additional_29,0,0,1,10,0,0,0,2021-01-04
+"San Diego, CA",additional_12,0,0,9,5,0,0,0,2021-01-04
+"Las Vegas, NV",additional_28,0,0,7,2,0,0,0,2021-01-04
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-04
+"Los Angeles, CA",additional_111,0,0,0,4,0,0,0,2021-01-04
+"Salt Lake City, UT",additional_38,0,0,21,0,0,0,0,2021-01-04
+"El Monte, CA",additional_51,0,0,1,4,0,0,0,2021-01-04
+"Garden Grove, CA",additional_59,0,0,2,6,0,0,0,2021-01-04
+"Los Angeles, CA",additional_1,0,0,0,2,0,0,0,2021-01-04
+"Rubidoux, CA",additional_67,0,0,1,11,0,0,0,2021-01-04
+"Phoenix, AZ",DJB200252,1,0,4,0,0,0,0,2021-01-04
+"Brawley, CA",additional_21,1,0,9,1,0,0,0,2021-01-04
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2021-01-04
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2021-01-04
+"San Juan, PR",additional_63,0,0,15,0,0,0,0,2021-01-04
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-04
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-04
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-04
+"Brooklyn, NY",15BRRC19D00000249,0,0,5,7,0,0,0,2021-01-04
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-04
+"Buffalo, NY",additional_83,0,0,0,3,0,0,0,2021-01-04
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2021-01-04
+"Neward, NJ",additional_91,1,0,8,1,0,0,0,2021-01-04
+"Syracuse, NY",additional_78,0,0,1,1,0,0,0,2021-01-04
+"Pawtucket, RI",additional_107,0,0,0,3,0,0,0,2021-01-04
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-04
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-04
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-05
+"Portland, OR",additional_52,0,0,1,1,0,0,0,2021-01-05
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-05
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-05
+"Tacoma, WA",additional_109,0,0,0,2,0,0,0,2021-01-05
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-05
+"Boston, MA",15BRRC20D00000046,0,0,2,4,0,0,0,2021-01-05
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2021-01-05
+"Washington, DC",additional_110,0,0,0,1,0,0,0,2021-01-05
+"Detriot, MI",15BRRC19D00000203,0,0,0,9,0,0,0,2021-01-05
+"Nashville, TN",additional_103,0,0,2,2,0,0,0,2021-01-05
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-05
+"Memphis, TN",additional_45,0,0,3,15,0,0,0,2021-01-05
+"St Albans, WV",additional_113,0,0,0,10,0,0,0,2021-01-05
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2021-01-05
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-05
+"Baltimore, MD",additional_53,0,0,2,18,0,0,0,2021-01-05
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2021-01-05
+"Clarksburg, WV",additional_116,0,0,0,3,0,0,0,2021-01-05
+"Harrisburg, PA",additional_101,0,0,5,0,0,0,0,2021-01-05
+"Philadelphia, PA",15BRRC19D00000194,0,0,10,2,0,0,0,2021-01-05
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-05
+"Rochester,NY",15BRRC19D00000218,0,0,2,7,0,0,0,2021-01-05
+"Pittsburgh, PA",additional_114,0,0,0,1,0,0,0,2021-01-05
+"Cleveland, OH",additional_49,0,0,2,3,0,0,0,2021-01-05
+"Hartford, CT",15BRRC20D00000297,0,0,0,1,0,0,0,2021-01-05
+"Louisville, KY",additional_86,0,0,2,2,0,0,0,2021-01-05
+"West Palm Beach, FL",additional_60,0,0,10,1,0,0,0,2021-01-05
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-05
+"Dania, FL",15BRRC19D00000208,0,0,4,0,0,0,0,2021-01-05
+"Birmingham, AL",15BRRC19D00000207,0,0,0,2,0,0,0,2021-01-05
+"Miami, FL",additional_41,0,0,3,4,0,0,0,2021-01-05
+"Chattanooga, TN",additional_25,0,0,4,1,0,0,0,2021-01-05
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-05
+"Florence, SC",additional_81,0,0,1,10,0,0,0,2021-01-05
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-05
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2021-01-05
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-05
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-05
+"Columbia, SC",additional_108,0,0,0,6,0,0,0,2021-01-05
+"Miami, FL",additional_100,0,0,1,1,0,0,0,2021-01-05
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-05
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2021-01-05
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,0,0,0,0,2021-01-05
+"Janesville, WI",additional_106,0,0,1,2,0,0,0,2021-01-05
+"Youngstown, OH",additional_102,0,0,2,1,0,0,0,2021-01-05
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2021-01-05
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-05
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-05
+"Chicago, IL",15BRRC18D00000091,0,0,11,2,0,0,0,2021-01-05
+"Peoria, IL",additional_90,0,0,6,1,0,0,0,2021-01-05
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-05
+"Grand Rapids, MI",15BRRC19D00000005,0,0,1,4,0,0,0,2021-01-05
+"Rapid City, SD",additional_11,0,0,2,0,0,0,0,2021-01-05
+"Brownsville, TX",additional_31,1,1,2,0,0,0,0,2021-01-05
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-05
+"Hutchins, TX",15BRRC19D00000185,1,0,12,2,0,0,0,2021-01-05
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2021-01-05
+"San Antonio, TX",additional_19,0,0,11,3,0,0,0,2021-01-05
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-05
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-05
+"Houston, TX",DJB200242,2,0,14,2,0,0,0,2021-01-05
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-05
+"Del Rio, TX",additional_42,0,0,5,1,0,0,0,2021-01-05
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-05
+"Edinburg, TX",additional_35,0,0,19,9,0,0,0,2021-01-05
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2021-01-05
+"Midland, TX",additional_50,0,0,11,0,0,0,0,2021-01-05
+"Laredo, TX",additional_24,0,0,2,1,0,0,0,2021-01-05
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-05
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2021-01-05
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-05
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2021-01-05
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2021-01-05
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-05
+"Roseville, MN",additional_68,0,0,6,0,0,0,0,2021-01-05
+"Toledo, OH",DJB200236,0,0,0,3,0,0,0,2021-01-05
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2021-01-05
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-05
+"Omaha, NE",additional_62,0,0,5,0,0,0,0,2021-01-05
+"Denver, CO",additional_89,1,0,5,1,0,0,0,2021-01-05
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-05
+"Leavenworth, KS",15BRRC19D00000149,0,0,25,3,0,0,0,2021-01-05
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2021-01-05
+"Boise, ID",additional_87,0,0,1,8,0,0,0,2021-01-05
+"Mills, WY",additional_97,0,0,3,3,0,0,0,2021-01-05
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2021-01-05
+"Devils Lake, ND",additional_104,0,0,4,0,0,0,0,2021-01-05
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-05
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-05
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-05
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-05
+"Van Nuys, CA",additional_58,0,0,2,3,0,0,0,2021-01-05
+"Tucson, AZ",additional_29,0,0,2,9,0,0,0,2021-01-05
+"San Diego, CA",additional_12,0,0,9,5,0,0,0,2021-01-05
+"Las Vegas, NV",additional_28,0,0,7,2,0,0,0,2021-01-05
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-05
+"Los Angeles, CA",additional_111,0,0,0,7,0,0,0,2021-01-05
+"Salt Lake City, UT",additional_38,0,0,21,0,0,0,0,2021-01-05
+"El Monte, CA",additional_51,0,0,1,5,0,0,0,2021-01-05
+"San Francisco, CA",additional_20,0,0,0,2,0,0,0,2021-01-05
+"Garden Grove, CA",additional_59,0,0,3,6,0,0,0,2021-01-05
+"Los Angeles, CA",additional_1,0,0,0,2,0,0,0,2021-01-05
+"Rubidoux, CA",additional_67,0,0,2,10,0,0,0,2021-01-05
+"Phoenix, AZ",DJB200252,1,0,4,0,0,0,0,2021-01-05
+"Brawley, CA",additional_21,1,0,9,1,0,0,0,2021-01-05
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2021-01-05
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2021-01-05
+"San Juan, PR",additional_63,0,0,15,0,0,0,0,2021-01-05
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-05
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-05
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-05
+"Brooklyn, NY",15BRRC19D00000249,0,0,9,3,0,0,0,2021-01-05
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-05
+"Buffalo, NY",additional_83,0,0,0,3,0,0,0,2021-01-05
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2021-01-05
+"Neward, NJ",additional_91,1,0,8,1,0,0,0,2021-01-05
+"Syracuse, NY",additional_78,0,0,1,2,0,0,0,2021-01-05
+"Pawtucket, RI",additional_107,0,0,1,2,0,0,0,2021-01-05
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-05
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-05
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-06
+"Portland, OR",additional_52,0,0,2,0,0,0,0,2021-01-06
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-06
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-06
+"Tacoma, WA",additional_109,0,0,0,2,0,0,0,2021-01-06
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-06
+"Boston, MA",15BRRC20D00000046,0,0,3,3,0,0,0,2021-01-06
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2021-01-06
+"Washington, DC",additional_110,0,0,0,1,0,0,0,2021-01-06
+"Detriot, MI",15BRRC19D00000203,0,0,1,8,0,0,0,2021-01-06
+"Nashville, TN",additional_103,0,0,2,2,0,0,0,2021-01-06
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-06
+"Memphis, TN",additional_45,0,0,3,15,0,0,0,2021-01-06
+"St Albans, WV",additional_113,0,0,1,9,0,0,0,2021-01-06
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2021-01-06
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-06
+"Baltimore, MD",additional_53,0,0,2,19,0,0,0,2021-01-06
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2021-01-06
+"Clarksburg, WV",additional_116,0,0,0,8,0,0,0,2021-01-06
+"Harrisburg, PA",additional_101,0,0,5,0,0,0,0,2021-01-06
+"Philadelphia, PA",15BRRC19D00000194,0,0,11,1,0,0,0,2021-01-06
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-06
+"Rochester,NY",15BRRC19D00000218,0,0,3,6,0,0,0,2021-01-06
+"Pittsburgh, PA",additional_114,0,0,0,2,0,0,0,2021-01-06
+"Cleveland, OH",additional_49,0,0,3,2,0,0,0,2021-01-06
+"Hartford, CT",15BRRC20D00000297,0,0,1,0,0,0,0,2021-01-06
+"Louisville, KY",additional_86,0,0,3,1,0,0,0,2021-01-06
+"West Palm Beach, FL",additional_60,0,0,11,0,0,0,0,2021-01-06
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-06
+"Dania, FL",15BRRC19D00000208,0,0,4,0,0,0,0,2021-01-06
+"Birmingham, AL",15BRRC19D00000207,0,0,0,2,0,0,0,2021-01-06
+"Miami, FL",additional_41,0,0,4,3,0,0,0,2021-01-06
+"Chattanooga, TN",additional_25,0,0,5,0,0,0,0,2021-01-06
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-06
+"Florence, SC",additional_81,0,0,2,9,0,0,0,2021-01-06
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-06
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2021-01-06
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-06
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-06
+"Columbia, SC",additional_108,0,0,0,6,0,0,0,2021-01-06
+"Miami, FL",additional_100,0,0,1,1,0,0,0,2021-01-06
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-06
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2021-01-06
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,0,0,0,0,2021-01-06
+"Janesville, WI",additional_106,0,0,1,2,0,0,0,2021-01-06
+"Youngstown, OH",additional_102,0,0,3,0,0,0,0,2021-01-06
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2021-01-06
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-06
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-06
+"Chicago, IL",15BRRC18D00000091,0,0,11,2,0,0,0,2021-01-06
+"Peoria, IL",additional_90,0,0,7,0,0,0,0,2021-01-06
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-06
+"Grand Rapids, MI",15BRRC19D00000005,0,0,4,1,0,0,0,2021-01-06
+"Rapid City, SD",additional_11,0,0,2,0,0,0,0,2021-01-06
+"Brownsville, TX",additional_31,1,1,2,0,0,0,0,2021-01-06
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-06
+"Hutchins, TX",15BRRC19D00000185,1,0,12,2,0,0,0,2021-01-06
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2021-01-06
+"San Antonio, TX",additional_19,0,0,12,5,0,0,0,2021-01-06
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-06
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-06
+"Houston, TX",DJB200242,2,0,16,1,0,0,0,2021-01-06
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-06
+"Del Rio, TX",additional_42,0,0,5,1,0,0,0,2021-01-06
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-06
+"Edinburg, TX",additional_35,0,0,19,9,0,0,0,2021-01-06
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2021-01-06
+"Midland, TX",additional_50,0,0,11,0,0,0,0,2021-01-06
+"Laredo, TX",additional_24,0,0,2,2,0,0,0,2021-01-06
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-06
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2021-01-06
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-06
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2021-01-06
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2021-01-06
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-06
+"Roseville, MN",additional_68,0,0,6,0,0,0,0,2021-01-06
+"Toledo, OH",DJB200236,0,0,2,1,0,0,0,2021-01-06
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2021-01-06
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-06
+"Omaha, NE",additional_62,0,0,5,0,0,0,0,2021-01-06
+"Denver, CO",additional_89,1,0,6,0,0,0,0,2021-01-06
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-06
+"Leavenworth, KS",15BRRC19D00000149,0,0,25,3,0,0,0,2021-01-06
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2021-01-06
+"Boise, ID",additional_87,0,0,1,8,0,0,0,2021-01-06
+"Mills, WY",additional_97,0,0,6,0,0,0,0,2021-01-06
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2021-01-06
+"Devils Lake, ND",additional_104,0,0,4,0,0,0,0,2021-01-06
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-06
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-06
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-06
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-06
+"Van Nuys, CA",additional_58,0,0,2,3,0,0,0,2021-01-06
+"Tucson, AZ",additional_29,0,0,3,8,0,0,0,2021-01-06
+"San Diego, CA",additional_12,0,0,9,5,0,0,0,2021-01-06
+"Las Vegas, NV",additional_28,0,0,9,0,0,0,0,2021-01-06
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-06
+"Los Angeles, CA",additional_111,0,0,0,7,0,0,0,2021-01-06
+"Salt Lake City, UT",additional_38,0,0,21,0,0,0,0,2021-01-06
+"El Monte, CA",additional_51,0,0,1,5,0,0,0,2021-01-06
+"San Francisco, CA",additional_20,0,0,0,2,0,0,0,2021-01-06
+"Garden Grove, CA",additional_59,0,0,3,6,0,0,0,2021-01-06
+"Los Angeles, CA",additional_1,0,0,0,2,0,0,0,2021-01-06
+"Rubidoux, CA",additional_67,0,0,2,10,0,0,0,2021-01-06
+"Phoenix, AZ",DJB200252,1,0,4,0,0,0,0,2021-01-06
+"Brawley, CA",additional_21,1,0,10,0,0,0,0,2021-01-06
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2021-01-06
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2021-01-06
+"San Juan, PR",additional_63,0,0,15,0,0,0,0,2021-01-06
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-06
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-06
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-06
+"Brooklyn, NY",15BRRC19D00000249,0,0,9,3,0,0,0,2021-01-06
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-06
+"Buffalo, NY",additional_83,0,0,1,2,0,0,0,2021-01-06
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2021-01-06
+"Neward, NJ",additional_91,1,0,8,1,0,0,0,2021-01-06
+"Syracuse, NY",additional_78,0,0,1,2,0,0,0,2021-01-06
+"Pawtucket, RI",additional_107,0,0,1,2,0,0,0,2021-01-06
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-06
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-06
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-07
+"Portland, OR",additional_52,0,0,2,0,0,0,0,2021-01-07
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-07
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-07
+"Tacoma, WA",additional_109,0,0,1,1,0,0,0,2021-01-07
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-07
+"Boston, MA",15BRRC20D00000046,0,0,6,0,0,0,0,2021-01-07
+"Portland, ME",additional_112,0,0,0,1,0,0,0,2021-01-07
+"Washington, DC",additional_110,0,0,1,0,0,0,0,2021-01-07
+"Detriot, MI",15BRRC19D00000203,0,0,1,9,0,0,0,2021-01-07
+"Nashville, TN",additional_103,0,0,2,2,0,0,0,2021-01-07
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-07
+"Memphis, TN",additional_45,0,0,4,14,0,0,0,2021-01-07
+"St Albans, WV",additional_113,0,0,8,2,0,0,0,2021-01-07
+"Wilmington, DE",15BRRC19D00000025,0,0,1,1,0,0,0,2021-01-07
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-07
+"Baltimore, MD",additional_53,0,0,2,19,0,0,0,2021-01-07
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2021-01-07
+"Clarksburg, WV",additional_116,0,0,0,8,0,0,0,2021-01-07
+"Harrisburg, PA",additional_101,0,0,5,0,0,0,0,2021-01-07
+"Philadelphia, PA",15BRRC19D00000194,0,0,12,0,0,0,0,2021-01-07
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-07
+"Rochester,NY",15BRRC19D00000218,0,0,9,0,0,0,0,2021-01-07
+"Pittsburgh, PA",additional_114,0,0,0,2,0,0,0,2021-01-07
+"Cleveland, OH",additional_49,0,0,3,2,0,0,0,2021-01-07
+"Hartford, CT",15BRRC20D00000297,0,0,1,0,0,0,0,2021-01-07
+"Louisville, KY",additional_86,0,0,3,1,0,0,0,2021-01-07
+"West Palm Beach, FL",additional_60,0,0,11,0,0,0,0,2021-01-07
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-07
+"Dania, FL",15BRRC19D00000208,0,0,4,1,0,0,0,2021-01-07
+"Birmingham, AL",15BRRC19D00000207,0,0,2,1,0,0,0,2021-01-07
+"Miami, FL",additional_41,0,0,4,3,0,0,0,2021-01-07
+"Chattanooga, TN",additional_25,0,0,5,0,0,0,0,2021-01-07
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-07
+"Florence, SC",additional_81,0,0,11,0,0,0,0,2021-01-07
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-07
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2021-01-07
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-07
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-07
+"Columbia, SC",additional_108,0,0,3,3,0,0,0,2021-01-07
+"Miami, FL",additional_100,0,0,1,1,0,0,0,2021-01-07
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-07
+"Janesville, WI",additional_115,0,0,0,1,0,0,0,2021-01-07
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,0,0,0,0,2021-01-07
+"Janesville, WI",additional_106,0,0,2,1,0,0,0,2021-01-07
+"Youngstown, OH",additional_102,0,0,3,0,0,0,0,2021-01-07
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2021-01-07
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-07
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-07
+"Chicago, IL",15BRRC18D00000091,0,0,11,2,0,0,0,2021-01-07
+"Peoria, IL",additional_90,0,0,7,0,0,0,0,2021-01-07
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-07
+"Grand Rapids, MI",15BRRC19D00000005,0,0,4,1,0,0,0,2021-01-07
+"Rapid City, SD",additional_11,0,0,2,0,0,0,0,2021-01-07
+"Brownsville, TX",additional_31,1,1,2,0,0,0,0,2021-01-07
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-07
+"Hutchins, TX",15BRRC19D00000185,1,0,12,2,0,0,0,2021-01-07
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2021-01-07
+"San Antonio, TX",additional_19,0,0,13,4,0,0,0,2021-01-07
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-07
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-07
+"Houston, TX",DJB200242,2,0,16,1,0,0,0,2021-01-07
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-07
+"Del Rio, TX",additional_42,0,0,6,0,0,0,0,2021-01-07
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-07
+"Edinburg, TX",additional_35,0,0,25,3,0,0,0,2021-01-07
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2021-01-07
+"Midland, TX",additional_50,0,0,11,0,0,0,0,2021-01-07
+"Laredo, TX",additional_24,0,0,2,2,0,0,0,2021-01-07
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-07
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2021-01-07
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-07
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2021-01-07
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2021-01-07
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-07
+"Roseville, MN",additional_68,0,0,6,0,0,0,0,2021-01-07
+"Toledo, OH",DJB200236,0,0,3,0,0,0,0,2021-01-07
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2021-01-07
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-07
+"Omaha, NE",additional_62,0,0,5,0,0,0,0,2021-01-07
+"Denver, CO",additional_89,1,0,6,0,0,0,0,2021-01-07
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-07
+"Leavenworth, KS",15BRRC19D00000149,0,0,26,2,0,0,0,2021-01-07
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2021-01-07
+"Boise, ID",additional_87,0,0,3,6,0,0,0,2021-01-07
+"Mills, WY",additional_97,0,0,6,0,0,0,0,2021-01-07
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2021-01-07
+"Devils Lake, ND",additional_104,0,0,4,0,0,0,0,2021-01-07
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-07
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-07
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-07
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-07
+"Van Nuys, CA",additional_58,0,0,2,3,0,0,0,2021-01-07
+"Tucson, AZ",additional_29,0,0,5,6,0,0,0,2021-01-07
+"San Diego, CA",additional_12,0,0,10,4,0,0,0,2021-01-07
+"Las Vegas, NV",additional_28,0,0,9,0,0,0,0,2021-01-07
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-07
+"Los Angeles, CA",additional_111,0,0,1,6,0,0,0,2021-01-07
+"Salt Lake City, UT",additional_38,0,0,21,0,0,0,0,2021-01-07
+"El Monte, CA",additional_51,0,0,3,3,0,0,0,2021-01-07
+"San Francisco, CA",additional_20,0,0,0,2,0,0,0,2021-01-07
+"Garden Grove, CA",additional_59,0,0,4,6,0,0,0,2021-01-07
+"Los Angeles, CA",additional_1,0,0,0,2,0,0,0,2021-01-07
+"Rubidoux, CA",additional_67,0,0,5,7,0,0,0,2021-01-07
+"Phoenix, AZ",DJB200252,1,0,4,0,0,0,0,2021-01-07
+"Brawley, CA",additional_21,1,0,10,0,0,0,0,2021-01-07
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2021-01-07
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2021-01-07
+"San Juan, PR",additional_63,0,0,15,0,0,0,0,2021-01-07
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-07
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-07
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-07
+"Brooklyn, NY",15BRRC19D00000249,0,0,10,2,0,0,0,2021-01-07
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-07
+"Buffalo, NY",additional_83,0,0,1,2,0,0,0,2021-01-07
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2021-01-07
+"Neward, NJ",additional_91,1,0,8,1,0,0,0,2021-01-07
+"Syracuse, NY",additional_78,0,0,2,1,0,0,0,2021-01-07
+"Pawtucket, RI",additional_107,0,0,3,0,0,0,0,2021-01-07
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-07
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-07
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-08
+"Portland, OR",additional_52,0,0,2,0,0,0,0,2021-01-08
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-08
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-08
+"Tacoma, WA",additional_109,0,0,1,1,0,0,0,2021-01-08
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-08
+"Boston, MA",15BRRC20D00000046,0,0,6,0,0,0,0,2021-01-08
+"Portland, ME",additional_112,0,0,1,0,0,0,0,2021-01-08
+"Washington, DC",additional_110,0,0,1,0,0,0,0,2021-01-08
+"Detriot, MI",15BRRC19D00000203,0,0,3,7,0,0,0,2021-01-08
+"Nashville, TN",additional_103,0,0,3,1,0,0,0,2021-01-08
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-08
+"Memphis, TN",additional_45,0,0,16,2,0,0,0,2021-01-08
+"St Albans, WV",additional_113,0,0,8,2,0,0,0,2021-01-08
+"Wilmington, DE",15BRRC19D00000025,0,0,2,0,0,0,0,2021-01-08
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-08
+"Baltimore, MD",additional_53,0,0,4,17,0,0,0,2021-01-08
+"Lexington, KY",additional_8,0,0,1,0,0,0,0,2021-01-08
+"Clarksburg, WV",additional_116,0,0,0,8,0,0,0,2021-01-08
+"Harrisburg, PA",additional_101,0,0,5,0,0,0,0,2021-01-08
+"Philadelphia, PA",15BRRC19D00000194,0,0,12,0,0,0,0,2021-01-08
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-08
+"Rochester,NY",15BRRC19D00000218,0,0,9,0,0,0,0,2021-01-08
+"Pittsburgh, PA",additional_114,0,0,1,1,0,0,0,2021-01-08
+"Cleveland, OH",additional_49,0,0,3,2,0,0,0,2021-01-08
+"Hartford, CT",15BRRC20D00000297,0,0,1,0,0,0,0,2021-01-08
+"Louisville, KY",additional_86,0,0,4,0,0,0,0,2021-01-08
+"West Palm Beach, FL",additional_60,0,0,11,0,0,0,0,2021-01-08
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-08
+"Dania, FL",15BRRC19D00000208,0,0,4,1,0,0,0,2021-01-08
+"Birmingham, AL",15BRRC19D00000207,0,0,2,1,0,0,0,2021-01-08
+"Miami, FL",additional_41,0,0,5,2,0,0,0,2021-01-08
+"Chattanooga, TN",additional_25,0,0,5,0,0,0,0,2021-01-08
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-08
+"Florence, SC",additional_81,0,0,11,0,0,0,0,2021-01-08
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-08
+"Jacksonville, FL",additional_39,0,0,10,0,0,0,0,2021-01-08
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-08
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-08
+"Columbia, SC",additional_108,0,0,3,3,0,0,0,2021-01-08
+"Miami, FL",additional_100,0,0,1,1,0,0,0,2021-01-08
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-08
+"Janesville, WI",additional_115,0,0,1,0,0,0,0,2021-01-08
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,0,0,0,0,2021-01-08
+"Janesville, WI",additional_106,0,0,2,1,0,0,0,2021-01-08
+"Youngstown, OH",additional_102,0,0,3,0,0,0,0,2021-01-08
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2021-01-08
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-08
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-08
+"Chicago, IL",15BRRC18D00000091,0,0,12,1,0,0,0,2021-01-08
+"Peoria, IL",additional_90,0,0,7,0,0,0,0,2021-01-08
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-08
+"Grand Rapids, MI",15BRRC19D00000005,0,0,5,0,0,0,0,2021-01-08
+"Rapid City, SD",additional_11,0,0,2,0,0,0,0,2021-01-08
+"Brownsville, TX",additional_31,1,1,2,0,0,0,0,2021-01-08
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-08
+"Hutchins, TX",15BRRC19D00000185,1,0,12,2,0,0,0,2021-01-08
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2021-01-08
+"San Antonio, TX",additional_19,0,0,13,6,0,0,0,2021-01-08
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-08
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-08
+"Houston, TX",DJB200242,2,0,16,1,0,0,0,2021-01-08
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-08
+"Del Rio, TX",additional_42,0,0,6,0,0,0,0,2021-01-08
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-08
+"Edinburg, TX",additional_35,0,0,25,3,0,0,0,2021-01-08
+"Albuquerque, NM",additional_13,0,0,32,1,0,0,0,2021-01-08
+"Midland, TX",additional_50,0,0,11,0,0,0,0,2021-01-08
+"Laredo, TX",additional_24,0,0,2,2,0,0,0,2021-01-08
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-08
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2021-01-08
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-08
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2021-01-08
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2021-01-08
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-08
+"Roseville, MN",additional_68,0,0,6,0,0,0,0,2021-01-08
+"Toledo, OH",DJB200236,0,0,3,0,0,0,0,2021-01-08
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2021-01-08
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-08
+"Omaha, NE",additional_62,0,0,5,0,0,0,0,2021-01-08
+"Denver, CO",additional_89,1,0,6,0,0,0,0,2021-01-08
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-08
+"Leavenworth, KS",15BRRC19D00000149,0,0,26,2,0,0,0,2021-01-08
+"Wichita, KS",additional_95,0,0,6,0,0,0,0,2021-01-08
+"Boise, ID",additional_87,0,0,7,2,0,0,0,2021-01-08
+"Mills, WY",additional_97,0,0,6,0,0,0,0,2021-01-08
+"Great Falls, MT",additional_85,0,0,6,0,0,0,0,2021-01-08
+"Devils Lake, ND",additional_104,0,0,4,0,0,0,0,2021-01-08
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-08
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-08
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-08
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-08
+"Van Nuys, CA",additional_58,0,0,2,3,0,0,0,2021-01-08
+"Tucson, AZ",additional_29,0,0,6,6,0,0,0,2021-01-08
+"San Diego, CA",additional_12,0,0,10,4,0,0,0,2021-01-08
+"Las Vegas, NV",additional_28,0,0,9,0,0,0,0,2021-01-08
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-08
+"Los Angeles, CA",additional_111,0,0,1,6,0,0,0,2021-01-08
+"Salt Lake City, UT",additional_38,0,0,21,0,0,0,0,2021-01-08
+"El Monte, CA",additional_51,0,0,3,3,0,0,0,2021-01-08
+"San Francisco, CA",additional_20,0,0,0,2,0,0,0,2021-01-08
+"Garden Grove, CA",additional_59,0,0,4,6,0,0,0,2021-01-08
+"Los Angeles, CA",additional_1,0,0,1,1,0,0,0,2021-01-08
+"Rubidoux, CA",additional_67,0,0,8,4,0,0,0,2021-01-08
+"Phoenix, AZ",DJB200252,1,0,4,0,0,0,0,2021-01-08
+"Brawley, CA",additional_21,1,0,10,0,0,0,0,2021-01-08
+"Oakland, CA",15BRRC20D00000011,0,0,4,0,0,0,0,2021-01-08
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2021-01-08
+"San Juan, PR",additional_63,0,0,15,0,0,0,0,2021-01-08
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-08
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-08
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-08
+"Brooklyn, NY",15BRRC19D00000249,0,0,10,2,0,0,0,2021-01-08
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-08
+"Buffalo, NY",additional_83,0,0,1,2,0,0,0,2021-01-08
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2021-01-08
+"Neward, NJ",additional_91,1,0,8,1,0,0,0,2021-01-08
+"Syracuse, NY",additional_78,0,0,2,1,0,0,0,2021-01-08
+"Pawtucket, RI",additional_107,0,0,3,0,0,0,0,2021-01-08
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-08
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-08
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-11
+"Portland, OR",additional_52,0,0,2,0,0,0,0,2021-01-11
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-11
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-11
+"Tacoma, WA",additional_109,0,0,1,1,0,0,0,2021-01-11
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-11
+"Boston, MA",15BRRC20D00000046,0,0,6,0,0,0,0,2021-01-11
+"Portland, ME",additional_112,0,0,1,0,0,0,0,2021-01-11
+"Washington, DC",additional_110,0,0,1,0,0,0,0,2021-01-11
+"Detriot, MI",15BRRC19D00000203,0,0,3,7,0,0,0,2021-01-11
+"Nashville, TN",additional_103,0,0,3,12,0,0,0,2021-01-11
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-11
+"Memphis, TN",additional_45,0,0,16,2,0,0,0,2021-01-11
+"St Albans, WV",additional_113,0,0,7,2,0,0,0,2021-01-11
+"Wilmington, DE",15BRRC19D00000025,0,0,2,0,0,0,0,2021-01-11
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-11
+"Baltimore, MD",additional_53,0,0,4,17,0,0,0,2021-01-11
+"Lexington, KY",additional_8,0,0,1,3,0,0,0,2021-01-11
+"Clarksburg, WV",additional_116,0,0,0,8,0,0,0,2021-01-11
+"Harrisburg, PA",additional_101,0,0,5,0,0,0,0,2021-01-11
+"Philadelphia, PA",15BRRC19D00000194,0,0,12,1,0,0,0,2021-01-11
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-11
+"Rochester,NY",15BRRC19D00000218,0,0,9,0,0,0,0,2021-01-11
+"Pittsburgh, PA",additional_114,0,0,1,1,0,0,0,2021-01-11
+"Cleveland, OH",additional_49,0,0,3,2,0,0,0,2021-01-11
+"Hartford, CT",15BRRC20D00000297,0,0,1,0,0,0,0,2021-01-11
+"Louisville, KY",additional_86,0,0,4,0,0,0,0,2021-01-11
+"West Palm Beach, FL",additional_60,0,0,11,0,0,0,0,2021-01-11
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-11
+"Dania, FL",15BRRC19D00000208,0,0,3,1,0,0,0,2021-01-11
+"Birmingham, AL",15BRRC19D00000207,0,0,2,2,0,0,0,2021-01-11
+"Miami, FL",additional_41,0,0,5,2,0,0,0,2021-01-11
+"Chattanooga, TN",additional_25,0,0,5,0,0,0,0,2021-01-11
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-11
+"Florence, SC",additional_81,0,0,10,0,0,0,0,2021-01-11
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-11
+"Jacksonville, FL",additional_39,0,0,9,0,0,0,0,2021-01-11
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-11
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-11
+"Columbia, SC",additional_108,0,0,3,3,0,0,0,2021-01-11
+"Miami, FL",additional_100,0,0,1,1,0,0,0,2021-01-11
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-11
+"Janesville, WI",additional_115,0,0,1,0,0,0,0,2021-01-11
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,0,0,0,0,2021-01-11
+"Janesville, WI",additional_106,0,0,2,1,0,0,0,2021-01-11
+"Youngstown, OH",additional_102,0,0,3,0,0,0,0,2021-01-11
+"Ciincinnati, OH",additional_55,0,0,4,1,0,0,0,2021-01-11
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-11
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-11
+"Chicago, IL",15BRRC18D00000091,0,0,11,1,0,0,0,2021-01-11
+"Peoria, IL",additional_90,0,0,7,0,0,0,0,2021-01-11
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-11
+"Grand Rapids, MI",15BRRC19D00000005,0,0,5,0,0,0,0,2021-01-11
+"Rapid City, SD",additional_11,0,0,2,0,0,0,0,2021-01-11
+"Brownsville, TX",additional_31,1,1,2,0,0,0,0,2021-01-11
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-11
+"Hutchins, TX",15BRRC19D00000185,1,0,12,2,0,0,0,2021-01-11
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2021-01-11
+"San Antonio, TX",additional_19,0,0,11,6,0,0,0,2021-01-11
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-11
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-11
+"Houston, TX",DJB200242,2,0,16,1,0,0,0,2021-01-11
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-11
+"Del Rio, TX",additional_42,0,0,5,0,0,0,0,2021-01-11
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-11
+"Edinburg, TX",additional_35,0,0,23,3,0,0,0,2021-01-11
+"Albuquerque, NM",additional_13,0,0,31,1,0,0,0,2021-01-11
+"Midland, TX",additional_50,0,0,10,0,0,0,0,2021-01-11
+"Laredo, TX",additional_24,0,0,2,2,0,0,0,2021-01-11
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-11
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2021-01-11
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-11
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2021-01-11
+"Sioux City, IA",additional_22,0,0,2,1,0,0,0,2021-01-11
+"Topeka, KS",additional_27,0,0,0,1,0,0,0,2021-01-11
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-11
+"Roseville, MN",additional_68,0,0,6,0,0,0,0,2021-01-11
+"Toledo, OH",DJB200236,0,0,2,0,0,0,0,2021-01-11
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2021-01-11
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-11
+"Omaha, NE",additional_62,0,0,5,0,0,0,0,2021-01-11
+"Denver, CO",additional_89,1,0,6,0,0,0,0,2021-01-11
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-11
+"Leavenworth, KS",15BRRC19D00000149,0,0,25,2,0,0,0,2021-01-11
+"Wichita, KS",additional_95,0,0,5,0,0,0,0,2021-01-11
+"Boise, ID",additional_87,0,0,7,2,0,0,0,2021-01-11
+"Mills, WY",additional_97,0,0,6,0,0,0,0,2021-01-11
+"Great Falls, MT",additional_85,0,0,4,0,0,0,0,2021-01-11
+"Devils Lake, ND",additional_104,0,0,4,0,0,0,0,2021-01-11
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-11
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-11
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-11
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-11
+"Van Nuys, CA",additional_58,0,0,2,3,0,0,0,2021-01-11
+"Tucson, AZ",additional_29,0,0,6,6,0,0,0,2021-01-11
+"San Diego, CA",additional_12,0,0,10,4,0,0,0,2021-01-11
+"Las Vegas, NV",additional_28,0,0,9,0,0,0,0,2021-01-11
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-11
+"Los Angeles, CA",additional_111,0,0,1,6,0,0,0,2021-01-11
+"Salt Lake City, UT",additional_38,0,0,18,0,0,0,0,2021-01-11
+"El Monte, CA",additional_51,0,0,3,3,0,0,0,2021-01-11
+"San Francisco, CA",additional_20,0,0,0,2,0,0,0,2021-01-11
+"Garden Grove, CA",additional_59,0,0,4,6,0,0,0,2021-01-11
+"Los Angeles, CA",additional_1,0,0,1,1,0,0,0,2021-01-11
+"Rubidoux, CA",additional_67,0,0,7,3,0,0,0,2021-01-11
+"Phoenix, AZ",DJB200252,1,0,3,0,0,0,0,2021-01-11
+"Brawley, CA",additional_21,1,0,8,0,0,0,0,2021-01-11
+"Oakland, CA",15BRRC20D00000011,0,0,3,0,0,0,0,2021-01-11
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2021-01-11
+"San Juan, PR",additional_63,0,0,13,0,0,0,0,2021-01-11
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-11
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-11
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-11
+"Brooklyn, NY",15BRRC19D00000249,0,0,8,2,0,0,0,2021-01-11
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-11
+"Buffalo, NY",additional_83,0,0,1,2,0,0,0,2021-01-11
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2021-01-11
+"Neward, NJ",additional_91,1,0,8,1,0,0,0,2021-01-11
+"Syracuse, NY",additional_78,0,0,2,1,0,0,0,2021-01-11
+"Pawtucket, RI",additional_107,0,0,3,0,0,0,0,2021-01-11
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-11
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-11
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-12
+"Portland, OR",additional_52,0,0,2,0,0,0,0,2021-01-12
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-12
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-12
+"Tacoma, WA",additional_109,0,0,1,1,0,0,0,2021-01-12
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-12
+"Boston, MA",15BRRC20D00000046,0,0,6,0,0,0,0,2021-01-12
+"Portland, ME",additional_112,0,0,1,0,0,0,0,2021-01-12
+"Washington, DC",additional_110,0,0,1,0,0,0,0,2021-01-12
+"Detriot, MI",15BRRC19D00000203,0,0,7,3,0,0,0,2021-01-12
+"Nashville, TN",additional_103,0,0,3,12,0,0,0,2021-01-12
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-12
+"Memphis, TN",additional_45,0,0,16,6,0,0,0,2021-01-12
+"St Albans, WV",additional_113,0,0,9,0,0,0,0,2021-01-12
+"Wilmington, DE",15BRRC19D00000025,0,0,2,0,0,0,0,2021-01-12
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-12
+"Baltimore, MD",additional_53,0,0,16,5,0,0,0,2021-01-12
+"Lexington, KY",additional_8,0,0,2,2,0,0,0,2021-01-12
+"Clarksburg, WV",additional_116,0,0,1,7,0,0,0,2021-01-12
+"Harrisburg, PA",additional_101,0,0,5,0,0,0,0,2021-01-12
+"Philadelphia, PA",15BRRC19D00000194,0,0,12,1,0,0,0,2021-01-12
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-12
+"Rochester,NY",15BRRC19D00000218,0,0,9,0,0,0,0,2021-01-12
+"Pittsburgh, PA",additional_114,0,0,1,2,0,0,0,2021-01-12
+"Cleveland, OH",additional_49,0,0,4,1,0,0,0,2021-01-12
+"Hartford, CT",15BRRC20D00000297,0,0,1,0,0,0,0,2021-01-12
+"Louisville, KY",additional_86,0,0,4,0,0,0,0,2021-01-12
+"West Palm Beach, FL",additional_60,0,0,11,0,0,0,0,2021-01-12
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-12
+"Dania, FL",15BRRC19D00000208,0,0,3,1,0,0,0,2021-01-12
+"Birmingham, AL",15BRRC19D00000207,0,0,2,3,0,0,0,2021-01-12
+"Miami, FL",additional_41,0,0,5,2,0,0,0,2021-01-12
+"Chattanooga, TN",additional_25,0,0,5,0,0,0,0,2021-01-12
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-12
+"Florence, SC",additional_81,0,0,10,0,0,0,0,2021-01-12
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-12
+"Jacksonville, FL",additional_39,0,0,9,0,0,0,0,2021-01-12
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-12
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-12
+"Columbia, SC",additional_108,0,0,3,3,0,0,0,2021-01-12
+"Miami, FL",additional_100,0,0,1,1,0,0,0,2021-01-12
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-12
+"Janesville, WI",additional_115,0,0,1,0,0,0,0,2021-01-12
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,0,0,0,0,2021-01-12
+"Janesville, WI",additional_106,0,0,2,1,0,0,0,2021-01-12
+"Youngstown, OH",additional_102,0,0,3,1,0,0,0,2021-01-12
+"Ciincinnati, OH",additional_55,0,0,5,0,0,0,0,2021-01-12
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-12
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-12
+"Chicago, IL",15BRRC18D00000091,0,0,11,1,0,0,0,2021-01-12
+"Peoria, IL",additional_90,0,0,7,0,0,0,0,2021-01-12
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-12
+"Grand Rapids, MI",15BRRC19D00000005,0,0,5,0,0,0,0,2021-01-12
+"Rapid City, SD",additional_11,0,0,2,0,0,0,0,2021-01-12
+"Brownsville, TX",additional_31,1,1,2,0,0,0,0,2021-01-12
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-12
+"Hutchins, TX",15BRRC19D00000185,1,0,12,2,0,0,0,2021-01-12
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2021-01-12
+"San Antonio, TX",additional_19,0,0,11,6,0,0,0,2021-01-12
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-12
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-12
+"Houston, TX",DJB200242,2,0,17,0,0,0,0,2021-01-12
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-12
+"Del Rio, TX",additional_42,0,0,5,0,0,0,0,2021-01-12
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-12
+"Edinburg, TX",additional_35,0,0,25,1,0,0,0,2021-01-12
+"Albuquerque, NM",additional_13,0,0,31,1,0,0,0,2021-01-12
+"Midland, TX",additional_50,0,0,10,0,0,0,0,2021-01-12
+"Laredo, TX",additional_24,0,0,2,2,0,0,0,2021-01-12
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-12
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2021-01-12
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-12
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2021-01-12
+"Sioux City, IA",additional_22,0,0,3,0,0,0,0,2021-01-12
+"Topeka, KS",additional_27,0,0,0,1,0,0,0,2021-01-12
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-12
+"Roseville, MN",additional_68,0,0,6,0,0,0,0,2021-01-12
+"Toledo, OH",DJB200236,0,0,2,0,0,0,0,2021-01-12
+"Manchester, KY",additional_7,0,0,1,0,0,0,0,2021-01-12
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-12
+"Omaha, NE",additional_62,0,0,5,0,0,0,0,2021-01-12
+"Denver, CO",additional_89,1,0,6,0,0,0,0,2021-01-12
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-12
+"Leavenworth, KS",15BRRC19D00000149,0,0,26,1,0,0,0,2021-01-12
+"Wichita, KS",additional_95,0,0,5,0,0,0,0,2021-01-12
+"Boise, ID",additional_87,0,0,7,2,0,0,0,2021-01-12
+"Mills, WY",additional_97,0,0,6,0,0,0,0,2021-01-12
+"Great Falls, MT",additional_85,0,0,4,0,0,0,0,2021-01-12
+"Devils Lake, ND",additional_104,0,0,4,0,0,0,0,2021-01-12
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-12
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-12
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-12
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-12
+"Van Nuys, CA",additional_58,0,0,2,3,0,0,0,2021-01-12
+"Tucson, AZ",additional_29,0,0,9,3,0,0,0,2021-01-12
+"San Diego, CA",additional_12,0,0,11,3,0,0,0,2021-01-12
+"Las Vegas, NV",additional_28,0,0,9,0,0,0,0,2021-01-12
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-12
+"Los Angeles, CA",additional_111,0,0,2,5,0,0,0,2021-01-12
+"Salt Lake City, UT",additional_38,0,0,18,0,0,0,0,2021-01-12
+"El Monte, CA",additional_51,0,0,4,2,0,0,0,2021-01-12
+"San Francisco, CA",additional_20,0,0,1,1,0,0,0,2021-01-12
+"Garden Grove, CA",additional_59,0,0,5,5,0,0,0,2021-01-12
+"Los Angeles, CA",additional_1,0,0,2,0,0,0,0,2021-01-12
+"Rubidoux, CA",additional_67,0,0,8,2,0,0,0,2021-01-12
+"Phoenix, AZ",DJB200252,1,0,3,0,0,0,0,2021-01-12
+"Brawley, CA",additional_21,1,0,8,0,0,0,0,2021-01-12
+"Oakland, CA",15BRRC20D00000011,0,0,3,0,0,0,0,2021-01-12
+"Atlanta, GA",additional_30,0,0,3,3,0,0,0,2021-01-12
+"San Juan, PR",additional_63,0,0,13,0,0,0,0,2021-01-12
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-12
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-12
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-12
+"Brooklyn, NY",15BRRC19D00000249,0,0,8,2,0,0,0,2021-01-12
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-12
+"Buffalo, NY",additional_83,0,0,1,2,0,0,0,2021-01-12
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2021-01-12
+"Neward, NJ",additional_91,1,0,8,1,0,0,0,2021-01-12
+"Syracuse, NY",additional_78,0,0,2,1,0,0,0,2021-01-12
+"Pawtucket, RI",additional_107,0,0,3,0,0,0,0,2021-01-12
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-12
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-12
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-13
+"Portland, OR",additional_52,0,0,2,0,0,0,0,2021-01-13
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-13
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-13
+"Tacoma, WA",additional_109,0,0,1,1,0,0,0,2021-01-13
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-13
+"Boston, MA",15BRRC20D00000046,0,0,6,0,0,0,0,2021-01-13
+"Portland, ME",additional_112,0,0,1,0,0,0,0,2021-01-13
+"Washington, DC",additional_110,0,0,1,0,0,0,0,2021-01-13
+"Detriot, MI",15BRRC19D00000203,0,0,7,4,0,0,0,2021-01-13
+"Nashville, TN",additional_103,0,0,3,12,0,0,0,2021-01-13
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-13
+"Memphis, TN",additional_45,0,0,16,6,0,0,0,2021-01-13
+"St Albans, WV",additional_113,0,0,9,0,0,0,0,2021-01-13
+"Wilmington, DE",15BRRC19D00000025,0,0,2,0,0,0,0,2021-01-13
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-13
+"Baltimore, MD",additional_53,0,0,19,2,0,0,0,2021-01-13
+"Lexington, KY",additional_8,0,0,2,3,0,0,0,2021-01-13
+"Clarksburg, WV",additional_116,0,0,2,6,0,0,0,2021-01-13
+"Harrisburg, PA",additional_101,0,0,5,0,0,0,0,2021-01-13
+"Philadelphia, PA",15BRRC19D00000194,0,0,12,5,0,0,0,2021-01-13
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-13
+"Rochester,NY",15BRRC19D00000218,0,0,9,0,0,0,0,2021-01-13
+"Pittsburgh, PA",additional_114,0,0,1,3,0,0,0,2021-01-13
+"Cleveland, OH",additional_49,0,0,5,0,0,0,0,2021-01-13
+"Hartford, CT",15BRRC20D00000297,0,0,1,0,0,0,0,2021-01-13
+"Louisville, KY",additional_86,0,0,4,0,0,0,0,2021-01-13
+"West Palm Beach, FL",additional_60,0,0,11,0,0,0,0,2021-01-13
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-13
+"Dania, FL",15BRRC19D00000208,0,0,3,1,0,0,0,2021-01-13
+"Birmingham, AL",15BRRC19D00000207,0,0,2,3,0,0,0,2021-01-13
+"Miami, FL",additional_41,0,0,5,2,0,0,0,2021-01-13
+"Chattanooga, TN",additional_25,0,0,5,0,0,0,0,2021-01-13
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-13
+"Florence, SC",additional_81,0,0,10,0,0,0,0,2021-01-13
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-13
+"Jacksonville, FL",additional_39,0,0,9,0,0,0,0,2021-01-13
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-13
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-13
+"Columbia, SC",additional_108,0,0,5,1,0,0,0,2021-01-13
+"Miami, FL",additional_100,0,0,1,1,0,0,0,2021-01-13
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-13
+"Janesville, WI",additional_115,0,0,1,0,0,0,0,2021-01-13
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,0,0,0,0,2021-01-13
+"Janesville, WI",additional_106,0,0,2,1,0,0,0,2021-01-13
+"Youngstown, OH",additional_102,0,0,3,1,0,0,0,2021-01-13
+"Ciincinnati, OH",additional_55,0,0,5,0,0,0,0,2021-01-13
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-13
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-13
+"Chicago, IL",15BRRC18D00000091,0,0,11,1,0,0,0,2021-01-13
+"Peoria, IL",additional_90,0,0,7,0,0,0,0,2021-01-13
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-13
+"Grand Rapids, MI",15BRRC19D00000005,0,0,5,0,0,0,0,2021-01-13
+"Rapid City, SD",additional_11,0,0,2,0,0,0,0,2021-01-13
+"Metairie, LA",15BRRC18D00000020,0,0,0,1,0,0,0,2021-01-13
+"Brownsville, TX",additional_31,1,1,2,0,0,0,0,2021-01-13
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-13
+"Hutchins, TX",15BRRC19D00000185,1,0,12,2,0,0,0,2021-01-13
+"Waco, TX",additional_118,0,0,0,1,0,0,0,2021-01-13
+"San Antonio, TX",additional_19,0,0,12,5,0,0,0,2021-01-13
+"Baton Rouge, LA",additional_119,0,0,0,1,0,0,0,2021-01-13
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-13
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-13
+"Houston, TX",DJB200242,2,0,17,1,0,0,0,2021-01-13
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-13
+"Del Rio, TX",additional_42,0,0,5,0,0,0,0,2021-01-13
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-13
+"Edinburg, TX",additional_35,0,0,26,0,0,0,0,2021-01-13
+"Albuquerque, NM",additional_13,0,0,31,1,0,0,0,2021-01-13
+"Midland, TX",additional_50,0,0,10,0,0,0,0,2021-01-13
+"Laredo, TX",additional_24,0,0,2,3,0,0,0,2021-01-13
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-13
+"Farmington, MO",15BRRC19D00000148,0,0,1,2,0,0,0,2021-01-13
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-13
+"El Dorado, KS",additional_117,0,0,0,1,0,0,0,2021-01-13
+"Sioux City, IA",additional_22,0,0,3,0,0,0,0,2021-01-13
+"Topeka, KS",additional_27,0,0,0,1,0,0,0,2021-01-13
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-13
+"Roseville, MN",additional_68,0,0,6,0,0,0,0,2021-01-13
+"Toledo, OH",DJB200236,0,0,2,0,0,0,0,2021-01-13
+"Manchester, KY",additional_7,0,0,1,1,0,0,0,2021-01-13
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-13
+"Omaha, NE",additional_62,0,0,5,0,0,0,0,2021-01-13
+"Denver, CO",additional_89,1,0,6,0,0,0,0,2021-01-13
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-13
+"Leavenworth, KS",15BRRC19D00000149,0,0,26,1,0,0,0,2021-01-13
+"Wichita, KS",additional_95,0,0,5,0,0,0,0,2021-01-13
+"Boise, ID",additional_87,0,0,7,2,0,0,0,2021-01-13
+"Mills, WY",additional_97,0,0,6,0,0,0,0,2021-01-13
+"Great Falls, MT",additional_85,0,0,4,0,0,0,0,2021-01-13
+"Devils Lake, ND",additional_104,0,0,4,0,0,0,0,2021-01-13
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-13
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-13
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-13
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-13
+"Van Nuys, CA",additional_58,0,0,2,7,0,0,0,2021-01-13
+"Tucson, AZ",additional_29,0,0,11,1,0,0,0,2021-01-13
+"San Diego, CA",additional_12,0,0,13,2,0,0,0,2021-01-13
+"Las Vegas, NV",additional_28,0,0,9,0,0,0,0,2021-01-13
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-13
+"Los Angeles, CA",additional_111,0,0,3,4,0,0,0,2021-01-13
+"Salt Lake City, UT",additional_38,0,0,18,0,0,0,0,2021-01-13
+"El Monte, CA",additional_51,0,0,4,3,0,0,0,2021-01-13
+"San Francisco, CA",additional_20,0,0,2,0,0,0,0,2021-01-13
+"Garden Grove, CA",additional_59,0,0,6,5,0,0,0,2021-01-13
+"Los Angeles, CA",additional_1,0,0,2,0,0,0,0,2021-01-13
+"Rubidoux, CA",additional_67,0,0,8,2,0,0,0,2021-01-13
+"Phoenix, AZ",DJB200252,1,0,3,0,0,0,0,2021-01-13
+"Brawley, CA",additional_21,1,0,8,0,0,0,0,2021-01-13
+"Oakland, CA",15BRRC20D00000011,0,0,3,0,0,0,0,2021-01-13
+"Atlanta, GA",additional_30,0,0,4,2,0,0,0,2021-01-13
+"San Juan, PR",additional_63,0,0,13,1,0,0,0,2021-01-13
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-13
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-13
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-13
+"Brooklyn, NY",15BRRC19D00000249,0,0,9,1,0,0,0,2021-01-13
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-13
+"Buffalo, NY",additional_83,0,0,3,0,0,0,0,2021-01-13
+"Philadelphia, PA",15BRRC19D00000162,0,0,0,1,0,0,0,2021-01-13
+"Neward, NJ",additional_91,1,0,9,0,0,0,0,2021-01-13
+"Syracuse, NY",additional_78,0,0,2,1,0,0,0,2021-01-13
+"Pawtucket, RI",additional_107,0,0,3,0,0,0,0,2021-01-13
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-13
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-13
+"Anchorage, AK",additional_94,0,0,1,0,0,0,0,2021-01-14
+"Portland, OR",additional_52,0,0,2,0,0,0,0,2021-01-14
+"Florence, AZ",additional_5,0,0,1,0,0,0,0,2021-01-14
+"Seattle, WA",DJB200280,0,0,1,0,0,0,0,2021-01-14
+"Tacoma, WA",additional_109,0,0,1,1,0,0,0,2021-01-14
+"Hartford, CT",additional_3,0,0,1,0,0,0,0,2021-01-14
+"Boston, MA",15BRRC20D00000046,0,0,6,0,0,0,0,2021-01-14
+"Portland, ME",additional_112,0,0,1,0,0,0,0,2021-01-14
+"Washington, DC",additional_110,0,0,1,0,0,0,0,2021-01-14
+"Detriot, MI",15BRRC19D00000203,0,0,9,2,0,0,0,2021-01-14
+"Nashville, TN",additional_103,0,0,4,11,0,0,0,2021-01-14
+"Greensboro, NC",additional_10,0,0,1,0,0,0,0,2021-01-14
+"Memphis, TN",additional_45,0,0,18,4,0,0,0,2021-01-14
+"St Albans, WV",additional_113,0,0,9,0,0,0,0,2021-01-14
+"Wilmington, DE",15BRRC19D00000025,0,0,2,0,0,0,0,2021-01-14
+"Norfolk, VA",additional_48,0,0,1,0,0,0,0,2021-01-14
+"Baltimore, MD",additional_53,0,0,20,1,0,0,0,2021-01-14
+"Lexington, KY",additional_8,0,0,2,5,0,0,0,2021-01-14
+"Clarksburg, WV",additional_116,0,0,3,5,0,0,0,2021-01-14
+"Harrisburg, PA",additional_101,0,0,5,0,0,0,0,2021-01-14
+"Philadelphia, PA",15BRRC19D00000194,0,0,12,5,0,0,0,2021-01-14
+"Bronx, NY",additional_2,1,1,1,0,0,0,0,2021-01-14
+"Rochester,NY",15BRRC19D00000218,0,0,9,0,0,0,0,2021-01-14
+"Pittsburgh, PA",additional_114,0,0,1,3,0,0,0,2021-01-14
+"Cleveland, OH",additional_49,0,0,5,0,0,0,0,2021-01-14
+"Hartford, CT",15BRRC20D00000297,0,0,1,0,0,0,0,2021-01-14
+"Louisville, KY",additional_86,0,0,4,0,0,0,0,2021-01-14
+"West Palm Beach, FL",additional_60,0,0,11,0,0,0,0,2021-01-14
+"Knoxville, TN",additional_66,0,0,1,0,0,0,0,2021-01-14
+"Dania, FL",15BRRC19D00000208,0,0,3,1,0,0,0,2021-01-14
+"Birmingham, AL",15BRRC19D00000207,0,0,2,3,0,0,0,2021-01-14
+"Miami, FL",additional_41,0,0,5,2,0,0,0,2021-01-14
+"Chattanooga, TN",additional_25,0,0,5,0,0,0,0,2021-01-14
+"FT Myers, FL",additional_40,0,0,1,0,0,0,0,2021-01-14
+"Florence, SC",additional_81,0,0,10,0,0,0,0,2021-01-14
+"Hattiesburg, MS",additional_43,1,1,0,0,0,0,0,2021-01-14
+"Jacksonville, FL",additional_39,0,0,9,0,0,0,0,2021-01-14
+"Tallahassee, FL",additional_75,0,0,1,0,0,0,0,2021-01-14
+"Tampa, FL",additional_18,0,0,3,0,0,0,0,2021-01-14
+"Columbia, SC",additional_108,0,0,6,0,0,0,0,2021-01-14
+"Miami, FL",additional_100,0,0,1,2,0,0,0,2021-01-14
+"Orlando, FL",additional_57,0,0,2,0,0,0,0,2021-01-14
+"Janesville, WI",additional_115,0,0,1,0,0,0,0,2021-01-14
+"Minneapolis, MN",15BRRC20D00000275,0,0,6,1,0,0,0,2021-01-14
+"Janesville, WI",additional_106,0,0,2,1,0,0,0,2021-01-14
+"Youngstown, OH",additional_102,0,0,3,1,0,0,0,2021-01-14
+"Ciincinnati, OH",additional_55,0,0,5,0,0,0,0,2021-01-14
+"Indianapolis, IN",additional_16,0,0,5,0,0,0,0,2021-01-14
+"Marion, IL",additional_92,0,0,1,0,0,0,0,2021-01-14
+"Chicago, IL",15BRRC18D00000091,0,0,11,1,0,0,0,2021-01-14
+"Peoria, IL",additional_90,0,0,7,0,0,0,0,2021-01-14
+"Springfield, IL",additional_88,0,0,1,0,0,0,0,2021-01-14
+"Grand Rapids, MI",15BRRC19D00000005,0,0,5,0,0,0,0,2021-01-14
+"Rapid City, SD",additional_11,0,0,2,0,0,0,0,2021-01-14
+"Metairie, LA",15BRRC18D00000020,0,0,0,1,0,0,0,2021-01-14
+"Brownsville, TX",additional_31,1,1,2,0,0,0,0,2021-01-14
+"Chaparral, NM",additional_6,0,0,1,0,0,0,0,2021-01-14
+"Hutchins, TX",15BRRC19D00000185,1,0,14,0,0,0,0,2021-01-14
+"Waco, TX",additional_118,0,0,1,0,0,0,0,2021-01-14
+"San Antonio, TX",additional_19,0,0,12,5,0,0,0,2021-01-14
+"Baton Rouge, LA",additional_119,0,0,0,1,0,0,0,2021-01-14
+"Tyler,TX",additional_65,0,0,8,0,0,0,0,2021-01-14
+"Corpus Christi, TX",15BRRC19D00000161,0,0,1,0,0,0,0,2021-01-14
+"Houston, TX",DJB200242,2,0,17,1,0,0,0,2021-01-14
+"Little Rock, AR",additional_37,0,0,1,0,0,0,0,2021-01-14
+"Del Rio, TX",additional_42,0,0,5,0,0,0,0,2021-01-14
+"El Paso, TX",additional_96,0,0,3,0,0,0,0,2021-01-14
+"Edinburg, TX",additional_35,0,0,26,0,0,0,0,2021-01-14
+"Albuquerque, NM",additional_13,0,0,31,1,0,0,0,2021-01-14
+"Midland, TX",additional_50,0,0,10,0,0,0,0,2021-01-14
+"Laredo, TX",additional_24,0,0,2,3,0,0,0,2021-01-14
+"Saint Louis, MO",DJB200282,0,0,2,0,0,0,0,2021-01-14
+"Farmington, MO",15BRRC19D00000148,0,0,3,0,0,0,0,2021-01-14
+"Springfield, MO",additional_64,0,0,3,0,0,0,0,2021-01-14
+"El Dorado, KS",additional_117,0,0,1,0,0,0,0,2021-01-14
+"Sioux City, IA",additional_22,0,0,3,0,0,0,0,2021-01-14
+"Topeka, KS",additional_27,0,0,0,1,0,0,0,2021-01-14
+"Kearney, NE",additional_84,0,0,1,0,0,0,0,2021-01-14
+"Roseville, MN",additional_68,0,0,6,0,0,0,0,2021-01-14
+"Toledo, OH",DJB200236,0,0,2,0,0,0,0,2021-01-14
+"Manchester, KY",additional_7,0,0,1,1,0,0,0,2021-01-14
+"Memphis, TN",additional_105,0,0,1,0,0,0,0,2021-01-14
+"Omaha, NE",additional_62,0,0,5,1,0,0,0,2021-01-14
+"Denver, CO",additional_89,1,0,6,0,0,0,0,2021-01-14
+"Mandan, ND",additional_71,0,0,2,0,0,0,0,2021-01-14
+"Eau Claire, WI",additional_76,0,0,0,1,0,0,0,2021-01-14
+"Leavenworth, KS",15BRRC19D00000149,0,0,27,0,0,0,0,2021-01-14
+"Wichita, KS",additional_95,0,0,5,0,0,0,0,2021-01-14
+"Boise, ID",additional_87,0,0,7,2,0,0,0,2021-01-14
+"Mills, WY",additional_97,0,0,6,0,0,0,0,2021-01-14
+"Great Falls, MT",additional_85,0,0,4,0,0,0,0,2021-01-14
+"Devils Lake, ND",additional_104,0,0,4,0,0,0,0,2021-01-14
+"Fargo, ND",additional_23,0,0,8,0,0,0,0,2021-01-14
+"Fargo, ND",additional_14,0,0,1,0,0,0,0,2021-01-14
+"Billings, MT",additional_44,0,0,1,0,0,0,0,2021-01-14
+"Sacramento, CA",15BRRC18D00000106,0,0,1,0,0,0,0,2021-01-14
+"Van Nuys, CA",additional_58,0,0,4,5,0,0,0,2021-01-14
+"Tucson, AZ",additional_29,0,0,11,1,0,0,0,2021-01-14
+"San Diego, CA",additional_12,0,0,14,1,0,0,0,2021-01-14
+"Las Vegas, NV",additional_28,0,0,9,0,0,0,0,2021-01-14
+"Billings, MT",additional_77,0,0,1,0,0,0,0,2021-01-14
+"Los Angeles, CA",additional_111,0,0,4,3,0,0,0,2021-01-14
+"Salt Lake City, UT",additional_38,0,0,18,0,0,0,0,2021-01-14
+"El Monte, CA",additional_51,0,0,5,2,0,0,0,2021-01-14
+"San Francisco, CA",additional_20,0,0,2,0,0,0,0,2021-01-14
+"Garden Grove, CA",additional_59,0,0,8,3,0,0,0,2021-01-14
+"Los Angeles, CA",additional_1,0,0,2,0,0,0,0,2021-01-14
+"Rubidoux, CA",additional_67,0,0,9,2,0,0,0,2021-01-14
+"Phoenix, AZ",DJB200252,1,0,3,0,0,0,0,2021-01-14
+"Brawley, CA",additional_21,1,0,8,0,0,0,0,2021-01-14
+"Oakland, CA",15BRRC20D00000011,0,0,3,0,0,0,0,2021-01-14
+"Atlanta, GA",additional_30,0,0,4,2,0,0,0,2021-01-14
+"San Juan, PR",additional_63,0,0,13,1,0,0,0,2021-01-14
+"Greenville, SC",DJB200296,0,0,3,0,0,0,0,2021-01-14
+"Augusta, GA",additional_79,0,0,1,0,0,0,0,2021-01-14
+"Savannah, GA",additional_80,0,0,5,0,0,0,0,2021-01-14
+"Brooklyn, NY",15BRRC19D00000249,0,0,9,1,0,0,0,2021-01-14
+"Bridgeton, NJ",additional_98,0,0,2,0,0,0,0,2021-01-14
+"Buffalo, NY",additional_83,0,0,3,0,0,0,0,2021-01-14
+"Philadelphia, PA",15BRRC19D00000162,0,0,1,0,0,0,0,2021-01-14
+"Neward, NJ",additional_91,1,0,9,0,0,0,0,2021-01-14
+"Syracuse, NY",additional_78,0,0,2,1,0,0,0,2021-01-14
+"Pawtucket, RI",additional_107,0,0,3,0,0,0,0,2021-01-14
+"Manchester, NH",additional_4,0,0,1,0,0,0,0,2021-01-14
+"Del Valle, TX",additional_34,1,1,0,0,0,0,0,2021-01-14

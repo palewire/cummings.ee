@@ -33,7 +33,7 @@ class NunjucksEngine extends BaseEngine {
     this.createPages = createPages;
 
     // the glob pattern to use for finding files to process
-    this.filePattern = '**/*.{html,njk}';
+    this.filePattern = '**/*.{html,njk,txt}';
 
     // any files or paths to ignore when searching
     this.ignorePattern = [this.layouts, ...this.ignorePattern];
@@ -76,6 +76,10 @@ class NunjucksEngine extends BaseEngine {
 
   getOutputPath({ base, ext, input, name }) {
     // we always use "pretty" URLs, so we alter the pathname if it is index.html
+    if (['.txt', '.yaml', '.yml', '.json', '.md'].includes(ext)) {
+      return input;
+    }
+
     const pathname =
       name === 'index' ? input.replace(base, '') : input.replace(ext, '');
 

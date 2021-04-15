@@ -1,0 +1,12 @@
+{
+  "book": {
+    "title": "No Thanks",
+    "slug": "no-thanks",
+    "img": "no-thanks.jpg",
+    "description": "Published in 1935 by Golden Eagle Press, this book will enter the public domain in 2031.",
+    "public_domain": "false",
+    "html_url": "https://cummings.ee/book/no-thanks/",
+    "json_url": "https://cummings.ee/book/no-thanks.json"
+  },
+  "toc": []
+}

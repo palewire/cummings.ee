@@ -1,0 +1,12 @@
+{
+  "book": {
+    "title": "50 Poems",
+    "slug": "50-poems",
+    "img": "50-poems.jpg",
+    "description": "Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036.",
+    "public_domain": "false",
+    "html_url": "https://cummings.ee/book/50-poems/",
+    "json_url": "https://cummings.ee/book/50-poems.json"
+  },
+  "toc": []
+}

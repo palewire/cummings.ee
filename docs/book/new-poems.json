@@ -1,0 +1,12 @@
+{
+  "book": {
+    "title": "New Poems",
+    "slug": "new-poems",
+    "img": "new-poems.jpg",
+    "description": "These new poems were included in 1938’s Collected Poems. Initially published by Harcourt, it will enter the public domain in 2034.",
+    "public_domain": "false",
+    "html_url": "https://cummings.ee/book/new-poems/",
+    "json_url": "https://cummings.ee/book/new-poems.json"
+  },
+  "toc": []
+}

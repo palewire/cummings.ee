@@ -1,0 +1,49 @@
+---
+title: Orientale III
+slug: orientale-iii
+html_url: https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iii/
+json_url: https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iii.json
+markdown_url: https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iii.md
+txt_url: https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iii.txt
+yaml_url: https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iii.yaml
+---
+
+my love
+thy hair is one kingdom
+the king whereof is darkness
+thy forehead is a flight of flowers
+
+they head is a quick forest
+filled with sleeping birds
+thy breasts are swarms of white bees
+upon the bough of thy body
+thy body to me is April
+in whose armpits is the approach of spring
+
+thy thighs are white horses yoked to a chariot
+of kings
+they are the striking of a good minstrel
+between them is always a pleasant song
+
+my love
+thy head is a casket
+of the cool jewel of thy mind
+the hair of thy head is one warrior
+innocent of defeat
+thy hair upon thy shoulders is an army
+with victory and with trumpets
+thy legs are the trees of dreaming
+whose fruit is the very eatage of forgetfulness
+
+thy lips are satraps in scarlet
+in whose kiss is the combining of kings
+thy wrists
+are holy
+which are the keepers of the keys of thy blood
+thy feet upon thy ankles are flowers in vases
+of silver
+
+in thy beauty is the dilemma of flutes
+
+thy eyes are the betrayal
+of hells comprehended through incense

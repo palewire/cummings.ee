@@ -1,0 +1,58 @@
+---
+title: Songs IV
+slug: songs-iv
+html_url: https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv/
+json_url: https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.json
+markdown_url: https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.md
+txt_url: https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.txt
+yaml_url: https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.yaml
+---
+
+All in green went my love riding
+on a great horse of gold
+into the silver dawn.
+
+four lean hounds crouched low and smiling
+the merry deer ran before.
+
+Fleeter be they than dappled dreams
+the swift sweet deer
+the red rare deer.
+
+Four red roebuck at a white water
+the cruel bugle sang before.
+
+Horn at hip went my love riding
+riding the echo dawn
+into the silver dawn.
+
+four lean hounds crouched low and smiling
+the level meadows ran before.
+
+Softer be they than slippered sleep
+the lean lithe deer
+the fleet flown deer.
+
+Four fleet does at a gold valley
+the famished arrow sang before.
+
+Bow at belt went my love riding
+riding the mountain down
+into the silver dawn.
+
+four lean houds crouched low and smiling
+the sheer peaks ran before.
+
+Paler be they than daunting death
+the sleek slim deer
+the tall tense deer.
+
+Four tall stags at a green mountain
+the lucky hunter sang before.
+
+All in green went my love riding
+on a great horse of gold
+into the silver dawn.
+
+four lean hounds crouched low and smiling
+my heart fell dead before.

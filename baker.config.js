@@ -55,13 +55,13 @@ export default {
       const toc = data.toc[book.slug] || [];
       const allPoems = toc.map(getChildren).flat();
       const availablePoems = data.poems[book.slug] || {};
-      availablePoems.forEach((p) => {
+      allPoems.forEach((p) => {
         p.html_url = `https://cummings.ee/book/${book.slug}/poem/${p.slug}/`;
       });
       book.html_url = `https://cummings.ee/book/${book.slug}/`;
       book.json_url = `https://cummings.ee/book/${book.slug}.json`;
       createPage('book_detail.json.njk', `/book/${book.slug}.json`, {
-        text: JSON.stringify({ book, toc: availablePoems }, null, 2),
+        text: JSON.stringify({ book, toc: allPoems }, null, 2),
       });
       for (const [slug, poem] of Object.entries(availablePoems)) {
         poem.slug = slug;

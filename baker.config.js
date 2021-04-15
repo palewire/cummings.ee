@@ -54,6 +54,38 @@ export default {
       const allPoems = toc.map(getChildren).flat();
       const availablePoems = data.poems[book.slug] || {};
       for (const [slug, poem] of Object.entries(availablePoems)) {
+        poem.slug = slug;
+        poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${slug}/`;
+        poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;
+        poem.yaml_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.yaml`;
+        poem.txt_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.txt`;
+        poem.markdown_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.md`;
+        createPage(
+          'poem_detail.json.njk',
+          `/book/${book.slug}/poem/${slug}.json`,
+          {
+            text: JSON.stringify(poem, null, 2),
+          }
+        );
+        createPage(
+          'poem_detail.yaml.njk',
+          `/book/${book.slug}/poem/${slug}.yaml`,
+          {
+            book,
+            poem,
+            slug: slug,
+          }
+        );
+        createPage('poem_detail.md.njk', `/book/${book.slug}/poem/${slug}.md`, {
+          poem,
+        });
+        createPage(
+          'poem_detail.txt.njk',
+          `/book/${book.slug}/poem/${slug}.txt`,
+          {
+            poem,
+          }
+        );
         const index = allPoems.findIndex((e, i) => e.slug === slug);
         const previousIndex = allPoems[index - 1];
         if (previousIndex) {
@@ -63,7 +95,6 @@ export default {
         if (nextIndex) {
           poem.next_poem = availablePoems[nextIndex.slug] || {};
         }
-        poem.slug = slug;
         createPage('poem_detail.html', `/book/${book.slug}/poem/${slug}/`, {
           book,
           poem,

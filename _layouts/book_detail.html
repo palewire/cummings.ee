@@ -57,6 +57,7 @@
   {% if book.source %}
     <p>{{ book.source }}</p>
   {% endif %}
+   <p>The table of contents is also available in <a href="{{ book.json_url }}">json</a> format.</p>
   <p>{{ footer.copy }}</p>
 </footer>
 {% endblock footer -%}

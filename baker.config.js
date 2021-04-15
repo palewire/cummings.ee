@@ -53,6 +53,11 @@ export default {
     const books = data.books.list;
     for (const book of books) {
       const toc = data.toc[book.slug] || [];
+      book.html_url = `https://cummings.ee/book/${book.slug}/`;
+      book.json_url = `https://cummings.ee/book/${book.slug}.json`;
+      createPage('book_detail.json.njk', `/book/${book.slug}.json`, {
+        text: JSON.stringify({ book, toc }, null, 2),
+      });
       const allPoems = toc.map(getChildren).flat();
       const availablePoems = data.poems[book.slug] || {};
       for (const [slug, poem] of Object.entries(availablePoems)) {

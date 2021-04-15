@@ -1,0 +1,12 @@
+{
+  "book": {
+    "title": "73 Poems",
+    "slug": "73-poems",
+    "img": "73-poems.jpg",
+    "description": "Published in 1963 by Harcourt, this book will enter the public domain in 2059.",
+    "public_domain": "false",
+    "html_url": "https://cummings.ee/book/73-poems/",
+    "json_url": "https://cummings.ee/book/73-poems.json"
+  },
+  "toc": []
+}

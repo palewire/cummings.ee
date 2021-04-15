@@ -1,0 +1,12 @@
+{
+  "book": {
+    "title": "XAIPE",
+    "slug": "xaipe",
+    "img": "xaipe.jpg",
+    "description": "Published in 1950 by Oxford University Press, this book will enter the public domain in 2046.",
+    "public_domain": "false",
+    "html_url": "https://cummings.ee/book/xaipe/",
+    "json_url": "https://cummings.ee/book/xaipe.json"
+  },
+  "toc": []
+}

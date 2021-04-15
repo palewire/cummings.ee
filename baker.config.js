@@ -1,3 +1,5 @@
+const yaml = require('js-yaml');
+
 const entrypoints = ['poem'];
 
 function parsePoem(text) {
@@ -71,9 +73,7 @@ export default {
           'poem_detail.yaml.njk',
           `/book/${book.slug}/poem/${slug}.yaml`,
           {
-            book,
-            poem,
-            slug: slug,
+            text: yaml.dump(poem, { indent: 2 }),
           }
         );
         createPage('poem_detail.md.njk', `/book/${book.slug}/poem/${slug}.md`, {

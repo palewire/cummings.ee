@@ -73,7 +73,7 @@ export default {
           'poem_detail.yaml.njk',
           `/book/${book.slug}/poem/${slug}.yaml`,
           {
-            text: yaml.dump(poem, { indent: 2 }),
+            text: yaml.safeDump(poem, { indent: 2 }),
           }
         );
         createPage('poem_detail.md.njk', `/book/${book.slug}/poem/${slug}.md`, {

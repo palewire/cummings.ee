@@ -11,346 +11,334 @@
   },
   "toc": [
     {
-      "name": "Tulips",
-      "slug": "tulips",
-      "children": [
-        {
-          "name": "Epithalamion",
-          "slug": "epithalamion"
-        },
-        {
-          "name": "Of Nicolette",
-          "slug": "of-nicolette"
-        },
-        {
-          "name": "Songs",
-          "slug": "songs",
-          "children": [
-            {
-              "name": "I",
-              "slug": "songs-i"
-            },
-            {
-              "name": "II",
-              "slug": "songs-ii"
-            },
-            {
-              "name": "III",
-              "slug": "songs-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "songs-iv"
-            },
-            {
-              "name": "V",
-              "slug": "songs-v"
-            },
-            {
-              "name": "VI",
-              "slug": "songs-vi"
-            }
-          ]
-        },
-        {
-          "name": "Puella Mea",
-          "slug": "puella-mea"
-        },
-        {
-          "name": "Chansons Innocentes",
-          "slug": "chansons-innocentes",
-          "children": [
-            {
-              "name": "I",
-              "slug": "chansons-innocentes-i"
-            },
-            {
-              "name": "II",
-              "slug": "chansons-innocentes-ii"
-            },
-            {
-              "name": "III",
-              "slug": "chansons-innocentes-iii"
-            }
-          ]
-        },
-        {
-          "name": "Orientale",
-          "slug": "orientale",
-          "children": [
-            {
-              "name": "I",
-              "slug": "orientale-i"
-            },
-            {
-              "name": "II",
-              "slug": "orientale-ii"
-            },
-            {
-              "name": "III",
-              "slug": "orientale-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "orientale-iv"
-            },
-            {
-              "name": "V",
-              "slug": "orientale-v"
-            },
-            {
-              "name": "VI",
-              "slug": "orientale-vi"
-            }
-          ]
-        },
-        {
-          "name": "Amores",
-          "slug": "amores",
-          "children": [
-            {
-              "name": "I",
-              "slug": "amores-i"
-            },
-            {
-              "name": "II",
-              "slug": "amores-ii"
-            },
-            {
-              "name": "III",
-              "slug": "amores-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "amores-iv"
-            },
-            {
-              "name": "V",
-              "slug": "amores-v"
-            },
-            {
-              "name": "VI",
-              "slug": "amores-vi"
-            },
-            {
-              "name": "VII",
-              "slug": "amores-vii"
-            },
-            {
-              "name": "VIII",
-              "slug": "amores-viii"
-            }
-          ]
-        },
-        {
-          "name": "La Guerre",
-          "slug": "la-guerre",
-          "children": [
-            {
-              "name": "I",
-              "slug": "la-guerre-i"
-            },
-            {
-              "name": "II",
-              "slug": "la-guerre-ii"
-            }
-          ]
-        },
-        {
-          "name": "Impressions",
-          "slug": "impressions",
-          "children": [
-            {
-              "name": "I",
-              "slug": "impressions-i"
-            },
-            {
-              "name": "II",
-              "slug": "impressions-ii"
-            },
-            {
-              "name": "III",
-              "slug": "impressions-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "impressions-iv"
-            },
-            {
-              "name": "V",
-              "slug": "impressions-v"
-            }
-          ]
-        },
-        {
-          "name": "Portraits",
-          "slug": "portraits",
-          "children": [
-            {
-              "name": "I",
-              "slug": "portraits-i"
-            },
-            {
-              "name": "II",
-              "slug": "portraits-ii"
-            },
-            {
-              "name": "III",
-              "slug": "portraits-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "portraits-iv"
-            },
-            {
-              "name": "V",
-              "slug": "portraits-v"
-            },
-            {
-              "name": "VI",
-              "slug": "portraits-vi"
-            },
-            {
-              "name": "VII",
-              "slug": "portraits-vii"
-            },
-            {
-              "name": "VIII",
-              "slug": "portraits-viii"
-            },
-            {
-              "name": "IX",
-              "slug": "portraits-ix"
-            },
-            {
-              "name": "X",
-              "slug": "portraits-x"
-            }
-          ]
-        },
-        {
-          "name": "Post Impressions",
-          "slug": "post-impressions",
-          "children": [
-            {
-              "name": "I",
-              "slug": "post-impressions-i"
-            },
-            {
-              "name": "II",
-              "slug": "post-impressions-ii"
-            },
-            {
-              "name": "III",
-              "slug": "post-impressions-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "post-impressions-iv"
-            },
-            {
-              "name": "V",
-              "slug": "post-impressions-v"
-            },
-            {
-              "name": "VI",
-              "slug": "post-impressions-vi"
-            }
-          ]
-        }
-      ]
+      "name": "Epithalamion",
+      "slug": "epithalamion",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/epithalamion/"
     },
     {
-      "name": "Chimneys",
-      "slug": "chimneys",
-      "children": [
-        {
-          "name": "Sonnets—Realities",
-          "slug": "sonnets-realities",
-          "children": [
-            {
-              "name": "I",
-              "slug": "sonnets-realities-i"
-            },
-            {
-              "name": "II",
-              "slug": "sonnets-realities-ii"
-            },
-            {
-              "name": "III",
-              "slug": "sonnets-realities-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "sonnets-realities-iv"
-            },
-            {
-              "name": "V",
-              "slug": "sonnets-realities-v"
-            },
-            {
-              "name": "VI",
-              "slug": "sonnets-realities-vi"
-            }
-          ]
-        },
-        {
-          "name": "Sonnets—Unrealities",
-          "slug": "sonnets-unrealities",
-          "children": [
-            {
-              "name": "I",
-              "slug": "sonnets-unrealities-i"
-            },
-            {
-              "name": "II",
-              "slug": "sonnets-unrealities-ii"
-            },
-            {
-              "name": "III",
-              "slug": "sonnets-unrealities-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "sonnets-unrealities-iv"
-            },
-            {
-              "name": "V",
-              "slug": "sonnets-unrealities-v"
-            },
-            {
-              "name": "VI",
-              "slug": "sonnets-unrealities-vi"
-            }
-          ]
-        },
-        {
-          "name": "Sonnets—Actualities",
-          "slug": "sonnets-actualities",
-          "children": [
-            {
-              "name": "I",
-              "slug": "sonnets-actualities-i"
-            },
-            {
-              "name": "II",
-              "slug": "sonnets-actualities-ii"
-            },
-            {
-              "name": "III",
-              "slug": "sonnets-actualities-iii"
-            },
-            {
-              "name": "IV",
-              "slug": "sonnets-actualities-iv"
-            },
-            {
-              "name": "V",
-              "slug": "sonnets-actualities-v"
-            }
-          ]
-        }
-      ]
+      "name": "Of Nicolette",
+      "slug": "of-nicolette",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette/"
+    },
+    {
+      "name": "I",
+      "slug": "songs-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i/"
+    },
+    {
+      "name": "II",
+      "slug": "songs-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "songs-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "songs-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "songs-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "songs-vi",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi/"
+    },
+    {
+      "name": "Puella Mea",
+      "slug": "puella-mea",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/puella-mea/"
+    },
+    {
+      "name": "I",
+      "slug": "chansons-innocentes-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i/"
+    },
+    {
+      "name": "II",
+      "slug": "chansons-innocentes-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "chansons-innocentes-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii/"
+    },
+    {
+      "name": "I",
+      "slug": "orientale-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-i/"
+    },
+    {
+      "name": "II",
+      "slug": "orientale-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "orientale-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "orientale-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "orientale-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "orientale-vi",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/"
+    },
+    {
+      "name": "I",
+      "slug": "amores-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-i/"
+    },
+    {
+      "name": "II",
+      "slug": "amores-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "amores-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "amores-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "amores-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "amores-vi",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "amores-vii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "amores-viii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii/"
+    },
+    {
+      "name": "I",
+      "slug": "la-guerre-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/"
+    },
+    {
+      "name": "II",
+      "slug": "la-guerre-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii/"
+    },
+    {
+      "name": "I",
+      "slug": "impressions-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-i/"
+    },
+    {
+      "name": "II",
+      "slug": "impressions-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "impressions-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "impressions-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "impressions-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-v/"
+    },
+    {
+      "name": "I",
+      "slug": "portraits-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/"
+    },
+    {
+      "name": "II",
+      "slug": "portraits-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "portraits-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "portraits-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "portraits-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "portraits-vi",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "portraits-vii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "portraits-viii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "portraits-ix",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "portraits-x",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x/"
+    },
+    {
+      "name": "I",
+      "slug": "post-impressions-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i/"
+    },
+    {
+      "name": "II",
+      "slug": "post-impressions-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "post-impressions-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "post-impressions-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "post-impressions-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "post-impressions-vi",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-vi/"
+    },
+    {
+      "name": "I",
+      "slug": "sonnets-realities-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i/"
+    },
+    {
+      "name": "II",
+      "slug": "sonnets-realities-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "sonnets-realities-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "sonnets-realities-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "sonnets-realities-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "sonnets-realities-vi",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-vi/"
+    },
+    {
+      "name": "I",
+      "slug": "sonnets-unrealities-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-i/"
+    },
+    {
+      "name": "II",
+      "slug": "sonnets-unrealities-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "sonnets-unrealities-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "sonnets-unrealities-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "sonnets-unrealities-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "sonnets-unrealities-vi",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi/"
+    },
+    {
+      "name": "I",
+      "slug": "sonnets-actualities-i",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i/"
+    },
+    {
+      "name": "II",
+      "slug": "sonnets-actualities-ii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "sonnets-actualities-iii",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "sonnets-actualities-iv",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "sonnets-actualities-v",
+      "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-v/"
     }
   ]
 }

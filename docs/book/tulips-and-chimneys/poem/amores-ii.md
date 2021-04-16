@@ -1,5 +1,5 @@
 ---
-title: Amores I
+title: Amores II
 slug: amores-ii
 html_url: https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii/
 json_url: https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii.json

@@ -50,11 +50,18 @@ export default {
   },
   // use createPages to generate pages on the fly
   createPages(createPage, data) {
+    // Get all the books
     const books = data.books.list;
+
+    // Loop through them
     for (const book of books) {
+      // Get the table of contents, if it exists
       const toc = data.toc[book.slug] || [];
+
+      // Flatten the TOC, which may be nested, into a simple list
       const allPoems = toc.map(getChildren).flat();
-      const availablePoems = data.poems[book.slug] || {};
+
+      // Make a JSON file for the book and its metadata
       allPoems.forEach((p) => {
         p.html_url = `https://cummings.ee/book/${book.slug}/poem/${p.slug}/`;
       });
@@ -63,13 +70,37 @@ export default {
       createPage('book_detail.json.njk', `/book/${book.slug}.json`, {
         text: JSON.stringify({ book, toc: allPoems }, null, 2),
       });
+
+      // Pull the poems that have actually been keypunched
+      const availablePoems = data.poems[book.slug] || {};
+
+      // Create the HTML page for the book
+      createPage('book_detail.html', `/book/${book.slug}/`, {
+        book,
+        allPoems,
+        availablePoems,
+      });
+
+      // Loop through those
       for (const [slug, poem] of Object.entries(availablePoems)) {
+        // Set all the poem metadata
         poem.slug = slug;
         poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${slug}/`;
         poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;
         poem.yaml_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.yaml`;
         poem.txt_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.txt`;
         poem.markdown_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.md`;
+
+        // Create a YAML output
+        createPage(
+          'poem_detail.yaml.njk',
+          `/book/${book.slug}/poem/${slug}.yaml`,
+          {
+            text: yaml.dump(poem, { indent: 2 }),
+          }
+        );
+
+        // Create a JSON output
         createPage(
           'poem_detail.json.njk',
           `/book/${book.slug}/poem/${slug}.json`,
@@ -77,16 +108,13 @@ export default {
             text: JSON.stringify(poem, null, 2),
           }
         );
-        createPage(
-          'poem_detail.yaml.njk',
-          `/book/${book.slug}/poem/${slug}.yaml`,
-          {
-            text: yaml.safeDump(poem, { indent: 2 }),
-          }
-        );
+
+        // Create a markdown output
         createPage('poem_detail.md.njk', `/book/${book.slug}/poem/${slug}.md`, {
           poem,
         });
+
+        // Create a text output
         createPage(
           'poem_detail.txt.njk',
           `/book/${book.slug}/poem/${slug}.txt`,
@@ -94,26 +122,27 @@ export default {
             poem,
           }
         );
+
+        // Get the previous and next poems, if they exist
         const index = allPoems.findIndex((e, i) => e.slug === slug);
+
         const previousIndex = allPoems[index - 1];
         if (previousIndex) {
           poem.previous_poem = availablePoems[previousIndex.slug] || {};
         }
+
         const nextIndex = allPoems[index + 1];
         if (nextIndex) {
           poem.next_poem = availablePoems[nextIndex.slug] || {};
         }
+
+        // Create the HTML page for the poem
         createPage('poem_detail.html', `/book/${book.slug}/poem/${slug}/`, {
           book,
           poem,
           slug: slug,
         });
       }
-      createPage('book_detail.html', `/book/${book.slug}/`, {
-        book,
-        allPoems,
-        availablePoems,
-      });
     }
   },
   minifyOptions: { collapseWhitespace: false },

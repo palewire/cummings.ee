@@ -7,4 +7,4 @@ markdown_url: {{ poem.markdown_url }}
 txt_url: {{ poem.txt_url }}
 yaml_url: {{ poem.yaml_url }}
 ---
-{{ poem.text }}
+{{ poem.text|safe }}

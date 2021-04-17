@@ -18,7 +18,10 @@
       padding-left: 1em;
       display: inline-block;
       .indent {
-        letter-spacing: 0.225rem;
+        letter-spacing: 0.2rem;
+        @media (max-width: 480px) {
+          letter-spacing: 0.175rem;
+        }
       }
     }
   }

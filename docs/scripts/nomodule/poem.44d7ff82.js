@@ -116,7 +116,7 @@
         );
       }),
     A = Object.getOwnPropertyDescriptor,
-    L = {
+    T = {
       f: i
         ? A
         : function (t, n) {
@@ -127,7 +127,7 @@
             if (b(t, n)) return f(!a.f.call(t, n), t[n]);
           },
     },
-    T = function (t) {
+    L = function (t) {
       if (!d(t)) throw TypeError(String(t) + ' is not an object');
       return t;
     },
@@ -136,7 +136,7 @@
       f: i
         ? E
         : function (t, n, r) {
-            if ((T(t), (n = g(n, !0)), T(r), j))
+            if ((L(t), (n = g(n, !0)), L(r), j))
               try {
                 return E(t, n, r);
               } catch (e) {}
@@ -334,29 +334,29 @@
     St =
       it('Reflect', 'ownKeys') ||
       function (t) {
-        var n = mt.f(T(t)),
+        var n = mt.f(L(t)),
           r = bt.f;
         return r ? n.concat(r(t)) : n;
       },
     Ot = function (t, n) {
-      for (var r = St(n), e = P.f, o = L.f, i = 0; i < r.length; i++) {
+      for (var r = St(n), e = P.f, o = T.f, i = 0; i < r.length; i++) {
         var c = r[i];
         b(t, c) || e(t, c, o(n, c));
       }
     },
     wt = /#|\.prototype\./,
     jt = function (t, n) {
-      var r = Lt[At(t)];
-      return r == Et || (r != Tt && ('function' == typeof n ? o(n) : !!n));
+      var r = Tt[At(t)];
+      return r == Et || (r != Lt && ('function' == typeof n ? o(n) : !!n));
     },
     At = (jt.normalize = function (t) {
       return String(t).replace(wt, '.').toLowerCase();
     }),
-    Lt = (jt.data = {}),
-    Tt = (jt.NATIVE = 'N'),
+    Tt = (jt.data = {}),
+    Lt = (jt.NATIVE = 'N'),
     Et = (jt.POLYFILL = 'P'),
     Pt = jt,
-    _t = L.f,
+    _t = T.f,
     It = function (t, n) {
       var r,
         o,
@@ -523,7 +523,7 @@
     $t = i
       ? Object.defineProperties
       : function (t, n) {
-          T(t);
+          L(t);
           for (var r, e = Zt(n), o = e.length, i = 0; o > i; )
             P.f(t, (r = e[i++]), n[r]);
           return t;
@@ -562,7 +562,7 @@
         var r;
         return (
           null !== t
-            ? ((rn.prototype = T(t)),
+            ? ((rn.prototype = L(t)),
               (r = new rn()),
               (rn.prototype = null),
               (r[nn] = t))
@@ -593,12 +593,12 @@
     (an[un][fn] = !0);
   var yn = function (t, n, r, e) {
       try {
-        return e ? n(T(r)[0], r[1]) : n(r);
+        return e ? n(L(r)[0], r[1]) : n(r);
       } catch (o) {
         throw (
           ((function (t) {
             var n = t.return;
-            if (void 0 !== n) T(n.call(t)).value;
+            if (void 0 !== n) L(n.call(t)).value;
           })(t),
           o)
         );
@@ -647,10 +647,10 @@
             : e;
         },
     An = Yt('iterator'),
-    Ln = function (t) {
+    Tn = function (t) {
       if (null != t) return t[An] || t['@@iterator'] || hn[jn(t)];
     },
-    Tn = Yt('iterator'),
+    Ln = Yt('iterator'),
     En = !1;
   try {
     var Pn = 0,
@@ -662,7 +662,7 @@
           En = !0;
         },
       };
-    (_n[Tn] = function () {
+    (_n[Ln] = function () {
       return this;
     }),
       Array.from(_n, function () {
@@ -674,7 +674,7 @@
     var r = !1;
     try {
       var e = {};
-      (e[Tn] = function () {
+      (e[Ln] = function () {
         return {
           next: function () {
             return { done: (r = !0) };
@@ -702,7 +702,7 @@
           f = arguments.length,
           l = f > 1 ? arguments[1] : void 0,
           s = void 0 !== l,
-          p = Ln(u),
+          p = Tn(u),
           y = 0;
         if (
           (s && (l = xt(l, f > 2 ? arguments[2] : void 0, 2)),
@@ -816,7 +816,7 @@
             } catch (vr) {}
             return function (r, e) {
               return (
-                T(r),
+                L(r),
                 (function (t) {
                   if (!d(t) && null !== t)
                     throw TypeError(
@@ -970,7 +970,6 @@
         pr.forEach = fr;
       }
   }
-  console.log('HELLO');
   var yr = document.getElementById('poem');
   function hr() {
     var t = document.getElementsByName('wrap');
@@ -985,4 +984,4 @@
     t.onclick = hr;
   });
 })();
-//# sourceMappingURL=poem.72ce50e3.js.map
+//# sourceMappingURL=poem.44d7ff82.js.map

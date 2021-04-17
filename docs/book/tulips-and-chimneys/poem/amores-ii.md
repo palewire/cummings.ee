@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Amores I
-=======
 title: Amores II
->>>>>>> 9226d844bdb2e770c70ae87ecc779e09a4c3ec44
 slug: amores-ii
 html_url: https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii/
 json_url: https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii.json

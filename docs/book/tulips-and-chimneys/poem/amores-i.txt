@@ -27,11 +27,7 @@ of the wafted stars
 
 (in time to come you shall
 remember of this night amazing
-<<<<<<< HEAD
-esctasies    slowly,
-=======
 esctasies      slowly,
->>>>>>> 9226d844bdb2e770c70ae87ecc779e09a4c3ec44
 in the glutted
 
 heart fleet
@@ -41,10 +37,6 @@ shall
 
 rise, slowly
 return upon the
-<<<<<<< HEAD
-                red elected lips
-=======
                   red elected lips
->>>>>>> 9226d844bdb2e770c70ae87ecc779e09a4c3ec44
 
 scaleless visions)

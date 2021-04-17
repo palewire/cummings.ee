@@ -1,5 +1,4 @@
-console.log('HELLO');
-
+// Line wrapping input
 const poem = document.getElementById('poem');
 
 function toggleNowrap() {

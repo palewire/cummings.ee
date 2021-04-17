@@ -10,14 +10,13 @@ function parsePoem(text) {
   let stanzaList = [];
   let thisStanza = [];
   lines.forEach((l) => {
+    // If it's an empty line, start a new stanza
     if (l.trim().length == 0) {
       stanzaList.push(thisStanza);
       thisStanza = [];
     } else {
-      thisStanza.push({
-        text: parseText(l),
-        class: 'line',
-      });
+      // Add to the current stanza
+      thisStanza.push(l);
     }
   });
   stanzaList.push(thisStanza);
@@ -25,7 +24,7 @@ function parsePoem(text) {
 }
 
 function parseText(text) {
-  return text;
+  return text.replace(/(  +)/g, "<span class='indent'>$1</span>");
 }
 
 function getChildren(node) {

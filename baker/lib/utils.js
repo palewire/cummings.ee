@@ -137,7 +137,7 @@ async function outputFile(dest, data) {
   await ensureDir(dest);
 
   try {
-    await fs.writeFile(dest, data);
+    await fs.writeFile(dest, data, { encoding: 'utf-8' });
   } catch (e) {
     throw e;
   }

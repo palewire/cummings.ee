@@ -22,10 +22,7 @@ jobs:
         run: npm ci
       
       - name: Run
-        run: |
-          export BAKER_OUTPUT=docs/ && npm run-script build
-          echo 'cummings.ee' > docs/CNAME
-          touch docs/.nojekyll
+        run: make build
 
       - name: Commit
         uses: ./.github/actions/commit

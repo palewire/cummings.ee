@@ -17,6 +17,9 @@
       text-indent: -1em;
       padding-left: 1em;
       display: inline-block;
+      .indent {
+        letter-spacing: 0.225rem;
+      }
     }
   }
   &.nowrap {

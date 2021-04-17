@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Amores I
+=======
+Amores II
+>>>>>>> 9226d844bdb2e770c70ae87ecc779e09a4c3ec44
 
 there is a
 moon sole

@@ -11,7 +11,11 @@ function parsePoem(text) {
   let thisStanza = [];
   lines.forEach((l) => {
     // If it's an empty line, start a new stanza
-    if (l.trim().length == 0) {
+    if (l.trim().length === 0) {
+      // if the stanza is empty, we need to stick in at least one empty line
+      if (thisStanza.length === 0) {
+        thisStanza.push('&nbsp;');
+      }
       stanzaList.push(thisStanza);
       thisStanza = [];
     } else {

@@ -31,7 +31,7 @@
 <footer name="footer" class="footer" role="contentinfo">
   <div class="break footer"></div>
   <p>The poem was first published in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.”</p>
-  <p>It is also available in <a href="{{ poem.json_url }}">json</a>, <a href="{{ poem.markdown_url }}">markdown</a>, <a href="{{ poem.txt_url }}">text</a> and <a href="{{ poem.yaml_url }}">yaml</a> formats.</p>
+  <p>It is also available in <a href="{{ poem.json_url }}">json</a> and <a href="{{ poem.txt_url }}">text</a> formats.</p>
   {% if poem.previous_poem.slug or poem.next_poem.slug %}
     <p>
         {% if poem.previous_poem.slug %}

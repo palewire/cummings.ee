@@ -87,18 +87,7 @@ export default {
         poem.slug = slug;
         poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${slug}/`;
         poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;
-        poem.yaml_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.yaml`;
         poem.txt_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.txt`;
-        poem.markdown_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.md`;
-
-        // Create a YAML output
-        createPage(
-          'poem_detail.yaml.njk',
-          `/book/${book.slug}/poem/${slug}.yaml`,
-          {
-            text: yaml.dump(poem, { indent: 2 }),
-          }
-        );
 
         // Create a JSON output
         createPage(
@@ -108,11 +97,6 @@ export default {
             text: JSON.stringify(poem, null, 2),
           }
         );
-
-        // Create a markdown output
-        createPage('poem_detail.md.njk', `/book/${book.slug}/poem/${slug}.md`, {
-          poem,
-        });
 
         // Create a text output
         createPage(

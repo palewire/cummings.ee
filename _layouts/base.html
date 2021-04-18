@@ -14,6 +14,7 @@
   <meta property="og:title" content="{{ meta.title }}">
   <meta property="og:description" content="{{ meta.description|striptags(true) }}">
   <meta property="og:url" content="{{ page.absoluteUrl }}">
+  <meta property="og:image" content="{% staticabsolute 'assets/img/social.png' %}">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="cummings.ee">
   <meta property="og:locale" content="en_US">
@@ -23,6 +24,7 @@
   <meta property="twitter:title" content="{{ meta.title }}">
   <meta property="twitter:description" content="{{ meta.description|striptags(true) }}">
   <meta property="twitter:url" content="{{ page.absoluteUrl }}">
+  <meta property="twitter:image" content="{% staticabsolute 'assets/img/social.png' %}">
   <meta property="twitter:site" content="@palewire">
   <meta property="twitter:card" content="summary_large_image">
   {% endblock twitter %}

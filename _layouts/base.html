@@ -25,7 +25,6 @@
   <meta property="twitter:description" content="{{ meta.description|striptags(true) }}">
   <meta property="twitter:url" content="{{ page.absoluteUrl }}">
   <meta property="twitter:image" content="{% staticabsolute 'assets/img/social.png' %}">
-  <meta property="twitter:site" content="@palewire">
   <meta property="twitter:card" content="summary_large_image">
   {% endblock twitter %}
 
@@ -35,6 +34,12 @@
     "@context": "http://schema.org",
     "@type": "NewsArticle",
     "headline": "{{ meta.title }}",
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "{% staticabsolute 'assets/img/social.png' %}",
+      "url": "{% staticabsolute 'assets/img/social.png' %}",
+      "representativeOfPage": true
+    },
     "mainEntityOfPage": "{{ page.absoluteUrl }}",
     "description": "{{ meta.description|striptags(true) }}",
     "publisher": {

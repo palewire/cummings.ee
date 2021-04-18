@@ -56,6 +56,9 @@ export default {
     // Get all the books
     const books = data.books.list;
 
+    // Create a list of all the URLs for our sitemap
+    let urlList = ['https://cummings.ee/'];
+
     // Loop through them
     for (const book of books) {
       // Get the table of contents, if it exists
@@ -69,6 +72,7 @@ export default {
         p.html_url = `https://cummings.ee/book/${book.slug}/poem/${p.slug}/`;
       });
       book.html_url = `https://cummings.ee/book/${book.slug}/`;
+      urlList.push(book.html_url);
       book.json_url = `https://cummings.ee/book/${book.slug}.json`;
       createPage('book_detail.json.njk', `/book/${book.slug}.json`, {
         text: JSON.stringify({ book, toc: allPoems }, null, 2),
@@ -91,6 +95,7 @@ export default {
         poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${slug}/`;
         poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;
         poem.txt_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.txt`;
+        urlList.push(poem.html_url);
 
         // Create a JSON output
         createPage(
@@ -131,6 +136,10 @@ export default {
         });
       }
     }
+    // Make sitemap
+    createPage('sitemap.xml.njk', `sitemap.xml`, {
+      urlList,
+    });
   },
   minifyOptions: { collapseWhitespace: false },
 };

@@ -10,19 +10,20 @@
 <header class="book">
   <h1>{{ book.title }}</h1>
 </header>
+{{ book|dump }}
 <section name="intro" class="intro">
   <p>
     {{ book.description }}
-    {% if book.public_domain == 'false' %}Until then, it remains protected by copyright and cannot be republished here.{% endif %}
+    {% if book.public_domain == false %}Until then, it remains protected by copyright and cannot be republished here.{% endif %}
   </p>
-  {% if book.public_domain == 'true' and (availablePoems|length) > 0 and (availablePoems.length != allPoems.length) %}
+  {% if book.public_domain == true and (availablePoems|length) > 0 and (availablePoems.length != allPoems.length) %}
   <p>
     Thus far, {{ availablePoems|length|apnumber }} of the book's {{ allPoems|length|apnumber }} poems have been digitized.
     {# <a href="">Here's how</a> you can get involved in adding more. #}
   </p>
   {% endif %}
 </section>
-{% if book.public_domain == 'true' and (availablePoems|length) > 0 %}
+{% if book.public_domain == true and (availablePoems|length) > 0 %}
 <section name="toc" class="toc">
   <h2>Table of contents</h2>
   <ul class="level1">

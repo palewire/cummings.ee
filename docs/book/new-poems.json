@@ -4,8 +4,8 @@
     "slug": "new-poems",
     "img": {
       "src": "new-poems.jpg",
-      "width": null,
-      "height": null
+      "width": "200px",
+      "height": "304px"
     },
     "description": "These new poems were included in 1938’s Collected Poems. Initially published by Harcourt, it will enter the public domain in 2034.",
     "public_domain": false,

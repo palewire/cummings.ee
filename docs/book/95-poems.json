@@ -4,8 +4,8 @@
     "slug": "95-poems",
     "img": {
       "src": "95-poems.jpg",
-      "width": null,
-      "height": null
+      "width": "200px",
+      "height": "305px"
     },
     "description": "Published in 1958 by Oxford University Press, this book will enter the public domain in 2054.",
     "public_domain": false,

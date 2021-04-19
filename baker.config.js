@@ -31,6 +31,11 @@ function parseText(text) {
   return text.replace(/(  +)/g, "<span class='indent'>$1</span>");
 }
 
+function parseFirstLine(text) {
+  const lines = text.split(/\r?\n/);
+  return lines[0].trim();
+}
+
 function getChildren(node) {
   if (node.children) {
     return node.children.map(getChildren).flat();
@@ -91,6 +96,7 @@ export default {
       // Loop through those
       for (const [slug, poem] of Object.entries(availablePoems)) {
         // Set all the poem metadata
+        poem.description = parseFirstLine(poem.text);
         poem.slug = slug;
         poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${slug}/`;
         poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;

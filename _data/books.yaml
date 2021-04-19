@@ -3,8 +3,8 @@ list:
    slug: tulips-and-chimneys
    img:
      src: tulips-and-chimneys.jpg
-     width:
-     height:
+     width: 200px
+     height: 266px
    description: This 1923 release, published by <a href='https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)'>Thomas Seltzer</a>, was Cummings’s first book of verse. It entered the public domain in 2019.
    public_domain: true
    source: The materials here come from a first-edition of the book scanned at the <a href='https://www.lapl.org/'>Los Angeles Public Library</a>.
@@ -13,8 +13,8 @@ list:
    slug: ampersand
    img:
      src: ampersand.jpg
-     width:
-     height:
+     width: 200px
+     height: 297px
    description: This 1925 self-published release featured poems cut from <a href='/book/tulips-and-chimneys/'>tulips and chimneys</a>. It entered the public domain in 2021.
    public_domain: true
 
@@ -22,8 +22,8 @@ list:
    slug: xli-poems
    img:
      src: xli-poems.jpg
-     width:
-     height:
+     width: 200px
+     height: 298px
    description: Published by The Dial Press is 1925, this book entered the public domain in 2021.
    public_domain: true
 
@@ -31,8 +31,8 @@ list:
    slug: is-5
    img:
      src: is-5.jpg
-     width:
-     height:
+     width: 200px
+     height: 292px
    description: Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022.
    public_domain: false
 
@@ -40,8 +40,8 @@ list:
    slug: viva
    img:
      src: viva.jpg
-     width:
-     height:
+     width: 200px
+     height: 349px
    description: Published in 1930 by Liveright, this book will enter the public domain in 2026. 
    public_domain: false
 
@@ -49,8 +49,8 @@ list:
    slug: no-thanks
    img:
      src: no-thanks.jpg
-     width:
-     height:
+     width: 200px
+     height: 263px
    description: Published in 1935 by Golden Eagle Press, this book will enter the public domain in 2031.
    public_domain: false
 
@@ -58,8 +58,8 @@ list:
    slug: new-poems
    img:
      src: new-poems.jpg
-     width:
-     height:
+     width: 200px
+     height: 304px
    description: These new poems were included in 1938’s Collected Poems. Initially published by Harcourt, it will enter the public domain in 2034.
    public_domain: false
 
@@ -67,8 +67,8 @@ list:
    slug: 50-poems
    img:
      src: 50-poems.jpg
-     width:
-     height:
+     width: 200px
+     height: 301px
    description: Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036.
    public_domain: false
 
@@ -76,8 +76,8 @@ list:
    slug: 1x1
    img:
      src: 1x1.jpg
-     width:
-     height:
+     width: 200px
+     height: 298px
    description: Published in 1944 by Holt, this book will enter the public domain in 2040.
    public_domain: false
 
@@ -85,8 +85,8 @@ list:
    slug: xaipe
    img:
      src: xaipe.jpg
-     width:
-     height:
+     width: 200px
+     height: 297px
    description: Published in 1950 by Oxford University Press, this book will enter the public domain in 2046.
    public_domain: false
 
@@ -94,8 +94,8 @@ list:
    slug: 95-poems
    img:
      src: 95-poems.jpg
-     width:
-     height:
+     width: 200px
+     height: 305px
    description: Published in 1958 by Oxford University Press, this book will enter the public domain in 2054.
    public_domain: false
 
@@ -103,7 +103,7 @@ list:
    slug: 73-poems
    img:
      src: 73-poems.jpg
-     width:
-     height:
+     width: 200px
+     height: 318px
    description: Published in 1963 by Harcourt, this book will enter the public domain in 2059.
    public_domain: false

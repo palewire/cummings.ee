@@ -4,8 +4,8 @@
     "slug": "xli-poems",
     "img": {
       "src": "xli-poems.jpg",
-      "width": null,
-      "height": null
+      "width": "200px",
+      "height": "298px"
     },
     "description": "Published by The Dial Press is 1925, this book entered the public domain in 2021.",
     "public_domain": true,

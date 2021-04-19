@@ -32,7 +32,6 @@
   <div class="break footer"></div>
   <p>The poem was first published in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.”</p>
   <p>It is also available in <a href="{{ poem.json_url }}">json</a> and <a href="{{ poem.txt_url }}">text</a> formats.</p>
-  <p>If you see any errors in the text, <a href="https://github.com/ee-cummings-archive/cummings.ee/blob/master/CONTRIBUTING.md#reporting-an-error">please report them</a> to the site’s webmaster.</p>
   {% if poem.previous_poem.slug or poem.next_poem.slug %}
     <p>
         {% if poem.previous_poem.slug %}
@@ -51,6 +50,7 @@
     </form>
   </p>
   <p>
+  <p>If you see any errors in the text, <a href="https://github.com/ee-cummings-archive/cummings.ee/blob/master/CONTRIBUTING.md#reporting-an-error">please report them</a> to the site’s webmaster.</p>
   {{ footer.copy }}
   </p>
 </footer>

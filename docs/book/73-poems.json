@@ -4,8 +4,8 @@
     "slug": "73-poems",
     "img": {
       "src": "73-poems.jpg",
-      "width": null,
-      "height": null
+      "width": "200px",
+      "height": "318px"
     },
     "description": "Published in 1963 by Harcourt, this book will enter the public domain in 2059.",
     "public_domain": false,

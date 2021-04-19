@@ -4,8 +4,8 @@
     "slug": "tulips-and-chimneys",
     "img": {
       "src": "tulips-and-chimneys.jpg",
-      "width": null,
-      "height": null
+      "width": "200px",
+      "height": "266px"
     },
     "description": "This 1923 release, published by <a href="https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)">Thomas Seltzer</a>, was Cummings’s first book of verse. It entered the public domain in 2019.",
     "public_domain": true,

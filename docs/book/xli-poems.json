@@ -2,9 +2,13 @@
   "book": {
     "title": "XLI Poems",
     "slug": "xli-poems",
-    "img": "xli-poems.jpg",
+    "img": {
+      "src": "xli-poems.jpg",
+      "width": null,
+      "height": null
+    },
     "description": "Published by The Dial Press is 1925, this book entered the public domain in 2021.",
-    "public_domain": "true",
+    "public_domain": true,
     "html_url": "https://cummings.ee/book/xli-poems/",
     "json_url": "https://cummings.ee/book/xli-poems.json"
   },

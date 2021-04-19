@@ -2,9 +2,13 @@
   "book": {
     "title": "ViVa",
     "slug": "viva",
-    "img": "viva.jpg",
+    "img": {
+      "src": "viva.jpg",
+      "width": null,
+      "height": null
+    },
     "description": "Published in 1930 by Liveright, this book will enter the public domain in 2026.",
-    "public_domain": "false",
+    "public_domain": false,
     "html_url": "https://cummings.ee/book/viva/",
     "json_url": "https://cummings.ee/book/viva.json"
   },

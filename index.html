@@ -24,6 +24,8 @@
     <a href="/book/{{ book.slug }}/">
       <div class="book__cover">
           <img src="{% static '/assets/img/' + book.img.src %}"
+               {% if book.img.width %}width="{{ book.img.width }}"{% endif %}
+               {% if book.img.height %}height="{{ book.img.height }}"{% endif %}
                alt="{{ book.title }} >">
       </div>
       <div class="book__title">{{ book.title }}</div>

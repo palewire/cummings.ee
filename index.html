@@ -23,7 +23,8 @@
   <section class="book" data-public-domain="{{ book.public_domain }}">
     <a href="/book/{{ book.slug }}/">
       <div class="book__cover">
-          <img src="{% static '/assets/img/' + book.img %}" alt="The book ‘{{ book.title }} >’ {% if book.public_domain %}is{% else %}is not{% endif %} in the public domain.">
+          <img src="{% static '/assets/img/' + book.img.src %}"
+               alt="{{ book.title }} >">
       </div>
       <div class="book__title">{{ book.title }}</div>
     </a>

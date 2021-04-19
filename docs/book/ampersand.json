@@ -2,9 +2,13 @@
   "book": {
     "title": "&",
     "slug": "ampersand",
-    "img": "ampersand.jpg",
+    "img": {
+      "src": "ampersand.jpg",
+      "width": null,
+      "height": null
+    },
     "description": "This 1925 self-published release featured poems cut from <a href="/book/tulips-and-chimneys/">tulips and chimneys</a>. It entered the public domain in 2021.",
-    "public_domain": "true",
+    "public_domain": true,
     "html_url": "https://cummings.ee/book/ampersand/",
     "json_url": "https://cummings.ee/book/ampersand.json"
   },

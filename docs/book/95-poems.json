@@ -2,9 +2,13 @@
   "book": {
     "title": "95 Poems",
     "slug": "95-poems",
-    "img": "95-poems.jpg",
+    "img": {
+      "src": "95-poems.jpg",
+      "width": null,
+      "height": null
+    },
     "description": "Published in 1958 by Oxford University Press, this book will enter the public domain in 2054.",
-    "public_domain": "false",
+    "public_domain": false,
     "html_url": "https://cummings.ee/book/95-poems/",
     "json_url": "https://cummings.ee/book/95-poems.json"
   },

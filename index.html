@@ -23,10 +23,14 @@
   <section class="book" data-public-domain="{{ book.public_domain }}">
     <a href="/book/{{ book.slug }}/">
       <div class="book__cover">
-          <img src="{% static '/assets/img/' + book.img.src %}"
-               {% if book.img.width %}width="{{ book.img.width }}"{% endif %}
-               {% if book.img.height %}height="{{ book.img.height }}"{% endif %}
-               alt="{{ book.title }} >">
+          <picture>
+            <source type="image/webp" srcset="{% static '/assets/img/' + book.slug + '.webp' %}">
+            <source type="image/jpeg" srcset="{% static '/assets/img/' + book.slug + '.jpg' %}">
+            <img src="{% static '/assets/img/' + book.slug + '.jpg' %}"
+                 {% if book.img.width %}width="{{ book.img.width }}"{% endif %}
+                 {% if book.img.height %}height="{{ book.img.height }}"{% endif %}
+                 alt="{{ book.title }} >">
+          </picture>
       </div>
       <div class="book__title">{{ book.title }}</div>
     </a>

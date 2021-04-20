@@ -7,7 +7,7 @@ list:
      height: 266px
    description: This 1923 release, published by <a href='https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)'>Thomas Seltzer</a>, was Cummings’s first book of verse. It entered the public domain in 2019.
    public_domain: true
-   source: The materials here come from a first-edition of the book scanned at the <a href='https://www.lapl.org/'>Los Angeles Public Library</a>.
+   source: The materials here come from a first edition of the book scanned at the <a href='https://www.lapl.org/'>Los Angeles Public Library</a>.
 
  - title: '&'
    slug: ampersand
@@ -15,7 +15,7 @@ list:
      src: ampersand.jpg
      width: 200px
      height: 297px
-   description: This 1925 self-published release featured poems cut from <a href='/book/tulips-and-chimneys/'>tulips and chimneys</a>. It entered the public domain in 2021.
+   description: This 1925 self-published release featured poems cut from <a href='/book/tulips-and-chimneys/'>tulips and chimneys</a>. It entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
    public_domain: true
 
  - title: XLI Poems
@@ -24,7 +24,7 @@ list:
      src: xli-poems.jpg
      width: 200px
      height: 298px
-   description: Published by The Dial Press is 1925, this book entered the public domain in 2021.
+   description: Published by The Dial Press is 1925, this book entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
    public_domain: true
 
  - title: is 5
@@ -33,7 +33,7 @@ list:
      src: is-5.jpg
      width: 200px
      height: 292px
-   description: Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022.
+   description: Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022 and will be added to this site soon after. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
    public_domain: false
 
  - title: ViVa

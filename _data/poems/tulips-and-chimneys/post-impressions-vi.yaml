@@ -1,8 +1,6 @@
 title: Post Impressions VI
 
-unwrap: true
-
-justify: true
+nowrap: true
 
 text: |-1
  at the head of this street a gasping organ is waving moth-
@@ -38,7 +36,7 @@ text: |-1
  face my hair is lousy with mutilated singing microscopic
  things in my ears scramble faintly tickling putrescent
  atomies,
-          and
+         and
              i feel the jerk of the little string! the tiny
  smiling shabby man is yelling over the music i understand
  him i shove my round red hat back on my head i site up and

@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - "master"
+      - master
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0
 
       - name: Use Node.js 14.x
-        uses: actions/setup-node@v2-beta
+        uses: actions/setup-node@v2
         with:
           node-version: 14
 
@@ -32,6 +32,7 @@ jobs:
       - name: Checkout target
         run: | 
           git checkout gh-pages
+          git merge master
           git pull origin gh-pages
 
       - name: Build
@@ -40,5 +41,5 @@ jobs:
       - name: Commit
         run: |
           git status
-          git add ./
+          git add ./docs
           git commit -m "automated build" && git push || true

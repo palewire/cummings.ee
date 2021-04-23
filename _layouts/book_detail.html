@@ -29,6 +29,7 @@
   <ol class="level1">
   {% for level1 in toc[book.slug] %}
     <li>{{ level1.name }}</li>
+    <li>
     <ol class="level2">
     {% for level2 in level1.children %}
       {% if level2.children %}
@@ -46,6 +47,7 @@
       {% endif %}
     {% endfor %}
     </ol>
+    </li>
   {% endfor %}
   </ol>
 </section>

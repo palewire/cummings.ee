@@ -30,18 +30,20 @@
 {% block footer -%}
 <footer name="footer" class="footer" role="contentinfo">
   <div class="break footer"></div>
-  <p>The poem was first published in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.”</p>
-  <p>It is also available in <a href="{{ poem.json_url }}">json</a> and <a href="{{ poem.txt_url }}">text</a> formats.</p>
-  {% if poem.previous_poem.slug or poem.next_poem.slug %}
-    <p>
-        {% if poem.previous_poem.slug %}
-          The previous poem is “<a href="/book/{{ book.slug }}/poem/{{ poem.previous_poem.slug }}/">{{ poem.previous_poem.title }}</a>.”
-        {% endif %}
-        {% if poem.next_poem.slug %}
-          The next poem is “<a href="/book/{{ book.slug }}/poem/{{ poem.next_poem.slug }}/">{{ poem.next_poem.title }}</a>.”
-        {% endif %}
-    </p>
-  {% endif %}
+  <p>This poem was first published in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.”
+     {% if poem.previous_poem.slug or poem.next_poem.slug %}
+     {% if poem.previous_poem.slug %}
+        The previous poem is “<a href="/book/{{ book.slug }}/poem/{{ poem.previous_poem.slug }}/">{{ poem.previous_poem.title }}</a>.”
+     {% endif %}
+     {% if poem.next_poem.slug %}
+        The next poem is “<a href="/book/{{ book.slug }}/poem/{{ poem.next_poem.slug }}/">{{ poem.next_poem.title }}</a>.”
+     {% endif %}
+     {% endif %}
+  </p>
+  <p>
+     The text is also available in <a href="{{ poem.json_url }}">json</a> and <a href="{{ poem.txt_url }}">text</a> formats.
+     Please <a href="https://github.com/ee-cummings-archive/cummings.ee/blob/master/CONTRIBUTING.md#reporting-an-error">report any errors</a> to the site’s webmaster.
+  </p>
   <p>
     <form id="nowrap-form">
         <label for="nowrap-form">Allow line wrapping:</label>
@@ -49,7 +51,6 @@
         <input id="radio-wrap-no" type="radio" name="wrap" value="no" {% if poem.nowrap %}CHECKED{% endif %}> <label for="radio-wrap-no">No</label>
     </form>
   </p>
-  <p>If you see any errors in the text, <a href="https://github.com/ee-cummings-archive/cummings.ee/blob/master/CONTRIBUTING.md#reporting-an-error">please report them</a> to the site’s webmaster.</p>
   <p>
    {{ footer.copy }}
   </p>

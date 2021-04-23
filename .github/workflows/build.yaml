@@ -40,5 +40,5 @@ jobs:
       - name: Commit
         run: |
           git status
-          git add ./
+          git add ./docs
           git commit -m "automated build" && git push || true

@@ -13,7 +13,7 @@ list:
    img:
      width: 200px
      height: 297px
-   description: This 1925 self-published release featured poems cut from <a href='/book/tulips-and-chimneys/'>Tulips and Chimneys</a>. It entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
+   description: This 1925 self-published release featured work cut from <a href='/book/tulips-and-chimneys/'>Tulips and Chimneys</a>. It entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
    public_domain: true
 
  - title: XLI Poems
@@ -29,7 +29,7 @@ list:
    img:
      width: 200px
      height: 292px
-   description: Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022 and will be added to this site soon after.
+   description: Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022.
    public_domain: false
 
  - title: ViVa

@@ -10,9 +10,14 @@
   align-items: flex-start;
   width: 100%;
   margin: 0 -40px; /* grid trick, has to match box margin */
-  .book {
+  h4.book__title {
     font-family: fonts.$font-family-serif;
     @include grid.fluid-type(18px, 20px);
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+  }
+  .book {
     display: flex;
     flex: 0 0 auto;
     width: 200px;

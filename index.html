@@ -8,7 +8,7 @@
 
 {% block content %}
 <article>
-<header name="header">
+<header>
     <h1>
         <span class="break invisible">e.e.</span>
         <span class="break invisible">cummings</span>
@@ -33,7 +33,7 @@
                  alt="{{ book.title }} >">
           </picture>
       </div>
-      <div class="book__title">{{ book.title }}</div>
+      <h4 class="book__title">{{ book.title }}</h4>
     </a>
   </section>
   {% endfor %}

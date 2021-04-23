@@ -5,12 +5,12 @@
 .poem {
   font-family: fonts.$font-family-serif;
   color: #222;
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 1.25rem 0;
   .stanza {
     margin: 0 0 1.25rem 0;
     padding: 0;
     display: block;
-    @include grid.fluid-type(16px, 25px);
+    @include grid.fluid-type(15px, 24px);
     line-height: 1.35;
     .line {
       white-space: pre-wrap;

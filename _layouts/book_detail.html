@@ -7,10 +7,11 @@
   <p><a href="/">e.e. cummings free poetry archive</a></p>
   <div class="break small"></div>
 </nav>
+<article>
 <header class="book">
   <h1>{{ book.title }}</h1>
 </header>
-<section name="intro" class="intro">
+<section class="intro">
   <p>
     {{ book.description }}
     {% if book.public_domain == false %}Until then, it remains protected by copyright and cannot be republished here.{% endif %}
@@ -23,7 +24,7 @@
   {% endif %}
 </section>
 {% if book.public_domain == true and (availablePoems|length) > 0 %}
-<section name="toc" class="toc">
+<section class="toc">
   <h2>Table of contents</h2>
   <ol class="level1">
   {% for level1 in toc[book.slug] %}
@@ -49,10 +50,11 @@
   </ol>
 </section>
 {% endif %}
+</article>
 {% endblock content %}
 
 {% block footer -%}
-<footer name="footer" class="footer" role="contentinfo">
+<footer class="footer">
   <div class="break footer"></div>
   {% if book.source %}
     <p>{{ book.source }}</p>

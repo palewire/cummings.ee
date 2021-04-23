@@ -32,6 +32,7 @@ jobs:
       - name: Checkout target
         run: | 
           git checkout gh-pages
+          git merge master
           git pull origin gh-pages
 
       - name: Build

@@ -10,7 +10,7 @@ jobs:
     name: Build 
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v2
 
       - name: Use Node.js 14.x
@@ -18,13 +18,25 @@ jobs:
         with:
           node-version: 14
 
-      - name: Install dependencies
+      - name: Install
         run: npm ci
-      
-      - name: Run
+
+      - name: Configure
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+
+      - name: Checkout target
+        run: | 
+          git checkout gh-pages
+          git pull origin gh-pages
+
+      - name: Build
         run: make build
 
       - name: Commit
-        uses: ./.github/actions/commit
-        with:
-            message: Site build
+        run: |
+          git status
+          git add ./
+          git commit -m "automated build" && git push || true

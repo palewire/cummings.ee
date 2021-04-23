@@ -28,7 +28,7 @@
 {% endblock content %}
 
 {% block footer -%}
-<footer name="footer" class="footer" role="contentinfo">
+<footer class="footer">
   <div class="break footer"></div>
   <p>This poem was first published in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.”
      {% if poem.previous_poem.slug or poem.next_poem.slug %}
@@ -46,7 +46,7 @@
   </p>
   <p>
     <form id="nowrap-form">
-        <label for="nowrap-form">Allow line wrapping:</label>
+        <label>Allow line wrapping:</label>
         <input id="radio-wrap-yes" type="radio" name="wrap" value="yes" {% if not poem.nowrap %}CHECKED{% endif %}> <label for="radio-wrap-yes">Yes</label>
         <input id="radio-wrap-no" type="radio" name="wrap" value="no" {% if poem.nowrap %}CHECKED{% endif %}> <label for="radio-wrap-no">No</label>
     </form>

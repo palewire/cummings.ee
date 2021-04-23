@@ -7,18 +7,19 @@
 {% endblock scripts %}
 
 {% block content %}
+<article>
 <header name="header">
     <h1>
-        <div>e.e.</div>
-        <div>cummings</div>
-        <div>free poetry archive</div>
+        <span class="break invisible">e.e.</span>
+        <span class="break invisible">cummings</span>
+        <span class="break invisible">free poetry archive</span>
     </h1>
 <div class="break big"></div>
 </header>
-<section name="intro" class="intro">
+<section class="intro">
     <p>{{ index.description }} Three books are now available.</p>
 </section>
-<section name="book-list" class="booklist">
+<section class="booklist">
   {% for book in books.list %}
   <section class="book" data-public-domain="{{ book.public_domain }}">
     <a href="/book/{{ book.slug }}/">
@@ -37,4 +38,5 @@
   </section>
   {% endfor %}
 </section>
+</article>
 {% endblock %}

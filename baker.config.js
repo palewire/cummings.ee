@@ -97,8 +97,8 @@ export default {
       // Loop through those
       for (const [slug, poem] of Object.entries(availablePoems)) {
         // Set all the poem metadata
-        poem.description = parseFirstLine(poem.text);
-        poem.seo_description = parseFirstLine(poem.text);
+        poem.description = poem.first_line || parseFirstLine(poem.text);
+        poem.seo_description = poem.first_line || parseFirstLine(poem.text);
         poem.slug = slug;
         poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${slug}/`;
         poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;

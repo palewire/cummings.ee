@@ -38,6 +38,30 @@
             {
                 "name": "VIII",
                 "slug": "post-impressions-viii"
+            },
+            {
+                "name": "IX",
+                "slug": "post-impressions-ix"
+            },
+            {
+                "name": "X",
+                "slug": "post-impressions-x"
+            },
+            {
+                "name": "XI",
+                "slug": "post-impressions-xi"
+            },
+            {
+                "name": "XII",
+                "slug": "post-impressions-xii"
+            },
+            {
+                "name": "XIII",
+                "slug": "post-impressions-xiii"
+            },
+            {
+                "name": "XIV",
+                "slug": "post-impressions-xiv"
             }
           ]
         },
@@ -56,6 +80,42 @@
             {
                 "name": "III",
                 "slug": "portraits-iii"
+            },
+            {
+                "name": "IV",
+                "slug": "portraits-iv"
+            },
+            {
+                "name": "V",
+                "slug": "portraits-v"
+            },
+            {
+                "name": "VI",
+                "slug": "portraits-vi"
+            },
+            {
+                "name": "VII",
+                "slug": "portraits-vii"
+            },
+            {
+                "name": "VIII",
+                "slug": "portraits-viii"
+            },
+            {
+                "name": "IX",
+                "slug": "portraits-ix"
+            },
+            {
+                "name": "X",
+                "slug": "portraits-x"
+            },
+            {
+                "name": "XI",
+                "slug": "portraits-xi"
+            },
+            {
+                "name": "XII",
+                "slug": "portraits-xii"
             }
           ]
         }
@@ -144,6 +204,58 @@
             {
                 "name": "IX",
                 "slug": "sonnets-realities-ix"
+            },
+            {
+                "name": "X",
+                "slug": "sonnets-realities-x"
+            },
+            {
+                "name": "XI",
+                "slug": "sonnets-realities-xi"
+            },
+            {
+                "name": "XII",
+                "slug": "sonnets-realities-xii"
+            },
+            {
+                "name": "XIII",
+                "slug": "sonnets-realities-xiii"
+            },
+            {
+                "name": "XIV",
+                "slug": "sonnets-realities-xiv"
+            },
+            {
+                "name": "XV",
+                "slug": "sonnets-realities-xv"
+            },
+            {
+                "name": "XVI",
+                "slug": "sonnets-realities-xvi"
+            },
+            {
+                "name": "XVII",
+                "slug": "sonnets-realities-xvii"
+            },
+            {
+                "name": "XVIII",
+                "slug": "sonnets-realities-xviii"
+            },
+            {
+                "name": "XIX",
+                "slug": "sonnets-realities-xix"
+            },
+            {
+                "name": "XX",
+                "slug": "sonnets-realities-xx"
+            },
+            {
+                "name": "XXI",
+                "slug": "sonnets-realities-xxi"
+            },
+            {
+                "name": "XXII",
+                "slug": "sonnets-realities-xxii"
             }
           ]
         },
@@ -178,6 +290,74 @@
             {
                 "name": "VII",
                 "slug": "sonnets-actualities-vii"
+            },
+            {
+                "name": "VIII",
+                "slug": "sonnets-actualities-viii"
+            },
+            {
+                "name": "IX",
+                "slug": "sonnets-actualities-ix"
+            },
+            {
+                "name": "X",
+                "slug": "sonnets-actualities-x"
+            },
+            {
+                "name": "XI",
+                "slug": "sonnets-actualities-Xi"
+            },
+            {
+                "name": "XII",
+                "slug": "sonnets-actualities-xii"
+            },
+            {
+                "name": "XIII",
+                "slug": "sonnets-actualities-xiii"
+            },
+            {
+                "name": "XIV",
+                "slug": "sonnets-actualities-xiv"
+            },
+            {
+                "name": "XV",
+                "slug": "sonnets-actualities-xv"
+            },
+            {
+                "name": "XVI",
+                "slug": "sonnets-actualities-xvi"
+            },
+            {
+                "name": "XVII",
+                "slug": "sonnets-actualities-xvii"
+            },
+            {
+                "name": "XVIII",
+                "slug": "sonnets-actualities-xviii"
+            },
+            {
+                "name": "XIX",
+                "slug": "sonnets-actualities-xix"
+            },
+            {
+                "name": "XX",
+                "slug": "sonnets-actualities-xx"
+            },
+            {
+                "name": "XXI",
+                "slug": "sonnets-actualities-xxi"
+            },
+            {
+                "name": "XXII",
+                "slug": "sonnets-actualities-xxii"
+            },
+            {
+                "name": "XXIII",
+                "slug": "sonnets-actualities-xxiii"
+            },
+            {
+                "name": "XXIV",
+                "slug": "sonnets-actualities-xxiv"
             }
           ]
         }

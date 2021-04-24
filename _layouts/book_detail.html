@@ -35,12 +35,27 @@
     {% for level2 in level1.children %}
       {% if level2.children %}
       <li data-public-domain="{% if poems[book.slug][(level2.children|first).slug] %}true{% else %}false{% endif %}">
-        {{ level2.name }} ({% for level3 in level2.children %}{% if poems[book.slug][level3.slug] %}<a href="/book/{{ book.slug }}/poem/{{ level3.slug }}/">{{ level3.name }}</a>{% else %}{{ level3.name }}{% endif %}{% if not loop.last %}, {% endif %}{% endfor %})
+        {{ level2.name }}
+        <li>
+        <ol class="level3">
+        {% for level3 in level2.children %}
+        <li data-public-domain="{% if poems[book.slug][level3.slug] %}true{% else %}false{% endif %}">
+            {% if poems[book.slug][level3.slug] %}
+             <a href="/book/{{ book.slug }}/poem/{{ level3.slug }}/">
+                {{ level3.name }} {% if poems[book.slug][level3.slug].first_line %}{{ poems[book.slug][level3.slug].first_line }}{% endif %}
+             </a>
+            {% else %}
+             {{ level3.name }}
+            {% endif %}
+        </li>
+        {% endfor %}
+        </ol>
+        </li>
       </li>
       {% else %}
       <li data-public-domain="{% if poems[book.slug][level2.slug] %}true{% else %}false{% endif %}">
         {% if poems[book.slug][level2.slug] %}
-          <a href="/book/{{ book.slug }}/poem/{{ level2.slug }}/">{{ level2.name }}</a>
+          <a href="/book/{{ book.slug }}/poem/{{ level2.slug }}/">{{ level2.name }} {% if poems[book.slug][level2.slug].first_line %}{{ poems[book.slug][level2.slug].first_line }}{% endif %}</a>
         {% else %}
           {{ level2.name }}
         {% endif %}

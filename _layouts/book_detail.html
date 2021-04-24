@@ -12,10 +12,11 @@
   <h1>{{ book.title }}</h1>
 </header>
 <section class="intro">
+  {% for graf in book.description %}
   <p>
-    {{ book.description }}
-    {% if book.public_domain == false %}Until then, it remains protected by copyright and cannot be republished here.{% endif %}
+    {{ graf }}
   </p>
+  {% endfor %}
   {% if book.public_domain == true and (availablePoems|length) > 0 and (availablePoems.length < allPoems.length) %}
   <p>
     Thus far, {{ availablePoems|length|apnumber }} of the book's {{ allPoems|length|apnumber }} poems have been digitized.

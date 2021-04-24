@@ -4,7 +4,10 @@ list:
    img:
      width: 200
      height: 266
-   description: This 1923 release, published by <a href='https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)'>Thomas Seltzer</a>, was Cummings’s first book of verse. It entered the public domain in 2019.
+   description:
+    - This 1923 release was Cummings’s first book of verse. It entered the public domain in 2019.
+    - The first edition, published by <a href='https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)'>Thomas Seltzer</a>, is reproduced here. It omitted much of the author’s early works, which would surface in <a href="https://cummings.ee/book/ampersand/">subsequent</a> <a href="https://cummings.ee/book/xli-poems/">books</a> and <a href="https://wwnorton.com/books/9781631490415">later editions</a>.
+   year: 1923
    public_domain: true
    source: The materials here come from a first edition of the book scanned at the <a href='https://www.lapl.org/'>Los Angeles Public Library</a>.
 
@@ -13,7 +16,9 @@ list:
    img:
      width: 200
      height: 297
-   description: This 1925 self-published release featured work cut from <a href='/book/tulips-and-chimneys/'>Tulips and Chimneys</a>. It entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
+   description:
+    - This 1925 self-published release featured work cut from <a href='/book/tulips-and-chimneys/'>Tulips and Chimneys</a>. It entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
+   year: 1925
    public_domain: true
 
  - title: XLI Poems
@@ -21,7 +26,9 @@ list:
    img:
      width: 200
      height: 298
-   description: Published by The Dial Press is 1925, this book entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
+   description:
+    - Published by The Dial Press is 1925, this book entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
+   year: 1925
    public_domain: true
 
  - title: is 5
@@ -29,7 +36,9 @@ list:
    img:
      width: 200
      height: 292
-   description: Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022.
+   description:
+    - Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1926
    public_domain: false
 
  - title: ViVa
@@ -37,7 +46,9 @@ list:
    img:
      width: 200
      height: 349
-   description: Published in 1930 by Liveright, this book will enter the public domain in 2026. 
+   description:
+    - Published in 1930 by Liveright, this book will enter the public domain in 2026. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1930
    public_domain: false
 
  - title: No Thanks
@@ -45,7 +56,9 @@ list:
    img:
      width: 200
      height: 263
-   description: Published in 1935 by Golden Eagle Press, this book will enter the public domain in 2031.
+   description:
+    - Published in 1935 by Golden Eagle Press, this book will enter the public domain in 2031. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1935
    public_domain: false
 
  - title: New Poems
@@ -53,7 +66,9 @@ list:
    img:
      width: 200
      height: 304
-   description: These new poems were included in 1938’s Collected Poems. Initially published by Harcourt, it will enter the public domain in 2034.
+   description:
+    - These new poems were included in 1938’s Collected Poems. Initially published by Harcourt, it will enter the public domain in 2034. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1938
    public_domain: false
 
  - title: 50 Poems
@@ -61,7 +76,9 @@ list:
    img:
      width: 200
      height: 301
-   description: Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036.
+   description:
+    - Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1940
    public_domain: false
 
  - title: 1x1
@@ -69,7 +86,9 @@ list:
    img:
      width: 200
      height: 298
-   description: Published in 1944 by Holt, this book will enter the public domain in 2040.
+   description:
+    - Published in 1944 by Holt, this book will enter the public domain in 2040. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1944
    public_domain: false
 
  - title: XAIPE
@@ -77,7 +96,9 @@ list:
    img:
      width: 200
      height: 297
-   description: Published in 1950 by Oxford University Press, this book will enter the public domain in 2046.
+   description:
+    - Published in 1950 by Oxford University Press, this book will enter the public domain in 2046. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1950
    public_domain: false
 
  - title: 95 Poems
@@ -85,7 +106,9 @@ list:
    img:
      width: 200
      height: 305
-   description: Published in 1958 by Oxford University Press, this book will enter the public domain in 2054.
+   description:
+    - Published in 1958 by Oxford University Press, this book will enter the public domain in 2054. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1958
    public_domain: false
 
  - title: 73 Poems
@@ -93,5 +116,7 @@ list:
    img:
      width: 200
      height: 318
-   description: Published in 1963 by Harcourt, this book will enter the public domain in 2059.
+   description:
+    - Published in 1963 by Harcourt, this book will enter the public domain in 2059. Until then, it remains protected by copyright and cannot be republished here.
+   year: 1963
    public_domain: false

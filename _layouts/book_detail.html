@@ -2,6 +2,22 @@
 
 {% set meta = book %}
 
+{% macro poem_html(toc_obj, level) %}
+<li class="level{{ level }} {% if toc_obj.children %}parent{% endif %}"
+    {% if not toc_obj.children %}data-public-domain="{% if poems[book.slug][toc_obj.slug] %}true{% else %}false{% endif %}"{% endif %}>
+  {% if poems[book.slug][toc_obj.slug] -%}
+     <a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">
+        {{ toc_obj.name }}
+        {% if poems[book.slug][toc_obj.slug].first_line %}
+          {{ poems[book.slug][toc_obj.slug].first_line }}
+        {% endif %}
+     </a>
+  {% else %}
+     {{ toc_obj.name }}
+  {% endif %}
+</li>
+{% endmacro %}
+
 {% block content %}
 <nav class="nav">
   <p><a href="/">e.e. cummings free poetry archive</a></p>
@@ -29,35 +45,19 @@
   <h2>Table of contents</h2>
   <ol class="level1">
   {% for level1 in toc[book.slug] %}
-    <li class="level1 parent">{{ level1.name }}</li>
+    {{ poem_html(level1, '1') }}
     <li>
     <ol class="level2">
     {% for level2 in level1.children %}
+      {{ poem_html(level2, '2') }}
       {% if level2.children %}
-      <li class="level2 parent" data-public-domain="{% if poems[book.slug][(level2.children|first).slug] %}true{% else %}false{% endif %}">
-        {{ level2.name }}
-      </li>
         <li>
-        <ol class="level3">
-        {% for level3 in level2.children -%}
-        <li class="level3" data-public-domain="{% if poems[book.slug][level3.slug] %}true{% else %}false{% endif %}">
-            {% if poems[book.slug][level3.slug] -%}
-             <a href="/book/{{ book.slug }}/poem/{{ level3.slug }}/">{{ level3.name }} {% if poems[book.slug][level3.slug].first_line %}{{ poems[book.slug][level3.slug].first_line }}{% endif %}</a>
-            {% else %}
-             {{ level3.name }}
-            {% endif %}
+          <ol class="level3">
+          {% for level3 in level2.children -%}
+            {{ poem_html(level3, '3') }}
+          {% endfor %}
+          </ol>
         </li>
-        {% endfor %}
-        </ol>
-        </li>
-      {% else %}
-      <li class="level2" data-public-domain="{% if poems[book.slug][level2.slug] %}true{% else %}false{% endif %}">
-        {% if poems[book.slug][level2.slug] %}
-          <a href="/book/{{ book.slug }}/poem/{{ level2.slug }}/">{{ level2.name }} {% if poems[book.slug][level2.slug].first_line %}{{ poems[book.slug][level2.slug].first_line }}{% endif %}</a>
-        {% else %}
-          {{ level2.name }}
-        {% endif %}
-      </li>
       {% endif %}
     {% endfor %}
     </ol>

@@ -59,14 +59,16 @@
       }
       .numeral {
         @include grid.fluid-type(14px, 20px);
-        line-height: 160%;
+        line-height: 150%;
         display: inline-block;
         width: 36px;
-        min-width: 40px;
+        min-width: 36px;
         text-align: right;
         margin-right: 0.35rem;
         @media (max-width: 480px) {
-          line-height: 180%;
+          line-height: 170%;
+          width: 30px;
+          min-width: 30px;
         }
       }
       .name {

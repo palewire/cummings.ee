@@ -73,6 +73,7 @@ export default {
       const allPoems = toc.map(getChildren).flat();
 
       // Make a JSON file for the book and its metadata
+      book.seo_description = book.description[0];
       allPoems.forEach((p) => {
         p.html_url = `https://cummings.ee/book/${book.slug}/poem/${p.slug}/`;
       });
@@ -97,6 +98,7 @@ export default {
       for (const [slug, poem] of Object.entries(availablePoems)) {
         // Set all the poem metadata
         poem.description = parseFirstLine(poem.text);
+        poem.seo_description = parseFirstLine(poem.text);
         poem.slug = slug;
         poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${slug}/`;
         poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;

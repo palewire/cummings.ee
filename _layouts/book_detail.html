@@ -29,17 +29,18 @@
   <h2>Table of contents</h2>
   <ol class="level1">
   {% for level1 in toc[book.slug] %}
-    <li>{{ level1.name }}</li>
+    <li class="level1 parent">{{ level1.name }}</li>
     <li>
     <ol class="level2">
     {% for level2 in level1.children %}
       {% if level2.children %}
-      <li data-public-domain="{% if poems[book.slug][(level2.children|first).slug] %}true{% else %}false{% endif %}">
-        {{ level2.name }}</li>
+      <li class="level2 parent" data-public-domain="{% if poems[book.slug][(level2.children|first).slug] %}true{% else %}false{% endif %}">
+        {{ level2.name }}
+      </li>
         <li>
         <ol class="level3">
         {% for level3 in level2.children -%}
-        <li data-public-domain="{% if poems[book.slug][level3.slug] %}true{% else %}false{% endif %}">
+        <li class="level3" data-public-domain="{% if poems[book.slug][level3.slug] %}true{% else %}false{% endif %}">
             {% if poems[book.slug][level3.slug] -%}
              <a href="/book/{{ book.slug }}/poem/{{ level3.slug }}/">{{ level3.name }} {% if poems[book.slug][level3.slug].first_line %}{{ poems[book.slug][level3.slug].first_line }}{% endif %}</a>
             {% else %}
@@ -50,7 +51,7 @@
         </ol>
         </li>
       {% else %}
-      <li data-public-domain="{% if poems[book.slug][level2.slug] %}true{% else %}false{% endif %}">
+      <li class="level2" data-public-domain="{% if poems[book.slug][level2.slug] %}true{% else %}false{% endif %}">
         {% if poems[book.slug][level2.slug] %}
           <a href="/book/{{ book.slug }}/poem/{{ level2.slug }}/">{{ level2.name }} {% if poems[book.slug][level2.slug].first_line %}{{ poems[book.slug][level2.slug].first_line }}{% endif %}</a>
         {% else %}

@@ -5,12 +5,12 @@
 .toc {
   margin: 1rem 0;
   h2 {
-    font-family: fonts.$font-family-serif;
-    margin: 0 0 0.5rem 0;
+    font-family: fonts.$font-family-italic;
+    margin: 1.25rem 0 0.667rem 0;
     padding: 0;
-    @include grid.fluid-type(26px, 32px);
-    font-weight: 433;
-    font-variation-settings: 'opsz' 25;
+    @include grid.fluid-type(30px, 38px);
+    font-style: italic;
+    font-weight: 366;
     line-height: 1.15;
     display: block;
   }
@@ -18,17 +18,32 @@
   ol {
     padding-top: 0;
     margin-top: 0;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0;
     list-style-type: none;
-    padding-left: 0.75rem;
+    padding-left: 0.5rem;
     &.level1 {
       padding-left: 0;
     }
+    &.level2 {
+      margin-bottom: 1.35rem;
+      padding-left: 0.5rem;
+    }
     li {
+      @include grid.fluid-type(16px, 22px);
       padding-bottom: 0.125rem;
       &[data-public-domain='false'] {
         color: colors.$gray;
         opacity: 0.5;
+      }
+      &.level2 {
+        margin-top: 0.15rem;
+      }
+      &.parent {
+        text-transform: uppercase;
+        letter-spacing: 0.03rem;
+        &.level1 {
+          @include grid.fluid-type(22px, 26px);
+        }
       }
     }
   }

@@ -6,12 +6,16 @@
 <li class="level{{ level }} {% if toc_obj.children %}parent{% endif %}"
     {% if not toc_obj.children %}data-public-domain="{% if poems[book.slug][toc_obj.slug] %}true{% else %}false{% endif %}"{% endif %}>
   {% if poems[book.slug][toc_obj.slug] -%}
-     <a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">
+    {% if poems[book.slug][toc_obj.slug].first_line %}
+      <span class="numeral">{{ toc_obj.name }}</span>
+      <a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">
+        {{ poems[book.slug][toc_obj.slug].first_line }}
+      </a>
+    {% else %}
+      <a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">
         {{ toc_obj.name }}
-        {% if poems[book.slug][toc_obj.slug].first_line %}
-          {{ poems[book.slug][toc_obj.slug].first_line }}
-        {% endif %}
-     </a>
+      </a>
+    {% endif %}
   {% else %}
      {{ toc_obj.name }}
   {% endif %}

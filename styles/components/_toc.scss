@@ -45,6 +45,12 @@
           @include grid.fluid-type(22px, 26px);
         }
       }
+      .numeral {
+        display: inline-block;
+        width: 40px;
+        text-align: right;
+        margin-right: 0.35rem;
+      }
     }
   }
 }

@@ -39,7 +39,7 @@
   {% endfor %}
   {% if book.public_domain == true and (availablePoems|length) > 0 and ((availablePoems|length) < (allPoems.length)) %}
   <p>
-    Thus far, {{ availablePoems|length|apnumber }} of the book's {{ allPoems|length|apnumber }} poems have been digitized.
+    Thus far, {{ availablePoems|length|apnumber }} of the book’s {{ allPoems|length|apnumber }} poems have been digitized.
     <a href="https://github.com/ee-cummings-archive/cummings.ee/blob/master/CONTRIBUTING.md">Here's how</a> you can get involved in adding more.
   </p>
   {% endif %}

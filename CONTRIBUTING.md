@@ -29,10 +29,12 @@ Gaps in the archive can be filled by adding new files to the `_data/poems` direc
 
 For instance, the poem "Chansons Innocentes I" appears in the book "Tulips and Chimneys." So, following standard slugging conventions, the file is stored at [\_data/poems/tulips-and-chimneys/chansons-innocentes-i.yaml](https://github.com/ee-cummings-archive/cummings.ee/blob/master/_data/poems/tulips-and-chimneys/chansons-innocentes-i.yaml). The slugs should match what is found in the book's [table of contents file](https://github.com/ee-cummings-archive/cummings.ee/blob/master/_data/toc/tulips-and-chimneys.json).
 
-The poem file should have at least two keys: `title` for the name of the poem; and `text` for the contents. The convention here is to story the text as a multi-line string with one space of indentation. Here, as an example, is "Chansons Innoncentes I":
+The poem file should have at least three keys: `title` for the name of the poem; `first_line` for the opening line; and `text` for the full contents of the poem. The convention here is to store the text as a multi-line string with one space of indentation. Here, as an example, is "Chansons Innoncentes I":
 
 ```yaml
 title: Chansons Innocentes I
+
+first_line: in Just-
 
 text: |1-
  in Just-

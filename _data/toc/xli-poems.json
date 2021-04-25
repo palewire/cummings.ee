@@ -5,51 +5,63 @@
       "children": [
         {
             "name": "I",
-            "slug": "songs-i"
+            "slug": "songs-i",
+            "numeral": true
         },
         {
             "name": "II",
-            "slug": "songs-ii"
+            "slug": "songs-ii",
+            "numeral": true
         },
         {
             "name": "III",
-            "slug": "songs-iii"
+            "slug": "songs-iii",
+            "numeral": true
         },
         {
             "name": "IV",
-            "slug": "songs-iv"
+            "slug": "songs-iv",
+            "numeral": true
         },
         {
             "name": "V",
-            "slug": "songs-v"
+            "slug": "songs-v",
+            "numeral": true
         },
         {
             "name": "VI",
-            "slug": "songs-vi"
+            "slug": "songs-vi",
+            "numeral": true
         },
         {
             "name": "VII",
-            "slug": "songs-vii"
+            "slug": "songs-vii",
+            "numeral": true
         },
         {
             "name": "VIII",
-            "slug": "songs-viii"
+            "slug": "songs-viii",
+            "numeral": true
         },
         {
             "name": "IX",
-            "slug": "songs-ix"
+            "slug": "songs-ix",
+            "numeral": true
         },
         {
             "name": "X",
-            "slug": "songs-x"
+            "slug": "songs-x",
+            "numeral": true
         },
         {
             "name": "XI",
-            "slug": "songs-xi"
+            "slug": "songs-xi",
+            "numeral": true
         },
         {
             "name": "XII",
-            "slug": "songs-xii"
+            "slug": "songs-xii",
+            "numeral": true
         }
       ]
     },
@@ -59,11 +71,13 @@
       "children": [
         {
             "name": "I",
-            "slug": "chansons-innocentes-i"
+            "slug": "chansons-innocentes-i",
+            "numeral": true
         },
         {
             "name": "II",
-            "slug": "chansons-innocentes-ii"
+            "slug": "chansons-innocentes-ii",
+            "numeral": true
         }
       ]
     },
@@ -73,39 +87,48 @@
           "children": [
             {
                 "name": "I",
-                "slug": "portraits-i"
+                "slug": "portraits-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "portraits-ii"
+                "slug": "portraits-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "portraits-iii"
+                "slug": "portraits-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "portraits-iv"
+                "slug": "portraits-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "portraits-v"
+                "slug": "portraits-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "portraits-vi"
+                "slug": "portraits-vi",
+                "numeral": true
             },
             {
                 "name": "VII",
-                "slug": "portraits-vii"
+                "slug": "portraits-vii",
+                "numeral": true
             },
             {
                 "name": "VIII",
-                "slug": "portraits-viii"
+                "slug": "portraits-viii",
+                "numeral": true
             },
             {
                 "name": "IX",
-                "slug": "portraits-ix"
+                "slug": "portraits-ix",
+                "numeral": true
             }
           ]
         },
@@ -115,11 +138,13 @@
           "children": [
             {
                 "name": "I",
-                "slug": "la-guerre-i"
+                "slug": "la-guerre-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "la-guerre-ii"
+                "slug": "la-guerre-ii",
+                "numeral": true
             }
           ]
         },
@@ -129,67 +154,83 @@
       "children": [
         {
             "name": "I",
-            "slug": "sonnets-i"
+            "slug": "sonnets-i",
+             "numeral": true
         },
         {
             "name": "II",
-            "slug": "sonnets-ii"
+            "slug": "sonnets-ii",
+             "numeral": true
         },
         {
             "name": "III",
-            "slug": "sonnets-iii"
+            "slug": "sonnets-iii",
+             "numeral": true
         },
         {
             "name": "IV",
-            "slug": "sonnets-iv"
+            "slug": "sonnets-iv",
+             "numeral": true
         },
         {
             "name": "V",
-            "slug": "sonnets-v"
+            "slug": "sonnets-v",
+             "numeral": true
         },
         {
             "name": "VI",
-            "slug": "sonnets-vi"
+            "slug": "sonnets-vi",
+             "numeral": true
         },
         {
             "name": "VII",
-            "slug": "sonnets-vii"
+            "slug": "sonnets-vii",
+             "numeral": true
         },
         {
             "name": "VIII",
-            "slug": "sonnets-viii"
+            "slug": "sonnets-viii",
+             "numeral": true
         },
         {
             "name": "IX",
-            "slug": "sonnets-ix"
+            "slug": "sonnets-ix",
+             "numeral": true
         },
         {
             "name": "X",
-            "slug": "sonnets-x"
+            "slug": "sonnets-x",
+             "numeral": true
         },
         {
             "name": "XI",
-            "slug": "sonnets-xi"
+            "slug": "sonnets-xi",
+             "numeral": true
         },
         {
             "name": "XII",
-            "slug": "sonnets-xii"
+            "slug": "sonnets-xii",
+             "numeral": true
         },
         {
             "name": "XIII",
-            "slug": "sonnets-xiii"
+            "slug": "sonnets-xiii",
+             "numeral": true
         },
         {
             "name": "XIV",
-            "slug": "sonnets-xiv"
+            "slug": "sonnets-xiv",
+             "numeral": true
         },
         {
             "name": "XV",
-            "slug": "sonnets-xv"
+            "slug": "sonnets-xv",
+             "numeral": true
         },
         {
             "name": "XVI",
-            "slug": "sonnets-xvi"
+            "slug": "sonnets-xvi",
+             "numeral": true
         }
       ]
     }

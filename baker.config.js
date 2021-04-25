@@ -92,7 +92,8 @@ export default {
       });
 
       // Pull the poems that have actually been keypunched
-      const availablePoems = data.poems[book.slug] || {};
+      const poemFiles = Object.entries(data.poems[book.slug] || {});
+      const availablePoems = poemFiles.filter((o) => o[1].text);
 
       // Create the HTML page for the book
       createPage('book_detail.html', `/book/${book.slug}/`, {
@@ -102,7 +103,7 @@ export default {
       });
 
       // Loop through those
-      for (const [slug, poem] of Object.entries(availablePoems)) {
+      for (const [slug, poem] of availablePoems) {
         // Set all the poem metadata
         poem.description = poem.first_line || parseFirstLine(poem.text);
         poem.seo_description = poem.first_line || parseFirstLine(poem.text);

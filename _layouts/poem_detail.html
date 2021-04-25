@@ -16,7 +16,7 @@
     {% for stanza in poem.text|parsePoem -%}
     <p class="stanza">
     {% for line in stanza -%}
-      <span class="line">{{ line|parseText }}</span><br/>
+      <span class="line">{{ line|formatLine }}</span><br/>
     {% endfor %}
     </p>
     {% endfor %}

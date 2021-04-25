@@ -27,10 +27,7 @@
 {% endmacro %}
 
 {% block content %}
-<nav class="nav">
-  <p><a href="/">e.e. cummings free poetry archive</a></p>
-  <div class="break small"></div>
-</nav>
+{% include "includes/nav.html" %}
 <article>
 <header class="book">
   <h1>{{ book.title }}</h1>

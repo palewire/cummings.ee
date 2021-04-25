@@ -2,8 +2,26 @@
 
 a {
   color: colors.$black;
+  text-decoration: underline;
 }
 a:hover {
   color: lighten(colors.$black, 20%);
+  text-decoration: none;
+}
+
+a span {
+  color: colors.$black;
+  text-decoration: underline;
+}
+a:hover span {
+  color: lighten(colors.$black, 20%);
+  text-decoration: none;
+}
+
+a span.indent {
+  text-decoration: none !important;
+}
+a:hover span.indent {
+  color: colors.$black;
   text-decoration: none;
 }

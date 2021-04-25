@@ -71,10 +71,17 @@
           min-width: 30px;
         }
       }
-      .name {
-        display: inline-block;
+      .line {
+        white-space: pre-wrap;
         text-indent: -1em;
         padding-left: 1em;
+        display: inline-block;
+        .indent {
+          letter-spacing: 0.2rem;
+          @media (max-width: 480px) {
+            letter-spacing: 0.175rem;
+          }
+        }
       }
     }
   }

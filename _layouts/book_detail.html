@@ -11,7 +11,9 @@
       <span class="numeral">{{ toc_obj.name }}</span>
       <span class="name">
         <a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">
-          {{ poems[book.slug][toc_obj.slug].first_line }}
+          {% for line in poems[book.slug][toc_obj.slug].first_line|parsePoem|first %}
+            <span class="line">{{ line|parseText }}</span>{% if not loop.last %}<br>{% endif %}
+          {% endfor %}
         </a>
       </span>
     </span>
@@ -21,7 +23,9 @@
       </a>
     {% endif %}
   {% else %}
+     {% if level > 1 and toc_obj.name|length < 5 %} <span class="numbered-name"><span class="numeral"> {% endif %}
      {{ toc_obj.name }}
+     {% if level > 1 and toc_obj.name|length < 5 %} </span></span> {% endif %}
   {% endif %}
 </li>
 {% endmacro %}
@@ -38,7 +42,7 @@
     {{ graf }}
   </p>
   {% endfor %}
-  {% if book.public_domain == true and (availablePoems|length) > 0 and (availablePoems.length < allPoems.length) %}
+  {% if book.public_domain == true and (availablePoems|length) > 0 and (availablePoems|length < allPoems.length) %}
   <p>
     Thus far, {{ availablePoems|length|apnumber }} of the book's {{ allPoems|length|apnumber }} poems have been digitized.
     {# <a href="">Here's how</a> you can get involved in adding more. #}

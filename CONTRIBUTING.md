@@ -34,6 +34,8 @@ The poem file should have at least two keys: `title` for the name of the poem; a
 ```yaml
 title: Chansons Innocentes I
 
+first_line: in Just-
+
 text: |1-
  in Just-
  spring     when the world is mud-

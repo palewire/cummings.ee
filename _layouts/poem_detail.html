@@ -7,10 +7,7 @@
 {% endblock extra_scripts %}
 
 {% block content %}
-<nav class="nav">
-  <p><a href="/">e.e. cummings free poetry archive</a></p>
-  <div class="break small"></div>
-</nav>
+{% include "includes/nav.html" %}
 <article>
   <header class="poem--title">
     <h1>{{ poem.title }}</h1>

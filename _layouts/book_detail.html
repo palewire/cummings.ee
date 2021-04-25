@@ -12,7 +12,7 @@
       <span class="name">
         <a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">
           {% for line in poems[book.slug][toc_obj.slug].first_line|parsePoem|first %}
-            <span class="line">{{ line|parseText }}</span>{% if not loop.last %}<br>{% endif %}
+            <span class="line">{{ line|formatFirstLine }}</span>{% if not loop.last %}<br>{% endif %}
           {% endfor %}
         </a>
       </span>

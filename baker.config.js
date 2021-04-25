@@ -27,8 +27,14 @@ function parsePoem(text) {
   return stanzaList;
 }
 
-function parseText(text) {
+function formatLine(text) {
   return text.replace(/(  +)/g, "<span class='indent'>$1</span>");
+}
+
+function formatFirstLine(text) {
+  const trimmed = text.trim();
+  let t = text.replace(trimmed, `<span class='text'>${trimmed}</span>`);
+  return t.replace(/(  +)/g, "<span class='indent'>$1</span>");
 }
 
 function parseFirstLine(text) {
@@ -54,7 +60,8 @@ export default {
     process.env.BAKER_PATH_PREFIX || process.env.DELIVERY_BASE_PATH || '/',
   nunjucksFilters: {
     parsePoem,
-    parseText,
+    formatLine,
+    formatFirstLine,
   },
   // use createPages to generate pages on the fly
   createPages(createPage, data) {

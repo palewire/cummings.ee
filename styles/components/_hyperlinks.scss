@@ -9,19 +9,11 @@ a:hover {
   text-decoration: none;
 }
 
-a span {
+a span.text {
   color: colors.$black;
   text-decoration: underline;
 }
-a:hover span {
+a:hover span.text {
   color: lighten(colors.$black, 20%);
-  text-decoration: none;
-}
-
-a span.indent {
-  text-decoration: none !important;
-}
-a:hover span.indent {
-  color: colors.$black;
   text-decoration: none;
 }

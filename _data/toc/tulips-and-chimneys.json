@@ -17,27 +17,33 @@
           "children": [
             {
                 "name": "I",
-                "slug": "songs-i"
+                "slug": "songs-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "songs-ii"
+                "slug": "songs-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "songs-iii"
+                "slug": "songs-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "songs-iv"
+                "slug": "songs-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "songs-v"
+                "slug": "songs-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "songs-vi"
+                "slug": "songs-vi",
+                "numeral": true
             }
           ]
         },
@@ -51,15 +57,18 @@
           "children": [
             {
                 "name": "I",
-                "slug": "chansons-innocentes-i"
+                "slug": "chansons-innocentes-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "chansons-innocentes-ii"
+                "slug": "chansons-innocentes-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "chansons-innocentes-iii"
+                "slug": "chansons-innocentes-iii",
+                "numeral": true
             }
           ]
         },
@@ -69,27 +78,33 @@
           "children": [
             {
                 "name": "I",
-                "slug": "orientale-i"
+                "slug": "orientale-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "orientale-ii"
+                "slug": "orientale-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "orientale-iii"
+                "slug": "orientale-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "orientale-iv"
+                "slug": "orientale-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "orientale-v"
+                "slug": "orientale-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "orientale-vi"
+                "slug": "orientale-vi",
+                "numeral": true
             }
           ]
         },
@@ -99,35 +114,43 @@
           "children": [
             {
                 "name": "I",
-                "slug": "amores-i"
+                "slug": "amores-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "amores-ii"
+                "slug": "amores-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "amores-iii"
+                "slug": "amores-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "amores-iv"
+                "slug": "amores-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "amores-v"
+                "slug": "amores-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "amores-vi"
+                "slug": "amores-vi",
+                "numeral": true
             },
             {
                 "name": "VII",
-                "slug": "amores-vii"
+                "slug": "amores-vii",
+                "numeral": true
             },
             {
                 "name": "VIII",
-                "slug": "amores-viii"
+                "slug": "amores-viii",
+                "numeral": true
             }
           ]
         },
@@ -137,11 +160,13 @@
           "children": [
             {
                 "name": "I",
-                "slug": "la-guerre-i"
+                "slug": "la-guerre-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "la-guerre-ii"
+                "slug": "la-guerre-ii",
+                "numeral": true
             }
           ]
         },
@@ -151,23 +176,28 @@
           "children": [
             {
                 "name": "I",
-                "slug": "impressions-i"
+                "slug": "impressions-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "impressions-ii"
+                "slug": "impressions-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "impressions-iii"
+                "slug": "impressions-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "impressions-iv"
+                "slug": "impressions-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "impressions-v"
+                "slug": "impressions-v",
+                "numeral": true
             }
           ]
         },
@@ -177,43 +207,53 @@
           "children": [
             {
                 "name": "I",
-                "slug": "portraits-i"
+                "slug": "portraits-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "portraits-ii"
+                "slug": "portraits-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "portraits-iii"
+                "slug": "portraits-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "portraits-iv"
+                "slug": "portraits-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "portraits-v"
+                "slug": "portraits-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "portraits-vi"
+                "slug": "portraits-vi",
+                "numeral": true
             },
             {
                 "name": "VII",
-                "slug": "portraits-vii"
+                "slug": "portraits-vii",
+                "numeral": true
             },
             {
                 "name": "VIII",
-                "slug": "portraits-viii"
+                "slug": "portraits-viii",
+                "numeral": true
             },
             {
                 "name": "IX",
-                "slug": "portraits-ix"
+                "slug": "portraits-ix",
+                "numeral": true
             },
             {
                 "name": "X",
-                "slug": "portraits-x"
+                "slug": "portraits-x",
+                "numeral": true
             }
           ]
         },
@@ -223,27 +263,33 @@
           "children": [
             {
                 "name": "I",
-                "slug": "post-impressions-i"
+                "slug": "post-impressions-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "post-impressions-ii"
+                "slug": "post-impressions-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "post-impressions-iii"
+                "slug": "post-impressions-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "post-impressions-iv"
+                "slug": "post-impressions-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "post-impressions-v"
+                "slug": "post-impressions-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "post-impressions-vi"
+                "slug": "post-impressions-vi",
+                "numeral": true
             }
           ]
         }
@@ -259,27 +305,33 @@
           "children": [
             {
                 "name": "I",
-                "slug": "sonnets-realities-i"
+                "slug": "sonnets-realities-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "sonnets-realities-ii"
+                "slug": "sonnets-realities-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "sonnets-realities-iii"
+                "slug": "sonnets-realities-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "sonnets-realities-iv"
+                "slug": "sonnets-realities-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "sonnets-realities-v"
+                "slug": "sonnets-realities-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "sonnets-realities-vi"
+                "slug": "sonnets-realities-vi",
+                "numeral": true
             }
           ]
         },
@@ -289,27 +341,33 @@
           "children": [
             {
                 "name": "I",
-                "slug": "sonnets-unrealities-i"
+                "slug": "sonnets-unrealities-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "sonnets-unrealities-ii"
+                "slug": "sonnets-unrealities-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "sonnets-unrealities-iii"
+                "slug": "sonnets-unrealities-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "sonnets-unrealities-iv"
+                "slug": "sonnets-unrealities-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "sonnets-unrealities-v"
+                "slug": "sonnets-unrealities-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "sonnets-unrealities-vi"
+                "slug": "sonnets-unrealities-vi",
+                "numeral": true
             }
           ]
         },
@@ -319,23 +377,28 @@
           "children": [
             {
                 "name": "I",
-                "slug": "sonnets-actualities-i"
+                "slug": "sonnets-actualities-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "sonnets-actualities-ii"
+                "slug": "sonnets-actualities-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "sonnets-actualities-iii"
+                "slug": "sonnets-actualities-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "sonnets-actualities-iv"
+                "slug": "sonnets-actualities-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "sonnets-actualities-v"
+                "slug": "sonnets-actualities-v",
+                "numeral": true
             }
           ]
         }

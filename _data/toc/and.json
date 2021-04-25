@@ -9,59 +9,73 @@
           "children": [
             {
                 "name": "I",
-                "slug": "post-impressions-i"
+                "slug": "post-impressions-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "post-impressions-ii"
+                "slug": "post-impressions-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "post-impressions-iii"
+                "slug": "post-impressions-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "post-impressions-iv"
+                "slug": "post-impressions-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "post-impressions-v"
+                "slug": "post-impressions-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "post-impressions-vi"
+                "slug": "post-impressions-vi",
+                "numeral": true
             },
             {
                 "name": "VII",
-                "slug": "post-impressions-vii"
+                "slug": "post-impressions-vii",
+                "numeral": true
             },
             {
                 "name": "VIII",
-                "slug": "post-impressions-viii"
+                "slug": "post-impressions-viii",
+                "numeral": true
             },
             {
                 "name": "IX",
-                "slug": "post-impressions-ix"
+                "slug": "post-impressions-ix",
+                "numeral": true
             },
             {
                 "name": "X",
-                "slug": "post-impressions-x"
+                "slug": "post-impressions-x",
+                "numeral": true
             },
             {
                 "name": "XI",
-                "slug": "post-impressions-xi"
+                "slug": "post-impressions-xi",
+                "numeral": true
             },
             {
                 "name": "XII",
-                "slug": "post-impressions-xii"
+                "slug": "post-impressions-xii",
+                "numeral": true
             },
             {
                 "name": "XIII",
-                "slug": "post-impressions-xiii"
+                "slug": "post-impressions-xiii",
+                "numeral": true
             },
             {
                 "name": "XIV",
-                "slug": "post-impressions-xiv"
+                "slug": "post-impressions-xiv",
+                "numeral": true
             }
           ]
         },
@@ -71,51 +85,63 @@
           "children": [
             {
                 "name": "I",
-                "slug": "portraits-i"
+                "slug": "portraits-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "portraits-ii"
+                "slug": "portraits-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "portraits-iii"
+                "slug": "portraits-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "portraits-iv"
+                "slug": "portraits-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "portraits-v"
+                "slug": "portraits-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "portraits-vi"
+                "slug": "portraits-vi",
+                "numeral": true
             },
             {
                 "name": "VII",
-                "slug": "portraits-vii"
+                "slug": "portraits-vii",
+                "numeral": true
             },
             {
                 "name": "VIII",
-                "slug": "portraits-viii"
+                "slug": "portraits-viii",
+                "numeral": true
             },
             {
                 "name": "IX",
-                "slug": "portraits-ix"
+                "slug": "portraits-ix",
+                "numeral": true
             },
             {
                 "name": "X",
-                "slug": "portraits-x"
+                "slug": "portraits-x",
+                "numeral": true
             },
             {
                 "name": "XI",
-                "slug": "portraits-xi"
+                "slug": "portraits-xi",
+                "numeral": true
             },
             {
                 "name": "XII",
-                "slug": "portraits-xii"
+                "slug": "portraits-xii",
+                "numeral": true
             }
           ]
         }
@@ -131,31 +157,38 @@
           "children": [
             {
                 "name": "I",
-                "slug": "and-seven-poems-i"
+                "slug": "and-seven-poems-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "and-seven-poems-ii"
+                "slug": "and-seven-poems-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "and-seven-poems-iii"
+                "slug": "and-seven-poems-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "and-seven-poems-iv"
+                "slug": "and-seven-poems-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "and-seven-poems-v"
+                "slug": "and-seven-poems-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "and-seven-poems-vi"
+                "slug": "and-seven-poems-vi",
+                "numeral": true
             },
             {
                 "name": "VII",
-                "slug": "and-seven-poems-vii"
+                "slug": "and-seven-poems-vii",
+                "numeral": true
             }
           ]
         }
@@ -171,91 +204,113 @@
           "children": [
             {
                 "name": "I",
-                "slug": "sonnets-realities-i"
+                "slug": "sonnets-realities-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "sonnets-realities-ii"
+                "slug": "sonnets-realities-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "sonnets-realities-iii"
+                "slug": "sonnets-realities-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "sonnets-realities-iv"
+                "slug": "sonnets-realities-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "sonnets-realities-v"
+                "slug": "sonnets-realities-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "sonnets-realities-vi"
+                "slug": "sonnets-realities-vi",
+                "numeral": true
             },
             {
                 "name": "VII",
-                "slug": "sonnets-realities-vii"
+                "slug": "sonnets-realities-vii",
+                "numeral": true
             },
             {
                 "name": "VIII",
-                "slug": "sonnets-realities-viii"
+                "slug": "sonnets-realities-viii",
+                "numeral": true
             },
             {
                 "name": "IX",
-                "slug": "sonnets-realities-ix"
+                "slug": "sonnets-realities-ix",
+                "numeral": true
             },
             {
                 "name": "X",
-                "slug": "sonnets-realities-x"
+                "slug": "sonnets-realities-x",
+                "numeral": true
             },
             {
                 "name": "XI",
-                "slug": "sonnets-realities-xi"
+                "slug": "sonnets-realities-xi",
+                "numeral": true
             },
             {
                 "name": "XII",
-                "slug": "sonnets-realities-xii"
+                "slug": "sonnets-realities-xii",
+                "numeral": true
             },
             {
                 "name": "XIII",
-                "slug": "sonnets-realities-xiii"
+                "slug": "sonnets-realities-xiii",
+                "numeral": true
             },
             {
                 "name": "XIV",
-                "slug": "sonnets-realities-xiv"
+                "slug": "sonnets-realities-xiv",
+                "numeral": true
             },
             {
                 "name": "XV",
-                "slug": "sonnets-realities-xv"
+                "slug": "sonnets-realities-xv",
+                "numeral": true
             },
             {
                 "name": "XVI",
-                "slug": "sonnets-realities-xvi"
+                "slug": "sonnets-realities-xvi",
+                "numeral": true
             },
             {
                 "name": "XVII",
-                "slug": "sonnets-realities-xvii"
+                "slug": "sonnets-realities-xvii",
+                "numeral": true
             },
             {
                 "name": "XVIII",
-                "slug": "sonnets-realities-xviii"
+                "slug": "sonnets-realities-xviii",
+                "numeral": true
             },
             {
                 "name": "XIX",
-                "slug": "sonnets-realities-xix"
+                "slug": "sonnets-realities-xix",
+                "numeral": true
             },
             {
                 "name": "XX",
-                "slug": "sonnets-realities-xx"
+                "slug": "sonnets-realities-xx",
+                "numeral": true
             },
             {
                 "name": "XXI",
-                "slug": "sonnets-realities-xxi"
+                "slug": "sonnets-realities-xxi",
+                "numeral": true
             },
             {
                 "name": "XXII",
-                "slug": "sonnets-realities-xxii"
+                "slug": "sonnets-realities-xxii",
+                "numeral": true
             }
           ]
         },
@@ -265,99 +320,123 @@
           "children": [
             {
                 "name": "I",
-                "slug": "sonnets-actualities-i"
+                "slug": "sonnets-actualities-i",
+                "numeral": true
             },
             {
                 "name": "II",
-                "slug": "sonnets-actualities-ii"
+                "slug": "sonnets-actualities-ii",
+                "numeral": true
             },
             {
                 "name": "III",
-                "slug": "sonnets-actualities-iii"
+                "slug": "sonnets-actualities-iii",
+                "numeral": true
             },
             {
                 "name": "IV",
-                "slug": "sonnets-actualities-iv"
+                "slug": "sonnets-actualities-iv",
+                "numeral": true
             },
             {
                 "name": "V",
-                "slug": "sonnets-actualities-v"
+                "slug": "sonnets-actualities-v",
+                "numeral": true
             },
             {
                 "name": "VI",
-                "slug": "sonnets-actualities-vi"
+                "slug": "sonnets-actualities-vi",
+                "numeral": true
             },
             {
                 "name": "VII",
-                "slug": "sonnets-actualities-vii"
+                "slug": "sonnets-actualities-vii",
+                "numeral": true
             },
             {
                 "name": "VIII",
-                "slug": "sonnets-actualities-viii"
+                "slug": "sonnets-actualities-viii",
+                "numeral": true
             },
             {
                 "name": "IX",
-                "slug": "sonnets-actualities-ix"
+                "slug": "sonnets-actualities-ix",
+                "numeral": true
             },
             {
                 "name": "X",
-                "slug": "sonnets-actualities-x"
+                "slug": "sonnets-actualities-x",
+                "numeral": true
             },
             {
                 "name": "XI",
-                "slug": "sonnets-actualities-Xi"
+                "slug": "sonnets-actualities-xi",
+                "numeral": true
             },
             {
                 "name": "XII",
-                "slug": "sonnets-actualities-xii"
+                "slug": "sonnets-actualities-xii",
+                "numeral": true
             },
             {
                 "name": "XIII",
-                "slug": "sonnets-actualities-xiii"
+                "slug": "sonnets-actualities-xiii",
+                "numeral": true
             },
             {
                 "name": "XIV",
-                "slug": "sonnets-actualities-xiv"
+                "slug": "sonnets-actualities-xiv",
+                "numeral": true
             },
             {
                 "name": "XV",
-                "slug": "sonnets-actualities-xv"
+                "slug": "sonnets-actualities-xv",
+                "numeral": true
             },
             {
                 "name": "XVI",
-                "slug": "sonnets-actualities-xvi"
+                "slug": "sonnets-actualities-xvi",
+                "numeral": true
             },
             {
                 "name": "XVII",
-                "slug": "sonnets-actualities-xvii"
+                "slug": "sonnets-actualities-xvii",
+                "numeral": true
             },
             {
                 "name": "XVIII",
-                "slug": "sonnets-actualities-xviii"
+                "slug": "sonnets-actualities-xviii",
+                "numeral": true
             },
             {
                 "name": "XIX",
-                "slug": "sonnets-actualities-xix"
+                "slug": "sonnets-actualities-xix",
+                "numeral": true
             },
             {
                 "name": "XX",
-                "slug": "sonnets-actualities-xx"
+                "slug": "sonnets-actualities-xx",
+                "numeral": true
             },
             {
                 "name": "XXI",
-                "slug": "sonnets-actualities-xxi"
+                "slug": "sonnets-actualities-xxi",
+                "numeral": true
             },
             {
                 "name": "XXII",
-                "slug": "sonnets-actualities-xxii"
+                "slug": "sonnets-actualities-xxii",
+                "numeral": true
             },
             {
                 "name": "XXIII",
-                "slug": "sonnets-actualities-xxiii"
+                "slug": "sonnets-actualities-xxiii",
+                "numeral": true
             },
             {
                 "name": "XXIV",
-                "slug": "sonnets-actualities-xxiv"
+                "slug": "sonnets-actualities-xxiv",
+                "numeral": true
             }
           ]
         }

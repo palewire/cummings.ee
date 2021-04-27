@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>{% for url in urlList -%}
+{% for url in urlList -%}
+<url>
   <loc>{{ url }}</loc>
-{% endfor %}</url>
+</url>
+{% endfor %}
 </urlset>
 
 

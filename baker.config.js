@@ -183,25 +183,25 @@ export default {
       urlList,
     });
     // Make data dumps
-    createPage('book_list.json.njk', `/download/books.json`, {
+    createPage('book_list.json.njk', `/downloads/books.json`, {
       text: JSON.stringify(bookList, null, 2),
     });
     csv.json2csv(bookList, (err, text) => {
       if (err) {
         throw err;
       }
-      createPage('book_list.csv.njk', `/download/books.csv`, {
+      createPage('book_list.csv.njk', `/downloads/books.csv`, {
         text,
       });
     });
-    createPage('poem_list.json.njk', `/download/poems.json`, {
+    createPage('poem_list.json.njk', `/downloads/poems.json`, {
       text: JSON.stringify(poemList, null, 2),
     });
     csv.json2csv(poemList, (err, text) => {
       if (err) {
         throw err;
       }
-      createPage('poem_list.csv.njk', `/download/poems.csv`, {
+      createPage('poem_list.csv.njk', `/downloads/poems.csv`, {
         text,
       });
     });

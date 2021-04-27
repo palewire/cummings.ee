@@ -171,12 +171,12 @@ export default {
         // Get the previous and next poems, if they exist
         const index = allPoems.findIndex((e, i) => e.slug === poem.slug);
 
-        const previousIndex = availablePoems[index - 1];
+        const previousIndex = allPoems[index - 1];
         if (previousIndex) {
           poem.previous_poem = data.poems[book.slug][previousIndex.slug];
         }
 
-        const nextIndex = availablePoems[index + 1];
+        const nextIndex = allPoems[index + 1];
         if (nextIndex) {
           poem.next_poem = data.poems[book.slug][nextIndex.slug];
         }

@@ -51,6 +51,10 @@ function getChildren(node) {
   }
 }
 
+function clone(a) {
+  return JSON.parse(JSON.stringify(a));
+}
+
 export default {
   domain: 'https://cummings.ee/',
   output: process.env.BAKER_OUTPUT || '_dist',
@@ -107,8 +111,16 @@ export default {
       });
 
       // Pull the poems that have actually been keypunched
+
       const poemFiles = Object.entries(data.poems[book.slug] || {});
-      const availablePoems = poemFiles.filter((o) => o[1].text);
+      const availablePoems = clone(
+        poemFiles
+          .filter((o) => o[1].text)
+          .map(([s, o]) => {
+            o.slug = s;
+            return o;
+          })
+      );
 
       // Create the HTML page for the book
       createPage('book_detail.html', `/book/${book.slug}/`, {
@@ -118,14 +130,13 @@ export default {
       });
 
       // Loop through those
-      for (const [slug, poem] of availablePoems) {
+      for (const poem of availablePoems) {
         // Set all the poem metadata
         poem.description = poem.first_line || parseFirstLine(poem.text);
         poem.seo_description = poem.first_line || parseFirstLine(poem.text);
-        poem.slug = slug;
-        poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${slug}/`;
-        poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;
-        poem.txt_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.txt`;
+        poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${poem.slug}/`;
+        poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${poem.slug}.json`;
+        poem.txt_url = `https://cummings.ee/book/${book.slug}/poem/${poem.slug}.txt`;
         urlList.push(poem.html_url);
         poemList.push({
           slug: poem.slug,
@@ -142,7 +153,7 @@ export default {
         // Create a JSON output
         createPage(
           'poem_detail.json.njk',
-          `/book/${book.slug}/poem/${slug}.json`,
+          `/book/${book.slug}/poem/${poem.slug}.json`,
           {
             text: JSON.stringify(poem, null, 2),
           }
@@ -151,31 +162,35 @@ export default {
         // Create a text output
         createPage(
           'poem_detail.txt.njk',
-          `/book/${book.slug}/poem/${slug}.txt`,
+          `/book/${book.slug}/poem/${poem.slug}.txt`,
           {
             poem,
           }
         );
 
         // Get the previous and next poems, if they exist
-        const index = allPoems.findIndex((e, i) => e.slug === slug);
+        const index = allPoems.findIndex((e, i) => e.slug === poem.slug);
 
-        const previousIndex = allPoems[index - 1];
+        const previousIndex = availablePoems[index - 1];
         if (previousIndex) {
-          poem.previous_poem = availablePoems[previousIndex.slug] || {};
+          poem.previous_poem = data.poems[book.slug][previousIndex.slug];
         }
 
-        const nextIndex = allPoems[index + 1];
+        const nextIndex = availablePoems[index + 1];
         if (nextIndex) {
-          poem.next_poem = availablePoems[nextIndex.slug] || {};
+          poem.next_poem = data.poems[book.slug][nextIndex.slug];
         }
 
         // Create the HTML page for the poem
-        createPage('poem_detail.html', `/book/${book.slug}/poem/${slug}/`, {
-          book,
-          poem,
-          slug: slug,
-        });
+        createPage(
+          'poem_detail.html',
+          `/book/${book.slug}/poem/${poem.slug}/`,
+          {
+            book,
+            poem,
+            slug: poem.slug,
+          }
+        );
       }
     }
     // Make sitemap

@@ -1,4 +1,5 @@
 const yaml = require('js-yaml');
+const csv = require('json-2-csv');
 
 const entrypoints = ['poem'];
 
@@ -70,6 +71,8 @@ export default {
 
     // Create a list of all the URLs for our sitemap
     let urlList = ['https://cummings.ee/'];
+    let poemList = [];
+    let bookList = [];
 
     // Loop through them
     for (const book of books) {
@@ -85,10 +88,22 @@ export default {
         p.html_url = `https://cummings.ee/book/${book.slug}/poem/${p.slug}/`;
       });
       book.html_url = `https://cummings.ee/book/${book.slug}/`;
-      urlList.push(book.html_url);
       book.json_url = `https://cummings.ee/book/${book.slug}.json`;
+
+      const bookJson = {
+        slug: book.slug,
+        title: book.title,
+        description: book.seo_description,
+        year: book.year,
+        public_domain: book.public_domain,
+        source: book.source,
+        html_url: book.html_url,
+        json_url: book.json_url,
+      };
+      bookList.push(bookJson);
+
       createPage('book_detail.json.njk', `/book/${book.slug}.json`, {
-        text: JSON.stringify({ book, toc: allPoems }, null, 2),
+        text: JSON.stringify({ book: bookJson, toc: allPoems }, null, 2),
       });
 
       // Pull the poems that have actually been keypunched
@@ -112,6 +127,17 @@ export default {
         poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.json`;
         poem.txt_url = `https://cummings.ee/book/${book.slug}/poem/${slug}.txt`;
         urlList.push(poem.html_url);
+        poemList.push({
+          slug: poem.slug,
+          title: poem.title,
+          first_line: poem.first_line,
+          book_slug: book.slug,
+          book_title: book.title,
+          text: poem.text,
+          html_url: poem.html_url,
+          json_url: poem.json_url,
+          txt_url: poem.txt_url,
+        });
 
         // Create a JSON output
         createPage(
@@ -155,6 +181,29 @@ export default {
     // Make sitemap
     createPage('sitemap.xml.njk', `sitemap.xml`, {
       urlList,
+    });
+    // Make data dumps
+    createPage('book_list.json.njk', `/download/books.json`, {
+      text: JSON.stringify(bookList, null, 2),
+    });
+    csv.json2csv(bookList, (err, text) => {
+      if (err) {
+        throw err;
+      }
+      createPage('book_list.csv.njk', `/download/books.csv`, {
+        text,
+      });
+    });
+    createPage('poem_list.json.njk', `/download/poems.json`, {
+      text: JSON.stringify(poemList, null, 2),
+    });
+    csv.json2csv(poemList, (err, text) => {
+      if (err) {
+        throw err;
+      }
+      createPage('poem_list.csv.njk', `/download/poems.csv`, {
+        text,
+      });
     });
   },
   minifyOptions: { collapseWhitespace: false },

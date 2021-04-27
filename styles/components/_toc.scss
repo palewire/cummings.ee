@@ -48,9 +48,11 @@
       }
       &.parent {
         text-transform: uppercase;
-        letter-spacing: 0.03rem;
+        letter-spacing: 0.03125rem;
+        margin-top: 0.4rem;
         &.level1 {
-          @include grid.fluid-type(22px, 26px);
+          @include grid.fluid-type(24px, 28px);
+          font-weight: 466;
         }
       }
       .numbered-name {

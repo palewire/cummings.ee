@@ -76,7 +76,9 @@ class NunjucksEngine extends BaseEngine {
 
   getOutputPath({ base, ext, input, name }) {
     // we always use "pretty" URLs, so we alter the pathname if it is index.html
-    if (['.txt', '.yaml', '.yml', '.json', '.md', '.xml'].includes(ext)) {
+    if (
+      ['.txt', '.yaml', '.yml', '.json', '.md', '.xml', '.csv'].includes(ext)
+    ) {
       return input;
     }
 

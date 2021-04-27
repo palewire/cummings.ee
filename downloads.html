@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% set meta = downloads %}
+
+{% block content %}
+{% include "includes/nav.html" %}
+<article>
+<header class="book">
+  <h1>{{ meta.title }}</h1>
+</header>
+<section class="intro">
+    <p>{{ meta.description }}</p>
+</section>
+<section class="toc">
+  <h2>Table of contents</h2>
+  <ol class="level1">
+    <li class="level1 parent">JSON</li>
+    <li>
+        <ol class="level2">
+            <li><a href="https://cummings.ee/downloads/books.json">/downloads/books.json</a></li>
+            <li><a href="https://cummings.ee/downloads/poems.json">/downloads/poems.json</a></li>
+        </ol>
+    </li>
+  </ol>
+  <ol class="level1">
+    <li class="level1 parent">CSV</li>
+    <li>
+        <ol class="level2">
+            <li><a href="https://cummings.ee/downloads/books.csv">/downloads/books.csv</a></li>
+            <li><a href="https://cummings.ee/downloads/poems.csv">/downloads/poems.csv</a></li>
+        </ol>
+    </li>
+  </ol>
+</section>
+</article>
+{% endblock %}

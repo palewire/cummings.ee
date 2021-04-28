@@ -12,7 +12,7 @@
       <span class="name">
         {% if poems[book.slug][toc_obj.slug].text -%}<a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">{% endif %}
           {% for line in poems[book.slug][toc_obj.slug].first_line|parsePoem|first %}
-            <span class="line">{{ line|formatFirstLine }}</span>{% if not loop.last %}<br>{% endif %}
+            <span class="line">{{ line.text|formatFirstLine }}</span>{% if not loop.last %}<br>{% endif %}
           {% endfor %}
         {% if poems[book.slug][toc_obj.slug].text -%}</a>{% endif %}
       </span>

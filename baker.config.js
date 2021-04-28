@@ -10,18 +10,23 @@ function parsePoem(text) {
   const lines = text.split(/\r?\n/);
   let stanzaList = [];
   let thisStanza = [];
+  let lineNumber = 0;
   lines.forEach((l) => {
     // If it's an empty line, start a new stanza
     if (l.trim().length === 0) {
       // if the stanza is empty, we need to stick in at least one empty line
       if (thisStanza.length === 0) {
-        thisStanza.push('&nbsp;');
+        thisStanza.push({ text: '&nbsp;', number: null });
       }
       stanzaList.push(thisStanza);
       thisStanza = [];
     } else {
       // Add to the current stanza
-      thisStanza.push(l);
+      lineNumber += 1;
+      thisStanza.push({
+        text: l,
+        number: lineNumber,
+      });
     }
   });
   stanzaList.push(thisStanza);

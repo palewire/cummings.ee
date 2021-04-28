@@ -12,11 +12,14 @@
   <header class="poem--title">
     <h1>{{ poem.title }}</h1>
   </header>
-  <section id="poem" class="poem{% if poem.nowrap %} nowrap{% endif %}{% if poem.justify %} justify{% endif %}">
+  <section id="poem"
+           class="poem{% if poem.nowrap %} nowrap{% endif %}{% if poem.justify %} justify{% endif %}"
+           data-book-slug="{{ book.slug }}"
+           data-poem-slug="{{ poem.slug }}">
     {% for stanza in poem.text|parsePoem -%}
     <p class="stanza">
     {% for line in stanza -%}
-      <span class="line">{{ line|formatLine }}</span><br/>
+      <span class="line" {% if line.number %}data-line-number="{{ line.number }}"{% endif %}>{{ line.text|formatLine }}</span><br/>
     {% endfor %}
     </p>
     {% endfor %}

@@ -4,7 +4,8 @@
 nav.nav {
   margin: 0 0 1rem 0;
   p {
-    @include grid.fluid-type(20px, 26px);
+    @include grid.fluid-type(20px, 28px);
+    font-weight: 466;
   }
   a {
     text-decoration: none;

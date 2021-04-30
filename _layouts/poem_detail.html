@@ -9,11 +9,13 @@
 {% block content %}
 {% include "includes/nav.html" %}
 <article>
+  {% if poem.titled %}
   <header class="poem--title">
     <h1>{{ poem.title }}</h1>
   </header>
+  {% endif %}
   <section id="poem"
-           class="poem{% if poem.nowrap %} nowrap{% endif %}{% if poem.justify %} justify{% endif %}"
+           class="poem{% if poem.nowrap %} nowrap{% endif %}{% if poem.justify %} justify{% endif %}{%if not poem.titled %} untitled{% endif %}"
            data-book-slug="{{ book.slug }}"
            data-poem-slug="{{ poem.slug }}">
     {% for stanza in poem.text|parsePoem -%}
@@ -30,7 +32,7 @@
 {% block footer -%}
 <footer class="footer">
   <div class="break footer"></div>
-  <p>This poem was first published in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.”
+  <p>This poem was first published{%if not poem.titled %} as {{ poem.title }}{% endif %} in “<a href="/book/{{ book.slug }}/">{{ book.title }}</a>.”
      {% if poem.previous_poem.slug or poem.next_poem.slug %}
      {% if poem.previous_poem.slug %}
         The previous poem is “<a href="/book/{{ book.slug }}/poem/{{ poem.previous_poem.slug }}/">{{ poem.previous_poem.title }}</a>.”

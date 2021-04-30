@@ -28,6 +28,7 @@
   &.nowrap {
     .line {
       white-space: pre;
+      padding-right: 1rem;
     }
   }
   &.justify {
@@ -39,6 +40,29 @@
   &.untitled {
     .stanza:first-of-type {
       margin-top: 1.5rem;
+    }
+  }
+}
+
+.poem[data-book-slug='tulips-and-chimneys'] {
+  &[data-poem-slug='portraits-viii'] {
+    [data-line-number='5'] .indent {
+      letter-spacing: 0.175rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.145rem;
+      }
+    }
+    [data-line-number='7'] .indent {
+      letter-spacing: 0.18rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.15rem;
+      }
+    }
+    [data-line-number='9'] .indent {
+      letter-spacing: 0.22rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.185rem;
+      }
     }
   }
 }

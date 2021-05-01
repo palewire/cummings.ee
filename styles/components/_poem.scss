@@ -53,9 +53,23 @@
       }
     }
   }
+  &[data-poem-slug='amores-vii'] {
+    [data-line-number='14'] .indent {
+      letter-spacing: 0.1rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.85rem;
+      }
+    }
+    [data-line-number='15'] .indent {
+      letter-spacing: 0.135rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.12rem;
+      }
+    }
+  }
   &[data-poem-slug='portraits-viii'] {
-    [data-line-number='5'] .indent {
-      letter-spacing: 0.175rem;
+    [data-line-number='14'] .indent {
+      letter-spacing: 0.15rem;
       @media (max-width: 480px) {
         letter-spacing: 0.145rem;
       }

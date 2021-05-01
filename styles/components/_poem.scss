@@ -87,6 +87,20 @@
       }
     }
   }
+  &[data-poem-slug='chansons-innocentes-i'] {
+    [data-line-number='19'] .indent {
+      letter-spacing: 0.35rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.33rem;
+      }
+    }
+    [data-line-number='21'] .indent {
+      letter-spacing: 0.35rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.33rem;
+      }
+    }
+  }
   &[data-poem-slug='portraits-viii'] {
     [data-line-number='14'] .indent {
       letter-spacing: 0.15rem;

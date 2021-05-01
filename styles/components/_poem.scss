@@ -129,6 +129,14 @@
       }
     }
   }
+  &[data-poem-slug='impressions-iv'] {
+    [data-line-number='5'] .indent {
+      letter-spacing: 0.11rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.095rem;
+      }
+    }
+  }
   &[data-poem-slug='portraits-viii'] {
     [data-line-number='14'] .indent {
       letter-spacing: 0.15rem;

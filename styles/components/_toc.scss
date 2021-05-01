@@ -38,7 +38,7 @@
     }
     li {
       @include grid.fluid-type(16px, 22px);
-      padding-bottom: 0.125rem;
+      padding-bottom: 0.225rem;
       &[data-public-domain='false'] {
         color: colors.$gray;
         opacity: 0.5;

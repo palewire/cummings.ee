@@ -45,6 +45,14 @@
 }
 
 .poem[data-book-slug='tulips-and-chimneys'] {
+  &[data-poem-slug='amores-iv'] {
+    [data-line-number='11'] .indent {
+      letter-spacing: 0.14rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.125rem;
+      }
+    }
+  }
   &[data-poem-slug='portraits-viii'] {
     [data-line-number='5'] .indent {
       letter-spacing: 0.175rem;

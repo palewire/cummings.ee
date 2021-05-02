@@ -1,0 +1,8 @@
+@mixin spacing($lineNumber, $desktop, $mobile) {
+  [data-line-number='#{$lineNumber}'] .indent {
+    letter-spacing: $desktop;
+    @media (max-width: 480px) {
+      letter-spacing: $mobile;
+    }
+  }
+}

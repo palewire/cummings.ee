@@ -196,4 +196,13 @@
   &[data-poem-slug='sonnets-unrealities-v'] {
     @include indent.spacing(9, 0.22rem, 0.21rem);
   }
+  &[data-poem-slug='sonnets-actualities-ii'] {
+    @include indent.spacing(14, 0.18rem, 0.17rem);
+  }
+  &[data-poem-slug='sonnets-actualities-iii'] {
+    @include indent.spacing(9, 0.15rem, 0.14rem);
+  }
+  &[data-poem-slug='sonnets-actualities-iv'] {
+    @include indent.spacing(13, 0.15rem, 0.14rem);
+  }
 }

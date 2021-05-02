@@ -1,6 +1,7 @@
 @use '../settings/colors';
 @use '../settings/fonts';
 @use '../settings/grid';
+@use '../settings/indent';
 
 .poem {
   font-family: fonts.$font-family-serif;
@@ -170,6 +171,8 @@
         letter-spacing: 0.14rem;
       }
     }
+  }
+  &[data-poem-slug='orientale-iv'] {
   }
   &[data-poem-slug='portraits-viii'] {
     [data-line-number='14'] .indent {

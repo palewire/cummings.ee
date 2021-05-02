@@ -172,7 +172,8 @@
       }
     }
   }
-  &[data-poem-slug='orientale-iv'] {
+  &[data-poem-slug='orientale-vi'] {
+    @include indent.spacing(58, 0.1rem, 0.09rem);
   }
   &[data-poem-slug='portraits-viii'] {
     [data-line-number='14'] .indent {

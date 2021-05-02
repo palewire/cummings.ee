@@ -176,23 +176,15 @@
     @include indent.spacing(58, 0.1rem, 0.09rem);
   }
   &[data-poem-slug='portraits-viii'] {
-    [data-line-number='14'] .indent {
-      letter-spacing: 0.15rem;
-      @media (max-width: 480px) {
-        letter-spacing: 0.145rem;
-      }
-    }
-    [data-line-number='7'] .indent {
-      letter-spacing: 0.18rem;
-      @media (max-width: 480px) {
-        letter-spacing: 0.17rem;
-      }
-    }
-    [data-line-number='9'] .indent {
-      letter-spacing: 0.22rem;
-      @media (max-width: 480px) {
-        letter-spacing: 0.2rem;
-      }
-    }
+    @include indent.spacing(5, 0.18rem, 0.17rem);
+    @include indent.spacing(7, 0.18rem, 0.17rem);
+    @include indent.spacing(9, 0.22rem, 0.2rem);
+    @include indent.spacing(14, 0.15rem, 0.145rem);
+  }
+  &[data-poem-slug='portraits-ix'] {
+    @include indent.spacing(27, 0.15rem, 0.14rem);
+  }
+  &[data-poem-slug='portraits-x'] {
+    @include indent.spacing(23, 0.15rem, 0.14rem);
   }
 }

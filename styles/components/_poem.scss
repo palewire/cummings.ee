@@ -145,6 +145,32 @@
       }
     }
   }
+  &[data-poem-slug='orientale-i'] {
+    [data-line-number='6'] .indent {
+      letter-spacing: 0.18rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.17rem;
+      }
+    }
+    [data-line-number='13'] .indent {
+      letter-spacing: 0.15rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.14rem;
+      }
+    }
+    [data-line-number='20'] .indent {
+      letter-spacing: 0.17rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.16rem;
+      }
+    }
+    [data-line-number='27'] .indent {
+      letter-spacing: 0.15rem;
+      @media (max-width: 480px) {
+        letter-spacing: 0.14rem;
+      }
+    }
+  }
   &[data-poem-slug='portraits-viii'] {
     [data-line-number='14'] .indent {
       letter-spacing: 0.15rem;

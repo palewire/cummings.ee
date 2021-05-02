@@ -1,5 +1,7 @@
 title: Post Impressions I
 
+nowrap: true
+
 first_line: windows go orange in the slowly.
 
 text: |-1
@@ -9,11 +11,11 @@ text: |-1
  the
     Dark on us
  all;
-     stories told returned
+    stories told returned
  
-     gather
+    gather
  
-     the
+    the
  
  Again:who
  danc    ing

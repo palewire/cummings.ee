@@ -116,3 +116,9 @@
     @include indent.spacing(13, 0.15rem, 0.14rem);
   }
 }
+
+.poem[data-book-slug='and'] {
+  &[data-poem-slug='sonnets-actualities-xxiv'] {
+    @include indent.spacing(2, 0.075rem, 0.7rem);
+  }
+}

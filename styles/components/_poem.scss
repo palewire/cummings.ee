@@ -86,8 +86,8 @@
     @include indent.spacing(58, 0.1rem, 0.09rem);
   }
   &[data-poem-slug='portraits-viii'] {
-    @include indent.spacing(5, 0.18rem, 0.17rem);
-    @include indent.spacing(7, 0.18rem, 0.17rem);
+    @include indent.spacing(5, 0.18rem, 0.165rem);
+    @include indent.spacing(7, 0.18rem, 0.165rem);
     @include indent.spacing(9, 0.22rem, 0.2rem);
     @include indent.spacing(14, 0.15rem, 0.145rem);
   }

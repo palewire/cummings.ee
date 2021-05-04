@@ -74,4 +74,4 @@ text: |1-
 
 In rare cases where the poem's layout would be ruined by the text wrapping common on small devices, such as mobile phones, an `unwrap` attribute in the YAML file should be set to `true`. This will overflow the text on all devices and maintain the integrity of the author's linebreaks in all cases.
 
-Most of Cummings’s poems don't have a title or headline. When they do, the `title` attribute should be set to `true`.
+Most of Cummings’s poems don't have a title or headline. When they do, the `titled` attribute should be set to `true`.

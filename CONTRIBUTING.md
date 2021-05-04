@@ -7,7 +7,9 @@ The following is a set of guidelines for contributing to this repository and the
 - [Code of Conduct](#code-of-conduct)
 - [About this site](#about-this-site)
 - [Reporting an error](#reporting-an-error)
+- [Sources](#sources)
 - [Transcribing poems](#reporting-an-error)
+- [Style](#style)
 
 ## Code of Conduct
 
@@ -22,6 +24,16 @@ That is due to the way U.S. copyright law works, each Jan. 1 another year of pas
 ## Reporting an error
 
 If you see an error on the site, you can [file an issue](https://github.com/ee-cummings-archive/cummings.ee/issues) here on GitHub or send a report to [b@palewi.re](mailto:b@palewi.re). All types of bug reports are welcome. If believe you have spotted a typo in how the poetry was transcribed, please be as detailed as possible about the error and provide your sourcing, if possible.
+
+## Sources
+
+The tables of contents and texts on this site largely drawn from the first editions published in the 1920's that have entered the public domain. The order of poems and their groupings attempt to be faithful to those texts.
+
+Small exceptions are made when the spellings and spacings in the first editions vary from Liveright’s [“Complete Poems”](https://wwnorton.com/books/9781631490415/), which Cummings scholars regard as the most authoritative source.
+
+The standard approach for transcribing poems thus far has been to use the first edition as the initial guide. Then, when the poem is proof read prior to being republished, the transcription is compared against the Liveright edition. In the rare case of any inconsistency, the copy found in the Liveright version is substituted.
+
+A scanned first edition of the “Tulips and Chimneys” can be found in [this repository](https://github.com/ee-cummings-archive/cummings.ee/tree/master/_workspace/tulips-and-chimneys). A scanned first edition of “XLI Poems” has been [posted online by Hathi Trust](https://catalog.hathitrust.org/Record/001028344).
 
 ## Transcribing poems
 
@@ -40,7 +52,7 @@ text: |1-
  in Just-
  spring     when the world is mud-
  luscious the little
- lame baloonman
+ lame balloonman
 
  whistles    far    and wee
 
@@ -52,7 +64,7 @@ text: |1-
  when the world is puddle-wonderful
 
  the queer
- old baloonman whistles
+ old balloonman whistles
  far    and    wee
  and bettyandisbel come dancing
 
@@ -66,7 +78,7 @@ text: |1-
 
           goat-footed
 
- baloonMan    whistles
+ balloonMan    whistles
  far
  and
  wee
@@ -75,3 +87,12 @@ text: |1-
 In rare cases where the poem's layout would be ruined by the text wrapping common on small devices, such as mobile phones, an `unwrap` attribute in the YAML file should be set to `true`. This will overflow the text on all devices and maintain the integrity of the author's linebreaks in all cases.
 
 Most of Cummings’s poems don't have a title or headline. When they do, the `titled` attribute should be set to `true`.
+
+## Style
+
+*White space*: When entering poems into the YAML file, you should endeavor to include whitespaces that, as best as possible, line up with the indentations seen on the page. Due to the variable letter spacing of fonts, there is no way to perfectly recreate the original document. [The stylesheets](https://github.com/ee-cummings-archive/cummings.ee/blob/master/styles/components/_poem.scss#L48) used to format the archive's website allow for the letter spacing of fonts on a line by line basis, which is where fine tuning can be applied.
+
+*Quotation marks*: Curly quotes should be used unless it's clear the author intended otherwise. 
+
+*Ellipses*: Consecutive periods should be used, not any special character marks. Look carefully and count how many the author included. If there are no white spaces between the periods and the surrounding words, do not insert any.
+

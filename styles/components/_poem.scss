@@ -122,3 +122,11 @@
     @include indent.spacing(2, 0.075rem, 0.7rem);
   }
 }
+
+.poem[data-book-slug='xli-poems'] {
+  &[data-poem-slug='sonnets-vii'] {
+    @include indent.spacing(1, 0.14rem, 0.13rem);
+    @include indent.spacing(4, 0.16rem, 0.15rem);
+    @include indent.spacing(14, 0.17rem, 0.16rem);
+  }
+}

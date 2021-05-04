@@ -27,7 +27,7 @@ If you see an error on the site, you can [file an issue](https://github.com/ee-c
 
 ## Sources
 
-The tables of contents and texts on this site largely drawn from the first editions published in the 1920's that have entered the public domain. The order of poems and their groupings attempt to be faithful to those texts.
+The tables of contents and texts on this site are largely drawn from the first editions published in the 1920's that have entered the public domain. The order of poems and their groupings attempt to be faithful to those texts.
 
 Small exceptions are made when the spellings and spacings in the first editions vary from Liveright’s [“Complete Poems”](https://wwnorton.com/books/9781631490415/), which Cummings scholars regard as the most authoritative source.
 

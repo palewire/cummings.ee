@@ -127,6 +127,10 @@
 }
 
 .poem[data-book-slug='xli-poems'] {
+  &[data-poem-slug='chansons-innocentes-ii'] {
+    @include indent.spacing(7, 0.25rem, 0.24rem);
+    @include indent.spacing(13, 0.15rem, 0.14rem);
+  }
   &[data-poem-slug='portraits-ii'] {
     @include indent.spacing(10, 0.35rem, 0.34rem);
     @include indent.spacing(15, 0.02rem, 0.01rem);

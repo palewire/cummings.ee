@@ -145,4 +145,7 @@
   &[data-poem-slug='sonnets-xiv'] {
     @include indent.spacing(14, 0.16rem, 0.15rem);
   }
+  &[data-poem-slug='sonnets-xv'] {
+    @include indent.spacing(14, 0.16rem, 0.15rem);
+  }
 }

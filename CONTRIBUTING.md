@@ -90,7 +90,7 @@ Most of Cummings’s poems don't have a title or headline. When they do, the `ti
 
 ## Style
 
-*White space*: When entering poems into the YAML file, you should endeavor to include white spaces that, as best as possible, line up with the indentations seen on the page. Due to the variable letter spacing of fonts, there is no way to perfectly recreate the original document. [The stylesheets](https://github.com/ee-cummings-archive/cummings.ee/blob/master/styles/components/_poem.scss#L48) used to format the archive's website allow for the letter spacing of fonts to be adjusted on a line by line basis, which is where fine tuning can be applied.
+*White space*: When entering poems into the YAML file, you should endeavor to include white spaces that, as best as possible, line up with the indentations seen on the page. Use spaces rather than tabs. Due to the variable letter spacing of fonts, there is no way to perfectly recreate the original document. [The stylesheets](https://github.com/ee-cummings-archive/cummings.ee/blob/master/styles/components/_poem.scss#L48) used to format the archive's website allow for the letter spacing of fonts to be adjusted on a line by line basis, which is where fine tuning can be applied.
 
 *Quotation marks*: Curly quotes should be used unless it's clear the author intended otherwise. 
 

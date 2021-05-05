@@ -121,6 +121,9 @@
   &[data-poem-slug='sonnets-actualities-xxiv'] {
     @include indent.spacing(2, 0.075rem, 0.7rem);
   }
+  &[data-poem-slug='post-impressions-v'] {
+    @include indent.spacing(9, 0.21rem, 0.2rem);
+  }
 }
 
 .poem[data-book-slug='xli-poems'] {

@@ -129,4 +129,9 @@
     @include indent.spacing(4, 0.16rem, 0.15rem);
     @include indent.spacing(14, 0.17rem, 0.16rem);
   }
+  &[data-poem-slug='sonnets-ix'] {
+    @include indent.spacing(8, 0.15rem, 0.14rem);
+    @include indent.spacing(10, 0.15rem, 0.14rem);
+    @include indent.spacing(17, 0.17rem, 0.16rem);
+  }
 }

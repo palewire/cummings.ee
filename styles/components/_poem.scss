@@ -137,6 +137,9 @@
     @include indent.spacing(21, 0.085rem, 0.075rem);
     @include indent.spacing(24, 0.085rem, 0.075rem);
   }
+  &[data-poem-slug='portraits-iv'] {
+    @include indent.spacing(11, 0.15rem, 0.14rem);
+  }
   &[data-poem-slug='sonnets-vii'] {
     @include indent.spacing(1, 0.14rem, 0.13rem);
     @include indent.spacing(4, 0.16rem, 0.15rem);

@@ -160,6 +160,10 @@
     @include indent.spacing(28, 0.215rem, 0.205rem);
     @include indent.spacing(30, 0.115rem, 0.105rem);
   }
+  &[data-poem-slug='portraits-ix'] {
+    @include indent.spacing(20, 0.16rem, 0.15rem);
+    @include indent.spacing(28, 0.075rem, 0.65rem);
+  }
   &[data-poem-slug='sonnets-ix'] {
     @include indent.spacing(8, 0.15rem, 0.14rem);
     @include indent.spacing(10, 0.15rem, 0.14rem);

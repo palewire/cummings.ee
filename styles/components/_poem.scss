@@ -152,6 +152,14 @@
     @include indent.spacing(4, 0.16rem, 0.15rem);
     @include indent.spacing(14, 0.17rem, 0.16rem);
   }
+  &[data-poem-slug='portraits-viii'] {
+    @include indent.spacing(3, 0.28rem, 0.15rem);
+    @include indent.spacing(11, 0.08rem, 0.07rem);
+    @include indent.spacing(19, 0.08rem, 0.07rem);
+    @include indent.spacing(25, 0.16rem, 0.15rem);
+    @include indent.spacing(28, 0.215rem, 0.205rem);
+    @include indent.spacing(30, 0.115rem, 0.105rem);
+  }
   &[data-poem-slug='sonnets-ix'] {
     @include indent.spacing(8, 0.15rem, 0.14rem);
     @include indent.spacing(10, 0.15rem, 0.14rem);

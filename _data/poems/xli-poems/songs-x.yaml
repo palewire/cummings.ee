@@ -1,5 +1,7 @@
 title: Songs X
 
+nowrap: true
+
 first_line: the hills
 
 text: |-1
@@ -9,14 +11,13 @@ text: |-1
  the
 
  magnificent clamor of
-                        day
+                         day
  tortured
  in gold,which presently
 
  crumpled
- collapses.
+ collapses
  exhaling a red soul into the dark
-
 
  so
  duneyed master

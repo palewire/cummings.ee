@@ -1,5 +1,9 @@
 title: Portraits VIII
 
+page_scans:
+    - 'https://babel.hathitrust.org/cgi/pt?id=uc1.$b408727&view=1up&seq=39'
+    - 'https://babel.hathitrust.org/cgi/pt?id=uc1.$b408727&view=1up&seq=40'
+
 nowrap: true
 
 first_line: '5'

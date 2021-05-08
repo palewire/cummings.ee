@@ -10,6 +10,12 @@
 
   {% block canonical_url %}<link rel="canonical" href="{{ page.absoluteUrl }}">{% endblock canonical_url %}
 
+  {% block favicons %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{% staticabsolute 'assets/favicons/apple-touch-icon.png' %}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{% staticabsolute 'assets/favicons/favicon-32x32.png' %}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{% staticabsolute 'assets/favicons/favicon-16x16.png' %}">
+  {% endblock favicons %}
+
   {% block opengraph %}
   <meta property="og:title" content="{{ meta.title }}">
   <meta property="og:description" content="{{ meta.seo_description|striptags(true) }}">

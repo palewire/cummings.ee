@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>{% block title %}{{ meta.title }}{% endblock title %}</title>
+  <title>{% block title %}{% if meta.seo_title %}{{ meta.seo_title }}{% else %}{{ meta.title }}{% endif %}{% endblock title %}</title>
   <meta name="description" content="{% block description %}{{ meta.seo_description|striptags(true) }}{% endblock description %}">
 
   {% block canonical_url %}<link rel="canonical" href="{{ page.absoluteUrl }}">{% endblock canonical_url %}
@@ -17,7 +17,7 @@
   {% endblock favicons %}
 
   {% block opengraph %}
-  <meta property="og:title" content="{{ meta.title }}">
+  <meta property="og:title" content="{% if meta.seo_title %}{{ meta.seo_title }}{% else %}{{ meta.title }}{% endif %}">
   <meta property="og:description" content="{{ meta.seo_description|striptags(true) }}">
   <meta property="og:url" content="{{ page.absoluteUrl }}">
   <meta property="og:image" content="{% staticabsolute 'assets/img/social.png' %}">
@@ -27,7 +27,7 @@
   {% endblock opengraph %}
 
   {% block twitter %}
-  <meta property="twitter:title" content="{{ meta.title }}">
+  <meta property="twitter:title" content="{% if meta.seo_title %}{{ meta.seo_title }}{% else %}{{ meta.title }}{% endif %}">
   <meta property="twitter:description" content="{{ meta.seo_description|striptags(true) }}">
   <meta property="twitter:url" content="{{ page.absoluteUrl }}">
   <meta property="twitter:image" content="{% staticabsolute 'assets/img/social.png' %}">
@@ -39,7 +39,7 @@
   {
     "@context": "http://schema.org",
     "@type": "NewsArticle",
-    "headline": "{{ meta.title }}",
+    "headline": "{% if meta.seo_title %}{{ meta.seo_title }}{% else %}{{ meta.title }}{% endif %}",
     "image": {
       "@type": "ImageObject",
       "contentUrl": "{% staticabsolute 'assets/img/social.png' %}",

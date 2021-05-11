@@ -152,6 +152,9 @@
   &[data-poem-slug='sonnets-realities-ix'] {
     @include indent.spacing(4, 0.18rem, 0.17rem);
   }
+  &[data-poem-slug='sonnets-realities-xi'] {
+    @include indent.spacing(14, 0.14rem, 0.13rem);
+  }
   &[data-poem-slug='post-impressions-v'] {
     @include indent.spacing(9, 0.21rem, 0.2rem);
   }

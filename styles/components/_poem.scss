@@ -121,12 +121,56 @@
   &[data-poem-slug='sonnets-actualities-xxiv'] {
     @include indent.spacing(2, 0.075rem, 0.7rem);
   }
+  &[data-poem-slug='sonnets-realities-i'] {
+    @include indent.spacing(12, 0.12rem, 0.11rem);
+    @include indent.spacing(14, 0.16rem, 0.15rem);
+  }
+  &[data-poem-slug='sonnets-realities-ii'] {
+    @include indent.spacing(3, 0.13rem, 0.12rem);
+    @include indent.spacing(8, 0.32rem, 0.31rem);
+    @include indent.spacing(10, 0.14rem, 0.13rem);
+  }
+  &[data-poem-slug='sonnets-realities-iv'] {
+    @include indent.spacing(7, 0.1rem, 0.11rem);
+    @include indent.spacing(13, 0.14rem, 0.13rem);
+    @include indent.spacing(19, 0.23rem, 0.22rem);
+  }
+  &[data-poem-slug='sonnets-realities-vi'] {
+    @include indent.spacing(6, 0.15rem, 0.14rem);
+    @include indent.spacing(8, 0.13rem, 0.12rem);
+    @include indent.spacing(16, 0.14rem, 0.13rem);
+  }
+  &[data-poem-slug='sonnets-realities-vii'] {
+    @include indent.spacing(5, 0.17rem, 0.16rem);
+    @include indent.spacing(9, 0.14rem, 0.13rem);
+    @include indent.spacing(16, 0.16rem, 0.15rem);
+  }
+  &[data-poem-slug='sonnets-realities-viii'] {
+    @include indent.spacing(7, 0.23rem, 0.22rem);
+    @include indent.spacing(16, 0.18rem, 0.17rem);
+  }
+  &[data-poem-slug='sonnets-realities-ix'] {
+    @include indent.spacing(4, 0.18rem, 0.17rem);
+  }
+  &[data-poem-slug='sonnets-realities-xi'] {
+    @include indent.spacing(14, 0.14rem, 0.13rem);
+  }
+  &[data-poem-slug='sonnets-realities-xxi'] {
+    @include indent.spacing(11, 0.15rem, 0.14rem);
+  }
   &[data-poem-slug='post-impressions-v'] {
     @include indent.spacing(9, 0.21rem, 0.2rem);
   }
 }
 
 .poem[data-book-slug='xli-poems'] {
+  &[data-poem-slug='songs-xi'] {
+    @include indent.spacing(5, 0.15rem, 0.14rem);
+    @include indent.spacing(6, 0.15rem, 0.14rem);
+    @include indent.spacing(11, 0.15rem, 0.14rem);
+    @include indent.spacing(12, 0.15rem, 0.14rem);
+    @include indent.spacing(14, 0.14rem, 0.13rem);
+  }
   &[data-poem-slug='chansons-innocentes-ii'] {
     @include indent.spacing(7, 0.25rem, 0.24rem);
     @include indent.spacing(13, 0.15rem, 0.14rem);
@@ -137,10 +181,32 @@
     @include indent.spacing(21, 0.085rem, 0.075rem);
     @include indent.spacing(24, 0.085rem, 0.075rem);
   }
+  &[data-poem-slug='portraits-iv'] {
+    @include indent.spacing(11, 0.15rem, 0.14rem);
+  }
+  &[data-poem-slug='portraits-v'] {
+    @include indent.spacing(5, 0.065rem, 0.055rem);
+    @include indent.spacing(10, 0.085rem, 0.075rem);
+  }
+  &[data-poem-slug='portraits-vi'] {
+    @include indent.spacing(6, 0.16rem, 0.15rem);
+  }
   &[data-poem-slug='sonnets-vii'] {
     @include indent.spacing(1, 0.14rem, 0.13rem);
     @include indent.spacing(4, 0.16rem, 0.15rem);
     @include indent.spacing(14, 0.17rem, 0.16rem);
+  }
+  &[data-poem-slug='portraits-viii'] {
+    @include indent.spacing(3, 0.28rem, 0.15rem);
+    @include indent.spacing(11, 0.08rem, 0.07rem);
+    @include indent.spacing(19, 0.08rem, 0.07rem);
+    @include indent.spacing(25, 0.16rem, 0.15rem);
+    @include indent.spacing(28, 0.215rem, 0.205rem);
+    @include indent.spacing(30, 0.115rem, 0.105rem);
+  }
+  &[data-poem-slug='portraits-ix'] {
+    @include indent.spacing(20, 0.16rem, 0.15rem);
+    @include indent.spacing(28, 0.075rem, 0.65rem);
   }
   &[data-poem-slug='sonnets-ix'] {
     @include indent.spacing(8, 0.15rem, 0.14rem);

@@ -138,7 +138,8 @@ export default {
       for (const poem of availablePoems) {
         // Set all the poem metadata
         poem.description = poem.first_line || parseFirstLine(poem.text);
-        poem.seo_description = poem.first_line || parseFirstLine(poem.text);
+        poem.seo_title = poem.first_line || parseFirstLine(poem.text);
+        poem.seo_description = `A poem by E. E. Cummings in “${book.title}”`;
         poem.html_url = `https://cummings.ee/book/${book.slug}/poem/${poem.slug}/`;
         poem.json_url = `https://cummings.ee/book/${book.slug}/poem/${poem.slug}.json`;
         poem.txt_url = `https://cummings.ee/book/${book.slug}/poem/${poem.slug}.txt`;

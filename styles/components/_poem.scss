@@ -122,6 +122,10 @@
     @include indent.spacing(1, 0.17rem, 0.16rem);
     @include indent.spacing(10, 0.16rem, 0.15rem);
   }
+  &[data-poem-slug='and-seven-poems-vi'] {
+    @include indent.spacing(1, 0.155rem, 0.145rem);
+    @include indent.spacing(6, 0.17rem, 0.165rem);
+  }
   &[data-poem-slug='and-seven-poems-vii'] {
     @include indent.spacing(15, 0.155rem, 0.145rem);
   }

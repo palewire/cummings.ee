@@ -118,6 +118,9 @@
 }
 
 .poem[data-book-slug='and'] {
+  &[data-poem-slug='portraits-xii'] {
+    @include indent.spacing(57, 0.17em, 0.16rem);
+  }
   &[data-poem-slug='sonnets-actualities-xxiv'] {
     @include indent.spacing(2, 0.075rem, 0.7rem);
   }

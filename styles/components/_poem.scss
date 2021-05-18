@@ -185,6 +185,13 @@
   &[data-poem-slug='post-impressions-v'] {
     @include indent.spacing(9, 0.21rem, 0.2rem);
   }
+  &[data-poem-slug='post-impressions-x'] {
+    @include indent.spacing(5, 0.16rem, 0.15rem);
+    @include indent.spacing(18, 0.16rem, 0.15rem);
+  }
+  &[data-poem-slug='post-impressions-xii'] {
+    @include indent.spacing(18, 0.16rem, 0.15rem);
+  }
 }
 
 .poem[data-book-slug='xli-poems'] {

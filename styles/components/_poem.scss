@@ -182,6 +182,9 @@
     @include indent.spacing(11, 0.185rem, 0.175rem);
     @include indent.spacing(15, 0.14rem, 0.13rem);
   }
+  &[data-poem-slug='sonnets-actualities-xxii'] {
+    @include indent.spacing(6, 0.16rem, 0.15rem);
+  }
   &[data-poem-slug='sonnets-actualities-xxiii'] {
     @include indent.spacing(8, 0.16rem, 0.15rem);
   }

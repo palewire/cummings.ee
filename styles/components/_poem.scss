@@ -126,8 +126,21 @@
     @include indent.spacing(1, 0.155rem, 0.145rem);
     @include indent.spacing(6, 0.17rem, 0.165rem);
   }
+  &[data-poem-slug='and-seven-poems-ii'] {
+    @include indent.spacing(13, 0.1725rem, 0.1625rem);
+  }
+  &[data-poem-slug='and-seven-poems-iv'] {
+    @include indent.spacing(2, 0.28rem, 0.27rem);
+    @include indent.spacing(3, 0.16rem, 0.15rem);
+    @include indent.spacing(7, 0.27rem, 0.26rem);
+    @include indent.spacing(13, 0.16rem, 0.15rem);
+    @include indent.spacing(23, 0.185rem, 0.16rem);
+  }
   &[data-poem-slug='and-seven-poems-vii'] {
     @include indent.spacing(15, 0.155rem, 0.145rem);
+  }
+  &[data-poem-slug='and-seven-poems-v'] {
+    @include indent.spacing(39, 0.18rem, 0.17rem);
   }
   &[data-poem-slug='portraits-xi'] {
     @include indent.spacing(17, 0.17em, 0.16rem);

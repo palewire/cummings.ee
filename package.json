@@ -15,7 +15,8 @@
     "lodash": ">=4.17.21",
     "rfs": "^9.0.3",
     "sass-mq": "^5.0.1",
-    "trim-newlines": ">=3.0.1"
+    "trim-newlines": ">=3.0.1",
+    "browserslist": ">=4.16.5"
   },
   "devDependencies": {
     "@datagraphics/prettier-config": "^2.0.0",

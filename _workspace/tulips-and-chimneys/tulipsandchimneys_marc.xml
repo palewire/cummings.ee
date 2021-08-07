@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00925cam a22002891a 4500</leader>
+  <controlfield tag="001">7324182</controlfield>
+  <controlfield tag="005">20191205095558.0</controlfield>
+  <controlfield tag="008">761012s1923    nyu           000 0 eng  </controlfield>
+  <datafield tag="906" ind1=" " ind2=" ">
+    <subfield code="a">7</subfield>
+    <subfield code="b">cbc</subfield>
+    <subfield code="c">oclcrpl</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="e">ncip</subfield>
+    <subfield code="f">19</subfield>
+    <subfield code="g">y-gencatlg</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">(DLC)   24003859</subfield>
+  </datafield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   24003859 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)2496305</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OKentU</subfield>
+    <subfield code="d">TxU-Hu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">premarc</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PS3505.U334</subfield>
+    <subfield code="b">T8 1923</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cummings, E. E.</subfield>
+    <subfield code="q">(Edward Estlin),</subfield>
+    <subfield code="d">1894-1962.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tulips and Chimneys /</subfield>
+    <subfield code="c">by E. E. Cummings.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York :</subfield>
+    <subfield code="b">T. Seltzer,</subfield>
+    <subfield code="c">1923.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">125 p. ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Poems.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Firmage, G.J.  Cummings, E.E.</subfield>
+    <subfield code="c">A3</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">LAC scc 2019-11-18 update (1 card)</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">LAC ecr 2019-12-05 review</subfield>
+  </datafield>
+  <datafield tag="984" ind1=" " ind2=" ">
+    <subfield code="a">rsl</subfield>
+    <subfield code="d">2019-11-18</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">rblacfederal</subfield>
+    <subfield code="d">20191118</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="b">c-RareBook</subfield>
+    <subfield code="h">PS3505.U334</subfield>
+    <subfield code="i">T8 1923</subfield>
+    <subfield code="t">Copy 1</subfield>
+    <subfield code="w">OCLCREP</subfield>
+  </datafield>
+</record>

@@ -14,7 +14,8 @@
     "json-2-csv": "^3.10.3",
     "lodash": ">=4.17.21",
     "rfs": "^9.0.3",
-    "sass-mq": "^5.0.1"
+    "sass-mq": "^5.0.1",
+    "trim-newlines": ">=3.0.1"
   },
   "devDependencies": {
     "@datagraphics/prettier-config": "^2.0.0",

@@ -199,6 +199,10 @@ export default {
         );
       }
     }
+    // Make poem list
+    createPage('first_lines.html', `/first-lines/`, {
+      poemList,
+    });
     // Make sitemap
     createPage('sitemap.xml.njk', `sitemap.xml`, {
       urlList,

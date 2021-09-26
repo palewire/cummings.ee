@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% set meta = first_lines %}
+
+{% block content %}
+{% include "includes/nav.html" %}
+<article>
+<header class="book">
+  <h1>{{ meta.title }}</h1>
+</header>
+<section class="intro">
+    <p>{{ meta.description }}</p>
+</section>
+<section class="toc">
+  <ol class="level1">
+    <li>
+    <ol class="level2">
+    {% for poem in poemList|sort(false, false, 'first_line')  %}
+    <li>
+        <a href="{{ poem.html_url }}">{{ poem.first_line }}</a>
+    </li>
+    {% endfor %}
+    </ol>
+    </li>
+  </ol>
+</section>
+</article>
+{% endblock %}

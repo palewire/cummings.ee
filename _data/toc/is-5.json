@@ -4,7 +4,7 @@
       "slug": "one",
       "children": [
         {
-            "name": "FIVE AMERICANS",
+            "name": "<span class='numbered-name'><span class='numeral'>I</span> FIVE AMERICANS</span>",
             "slug": "one-i",
             "children": [
                 {

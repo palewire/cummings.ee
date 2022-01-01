@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="18.415727"
+       y="23.930433"
+       width="162.10657"
+       height="128.39208"
+       id="rect835" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="533.68082"
+     inkscape:cy="501.99333"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text833"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="ee"
+       id="text833"
+       style="font-size:10.5833px;line-height:1.25;font-family:'FB Web Use Only';-inkscape-font-specification:'FB Web Use Only';white-space:pre;shape-inside:url(#rect835)"
+       transform="matrix(23.85208,0,0,23.85208,-451.92502,-638.50545)">
+      <g
+         id="g850"
+         transform="translate(0.39824674,0.55716536)">
+        <path
+           d="m 24.363954,30.161845 v 0.465087 h -4.371812 q 0.06201,0.981849 0.589109,1.498612 0.532266,0.511595 1.477942,0.511595 0.547768,0 1.059363,-0.134359 0.516763,-0.134358 1.02319,-0.403075 v 0.899167 q -0.511595,0.217041 -1.049028,0.330729 -0.537433,0.113687 -1.090369,0.113687 -1.384924,0 -2.196242,-0.806149 -0.80615,-0.80615 -0.80615,-2.180739 0,-1.421097 0.764809,-2.253085 0.769977,-0.837156 2.072219,-0.837156 1.167883,0 1.844842,0.754474 0.682127,0.749306 0.682127,2.041212 z m -0.950843,-0.279051 q -0.01034,-0.780312 -0.439249,-1.245399 -0.423745,-0.465086 -1.126542,-0.465086 -0.795815,0 -1.276404,0.449584 -0.475422,0.449583 -0.547768,1.266068 z"
+           id="path843" />
+        <path
+           d="m 26.482534,30.161845 v 0.465087 h -4.371812 q 0.06201,0.981849 0.589109,1.498612 0.532266,0.511595 1.477941,0.511595 0.547769,0 1.059364,-0.134359 0.516763,-0.134358 1.02319,-0.403075 v 0.899167 q -0.511595,0.217041 -1.049028,0.330729 -0.537433,0.113687 -1.090369,0.113687 -1.384924,0 -2.196242,-0.806149 -0.80615,-0.80615 -0.80615,-2.180739 0,-1.421097 0.764809,-2.253085 0.769977,-0.837156 2.072219,-0.837156 1.167883,0 1.844842,0.754474 0.682127,0.749306 0.682127,2.041212 z m -0.950843,-0.279051 q -0.01034,-0.780312 -0.439249,-1.245399 -0.423745,-0.465086 -1.126542,-0.465086 -0.795815,0 -1.276404,0.449584 -0.475422,0.449583 -0.547768,1.266068 z"
+           id="path845" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'FB Web Use Only';-inkscape-font-specification:'FB Web Use Only';stroke-width:0.264583"
+       x="37.83144"
+       y="65.440453"
+       id="text841"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="37.83144"
+         y="65.440453"
+         style="stroke-width:0.264583"></tspan></text>
+  </g>
+</svg>

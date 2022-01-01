@@ -5,15 +5,19 @@
 {% macro poem_html(toc_obj, level) %}
 <li class="level{{ level }} {% if toc_obj.children %}parent{% endif %}"
     {% if not toc_obj.children %}data-public-domain="{% if poems[book.slug][toc_obj.slug].text %}true{% else %}false{% endif %}"{% endif %}>
-  
     {% if toc_obj.numeral %}
     <span class="numbered-name">
       <span class="numeral">{{ toc_obj.name }}</span>
       <span class="name">
         {% if poems[book.slug][toc_obj.slug].text -%}<a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">{% endif %}
+          {% if poems[book.slug][toc_obj.slug].titled %}
+           {% if poems[book.slug][toc_obj.slug].text -%}<a href="/book/{{ book.slug }}/poem/{{ toc_obj.slug }}/">{% endif %}
+            {{ poems[book.slug][toc_obj.slug].title }}
+          {% else %}
           {% for line in poems[book.slug][toc_obj.slug].first_line|parsePoem|first %}
             <span class="line">{{ line.text|formatFirstLine }}</span>{% if not loop.last %}<br>{% endif %}
           {% endfor %}
+          {% endif %}
         {% if poems[book.slug][toc_obj.slug].text -%}</a>{% endif %}
       </span>
     </span>

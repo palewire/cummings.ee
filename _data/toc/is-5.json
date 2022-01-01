@@ -1,0 +1,428 @@
+[
+    {
+      "name": "ONE",
+      "slug": "one",
+      "children": [
+        {
+            "name": "FIVE AMERICANS",
+            "slug": "one-i",
+            "children": [
+                {
+                    "name": "I",
+                    "slug": "five-americans-i",
+                    "numeral": true
+                },
+                {
+                    "name": "II",
+                    "slug": "five-americans-ii",
+                    "numeral": true
+                },
+                {
+                    "name": "III",
+                    "slug": "five-americans-iii",
+                    "numeral": true
+                },
+                {
+                    "name": "IV",
+                    "slug": "five-americans-iv",
+                    "numeral": true
+                },
+                {
+                    "name": "V",
+                    "slug": "five-americans-v",
+                    "numeral": true
+                }
+            ]
+        },
+        {
+            "name": "II",
+            "slug": "one-ii",
+            "numeral": true
+        },
+        {
+            "name": "III",
+            "slug": "one-iii",
+            "numeral": true
+        },
+        {
+            "name": "IV",
+            "slug": "one-iv",
+            "numeral": true
+        },
+        {
+            "name": "V",
+            "slug": "one-v",
+            "numeral": true
+        },
+        {
+            "name": "VI",
+            "slug": "one-vi",
+            "numeral": true
+        },
+        {
+            "name": "VII",
+            "slug": "one-vii",
+            "numeral": true
+        },
+        {
+            "name": "VIII",
+            "slug": "one-viii",
+            "numeral": true
+        },
+        {
+            "name": "IX",
+            "slug": "one-ix",
+            "numeral": true
+        },
+        {
+            "name": "X",
+            "slug": "one-x",
+            "numeral": true
+        },
+        {
+            "name": "XI",
+            "slug": "one-xi",
+            "numeral": true
+        },
+        {
+            "name": "XII",
+            "slug": "one-xii",
+            "numeral": true
+        },
+        {
+            "name": "XIII",
+            "slug": "one-xiii",
+            "numeral": true
+        },
+        {
+            "name": "XIV",
+            "slug": "one-xiv",
+            "numeral": true
+        },
+        {
+            "name": "XV",
+            "slug": "one-xv",
+            "numeral": true
+        },
+        {
+            "name": "XVI",
+            "slug": "one-xvi",
+            "numeral": true
+        },
+        {
+            "name": "XVII",
+            "slug": "one-xvii",
+            "numeral": true
+        },
+        {
+            "name": "XVIII",
+            "slug": "one-xviii",
+            "numeral": true
+        },
+        {
+            "name": "XIX",
+            "slug": "one-xix",
+            "numeral": true
+        },
+        {
+            "name": "XX",
+            "slug": "one-xx",
+            "numeral": true
+        },
+        {
+            "name": "XXI",
+            "slug": "one-xxi",
+            "numeral": true
+        },
+        {
+            "name": "XXII",
+            "slug": "one-xxii",
+            "numeral": true
+        },
+        {
+            "name": "XXIII",
+            "slug": "one-xxiii",
+            "numeral": true
+        },
+        {
+            "name": "XXIV",
+            "slug": "one-xxiv",
+            "numeral": true
+        },
+        {
+            "name": "XXV",
+            "slug": "one-xxv",
+            "numeral": true
+        },
+        {
+            "name": "XXVI",
+            "slug": "one-xxvi",
+            "numeral": true
+        },
+        {
+            "name": "XXVII",
+            "slug": "one-xxvii",
+            "numeral": true
+        },
+        {
+            "name": "XXVIII",
+            "slug": "one-xxviii",
+            "numeral": true
+        },
+        {
+            "name": "XXIX",
+            "slug": "one-xxix",
+            "numeral": true
+        },
+        {
+            "name": "XXX",
+            "slug": "one-xxx",
+            "numeral": true
+        },
+        {
+            "name": "XXXI",
+            "slug": "one-xxxi",
+            "numeral": true
+        },
+        {
+            "name": "XXXII",
+            "slug": "one-xxxii",
+            "numeral": true
+        },
+        {
+            "name": "XXXIII",
+            "slug": "one-xxxiii",
+            "numeral": true
+        },
+        {
+            "name": "XXXIV",
+            "slug": "one-xxxiv",
+            "numeral": true
+        }
+      ]
+    },
+    {
+      "name": "TWO",
+      "slug": "two",
+      "children": [
+        {
+            "name": "I",
+            "slug": "two-i",
+            "numeral": true
+        },
+        {
+            "name": "II",
+            "slug": "two-ii",
+            "numeral": true
+        },
+        {
+            "name": "III",
+            "slug": "two-iii",
+            "numeral": true
+        },
+        {
+            "name": "IV",
+            "slug": "two-iv",
+            "numeral": true
+        },
+        {
+            "name": "V",
+            "slug": "two-v",
+            "numeral": true
+        },
+        {
+            "name": "VI",
+            "slug": "two-vi",
+            "numeral": true
+        },
+        {
+            "name": "VII",
+            "slug": "two-vii",
+            "numeral": true
+        },
+        {
+            "name": "VIII",
+            "slug": "two-viii",
+            "numeral": true
+        },
+        {
+            "name": "IX",
+            "slug": "two-ix",
+            "numeral": true
+        },
+        {
+            "name": "X",
+            "slug": "two-x",
+            "numeral": true
+        }
+      ]
+    },
+    {
+      "name": "THREE",
+      "slug": "three",
+      "children": [
+        {
+            "name": "I",
+            "slug": "three-i",
+            "numeral": true
+        },
+        {
+            "name": "II",
+            "slug": "three-ii",
+            "numeral": true
+        },
+        {
+            "name": "III",
+            "slug": "three-iii",
+            "numeral": true
+        },
+        {
+            "name": "IV",
+            "slug": "three-iv",
+            "numeral": true
+        },
+        {
+            "name": "V",
+            "slug": "three-v",
+            "numeral": true
+        },
+        {
+            "name": "VI",
+            "slug": "three-vi",
+            "numeral": true
+        },
+        {
+            "name": "VII",
+            "slug": "three-vii",
+            "numeral": true
+        }
+      ]
+    },
+    {
+      "name": "FOUR",
+      "slug": "four",
+      "children": [
+        {
+            "name": "I",
+            "slug": "four-i",
+            "numeral": true
+        },
+        {
+            "name": "II",
+            "slug": "four-ii",
+            "numeral": true
+        },
+        {
+            "name": "III",
+            "slug": "four-iii",
+            "numeral": true
+        },
+        {
+            "name": "IV",
+            "slug": "four-iv",
+            "numeral": true
+        },
+        {
+            "name": "V",
+            "slug": "four-v",
+            "numeral": true
+        },
+        {
+            "name": "VI",
+            "slug": "four-vi",
+            "numeral": true
+        },
+        {
+            "name": "VII",
+            "slug": "four-vii",
+            "numeral": true
+        },
+        {
+            "name": "VIII",
+            "slug": "four-viii",
+            "numeral": true
+        },
+        {
+            "name": "IX",
+            "slug": "four-ix",
+            "numeral": true
+        },
+        {
+            "name": "X",
+            "slug": "four-x",
+            "numeral": true
+        },
+        {
+            "name": "XI",
+            "slug": "four-xi",
+            "numeral": true
+        },
+        {
+            "name": "XII",
+            "slug": "four-xii",
+            "numeral": true
+        },
+        {
+            "name": "XIII",
+            "slug": "four-xiii",
+            "numeral": true
+        },
+        {
+            "name": "XIV",
+            "slug": "four-xiv",
+            "numeral": true
+        },
+        {
+            "name": "XV",
+            "slug": "four-xv",
+            "numeral": true
+        },
+        {
+            "name": "XVI",
+            "slug": "four-xvi",
+            "numeral": true
+        },
+        {
+            "name": "XVII",
+            "slug": "four-xvii",
+            "numeral": true
+        },
+        {
+            "name": "XVIII",
+            "slug": "four-xviii",
+            "numeral": true
+        }
+      ]
+    },
+    {
+      "name": "FIVE",
+      "slug": "five",
+      "children": [
+        {
+            "name": "I",
+            "slug": "five-i",
+            "numeral": true
+        },
+        {
+            "name": "II",
+            "slug": "five-ii",
+            "numeral": true
+        },
+        {
+            "name": "III",
+            "slug": "five-iii",
+            "numeral": true
+        },
+        {
+            "name": "IV",
+            "slug": "five-iv",
+            "numeral": true
+        },
+        {
+            "name": "V",
+            "slug": "five-v",
+            "numeral": true
+        }
+      ]
+    }
+]

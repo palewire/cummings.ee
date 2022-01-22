@@ -1,0 +1,481 @@
+{
+  "book": {
+    "slug": "is-5",
+    "title": "is 5",
+    "description": "Published in 1926 by Boni & Liveright, this book entered the public domain in 2022.",
+    "year": 1926,
+    "public_domain": true,
+    "html_url": "https://cummings.ee/book/is-5/",
+    "json_url": "https://cummings.ee/book/is-5.json"
+  },
+  "toc": [
+    {
+      "name": "I",
+      "slug": "five-americans-i",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-americans-i/"
+    },
+    {
+      "name": "II",
+      "slug": "five-americans-ii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-americans-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "five-americans-iii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-americans-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "five-americans-iv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-americans-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "five-americans-v",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-americans-v/"
+    },
+    {
+      "name": "II",
+      "slug": "one-ii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "one-iii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "one-iv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "one-v",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "one-vi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "one-vii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "one-viii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "one-ix",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "one-x",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-x/"
+    },
+    {
+      "name": "XI",
+      "slug": "one-xi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xi/"
+    },
+    {
+      "name": "XII",
+      "slug": "one-xii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xii/"
+    },
+    {
+      "name": "XIII",
+      "slug": "one-xiii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xiii/"
+    },
+    {
+      "name": "XIV",
+      "slug": "one-xiv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xiv/"
+    },
+    {
+      "name": "XV",
+      "slug": "one-xv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xv/"
+    },
+    {
+      "name": "XVI",
+      "slug": "one-xvi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xvi/"
+    },
+    {
+      "name": "XVII",
+      "slug": "one-xvii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xvii/"
+    },
+    {
+      "name": "XVIII",
+      "slug": "one-xviii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xviii/"
+    },
+    {
+      "name": "XIX",
+      "slug": "one-xix",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xix/"
+    },
+    {
+      "name": "XX",
+      "slug": "one-xx",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xx/"
+    },
+    {
+      "name": "XXI",
+      "slug": "one-xxi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxi/"
+    },
+    {
+      "name": "XXII",
+      "slug": "one-xxii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxii/"
+    },
+    {
+      "name": "XXIII",
+      "slug": "one-xxiii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxiii/"
+    },
+    {
+      "name": "XXIV",
+      "slug": "one-xxiv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxiv/"
+    },
+    {
+      "name": "XXV",
+      "slug": "one-xxv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxv/"
+    },
+    {
+      "name": "XXVI",
+      "slug": "one-xxvi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxvi/"
+    },
+    {
+      "name": "XXVII",
+      "slug": "one-xxvii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxvii/"
+    },
+    {
+      "name": "XXVIII",
+      "slug": "one-xxviii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxviii/"
+    },
+    {
+      "name": "XXIX",
+      "slug": "one-xxix",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxix/"
+    },
+    {
+      "name": "XXX",
+      "slug": "one-xxx",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxx/"
+    },
+    {
+      "name": "XXXI",
+      "slug": "one-xxxi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxxi/"
+    },
+    {
+      "name": "XXXII",
+      "slug": "one-xxxii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxxii/"
+    },
+    {
+      "name": "XXXIII",
+      "slug": "one-xxxiii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxxiii/"
+    },
+    {
+      "name": "XXXIV",
+      "slug": "one-xxxiv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/one-xxxiv/"
+    },
+    {
+      "name": "I",
+      "slug": "two-i",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-i/"
+    },
+    {
+      "name": "II",
+      "slug": "two-ii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "two-iii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "two-iv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "two-v",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "two-vi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "two-vii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "two-viii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "two-ix",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "two-x",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/two-x/"
+    },
+    {
+      "name": "I",
+      "slug": "three-i",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/three-i/"
+    },
+    {
+      "name": "II",
+      "slug": "three-ii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/three-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "three-iii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/three-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "three-iv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/three-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "three-v",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/three-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "three-vi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/three-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "three-vii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/three-vii/"
+    },
+    {
+      "name": "I",
+      "slug": "four-i",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-i/"
+    },
+    {
+      "name": "II",
+      "slug": "four-ii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "four-iii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "four-iv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "four-v",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "four-vi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "four-vii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "four-viii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "four-ix",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "four-x",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-x/"
+    },
+    {
+      "name": "XI",
+      "slug": "four-xi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-xi/"
+    },
+    {
+      "name": "XII",
+      "slug": "four-xii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-xii/"
+    },
+    {
+      "name": "XIII",
+      "slug": "four-xiii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-xiii/"
+    },
+    {
+      "name": "XIV",
+      "slug": "four-xiv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-xiv/"
+    },
+    {
+      "name": "XV",
+      "slug": "four-xv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-xv/"
+    },
+    {
+      "name": "XVI",
+      "slug": "four-xvi",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-xvi/"
+    },
+    {
+      "name": "XVII",
+      "slug": "four-xvii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-xvii/"
+    },
+    {
+      "name": "XVIII",
+      "slug": "four-xviii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/four-xviii/"
+    },
+    {
+      "name": "I",
+      "slug": "five-i",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-i/"
+    },
+    {
+      "name": "II",
+      "slug": "five-ii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "five-iii",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "five-iv",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "five-v",
+      "numeral": true,
+      "html_url": "https://cummings.ee/book/is-5/poem/five-v/"
+    }
+  ]
+}

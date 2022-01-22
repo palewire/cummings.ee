@@ -1,0 +1,12 @@
+{
+  "book": {
+    "slug": "1x1",
+    "title": "1x1",
+    "description": "Published in 1944 by Holt, this book will enter the public domain in 2040. Until then, it remains protected by copyright and cannot be republished here.",
+    "year": 1944,
+    "public_domain": false,
+    "html_url": "https://cummings.ee/book/1x1/",
+    "json_url": "https://cummings.ee/book/1x1.json"
+  },
+  "toc": []
+}

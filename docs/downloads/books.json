@@ -5,7 +5,7 @@
     "description": "This 1923 release was Cummings’s first book of verse. It entered the public domain in 2019.",
     "year": 1923,
     "public_domain": true,
-    "source": "The materials here come from a first edition scanned at the <a href="https://www.lapl.org/">Los Angeles Public Library</a>. A comprehensive collection of everything Cummings intended to appear in the book can be found in Liveright’s “<a href="https://wwnorton.com/books/9781631490415">Complete Poems</a>.”",
+    "source": "The materials here come from a first edition scanned at the <a href="https://archive.org/details/tulips-and-chimneys">Notre Dame Hesburgh Library</a>. A comprehensive collection of everything Cummings intended to appear in the book can be found in Liveright’s “<a href="https://wwnorton.com/books/9781631490415">Complete Poems</a>.”",
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys.json"
   },
@@ -35,6 +35,7 @@
     "description": "Published in 1926 by Boni & Liveright, this book entered the public domain in 2022.",
     "year": 1926,
     "public_domain": true,
+    "source": "The materials here come from a first edition scanned at the <a href="https://archive.org/details/is-5-ee-cummings">Los Angeles Public Library</a>.",
     "html_url": "https://cummings.ee/book/is-5/",
     "json_url": "https://cummings.ee/book/is-5.json"
   },

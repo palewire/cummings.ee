@@ -9,7 +9,7 @@ list:
     - The first edition, published by <a href='https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)'>Thomas Seltzer</a>, is reproduced here. Many poems submitted by the author were omitted. They would surface in <a href='https://cummings.ee/book/and/'>subsequent</a> <a href='https://cummings.ee/book/xli-poems/'>books</a> and <a href='https://wwnorton.com/books/9781631490415'>future editions</a> of this volume.
    year: 1923
    public_domain: true
-   source: The materials here come from a first edition scanned at the <a href='https://www.lapl.org/'>Los Angeles Public Library</a>. A comprehensive collection of everything Cummings intended to appear in the book can be found in Liveright’s “<a href='https://wwnorton.com/books/9781631490415'>Complete Poems</a>.”
+   source: The materials here come from a first edition scanned at the <a href='https://archive.org/details/tulips-and-chimneys'>Notre Dame Hesburgh Library</a>. A comprehensive collection of everything Cummings intended to appear in the book can be found in Liveright’s “<a href='https://wwnorton.com/books/9781631490415'>Complete Poems</a>.”
 
  - title: '&'
    slug: and
@@ -42,6 +42,7 @@ list:
     - Published in 1926 by Boni & Liveright, this book entered the public domain in 2022.
    year: 1926
    public_domain: true
+   source: The materials here come from a first edition scanned at the <a href='https://archive.org/details/is-5-ee-cummings'>Los Angeles Public Library</a>.
 
  - title: ViVa
    slug: viva

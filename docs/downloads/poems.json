@@ -55,17 +55,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.txt"
   },
   {
-    "slug": "amores-vi",
-    "title": "Amores VI",
-    "first_line": "i like",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i like\nto think that on\nthe flower you gave me when we\nloved\n\n     the far-\ndeparted mouth sweetly-saluted\nlingers.\n        if one marvel\n\nseeing the hunger of my\nlips for a dead thing,\ni shall instruct\nhim silently with becoming\n\nsteps to seek\nyour face    and i\nentreat,by certain foolish perfect\nhours\n\n     dead too,\nif that he come receive\nhim as your lover sumptuously\nbeing\n\nkind\n     because i trust him to\nyour grace,and for\nin his own land\n\nhe is called death.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi.txt"
-  },
-  {
     "slug": "amores-vii",
     "title": "Amores VII",
     "first_line": "O Distinct",
@@ -75,6 +64,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii.txt"
+  },
+  {
+    "slug": "amores-vi",
+    "title": "Amores VI",
+    "first_line": "i like",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "i like\nto think that on\nthe flower you gave me when we\nloved\n\n     the far-\ndeparted mouth sweetly-saluted\nlingers.\n        if one marvel\n\nseeing the hunger of my\nlips for a dead thing,\ni shall instruct\nhim silently with becoming\n\nsteps to seek\nyour face    and i\nentreat,by certain foolish perfect\nhours\n\n     dead too,\nif that he come receive\nhim as your lover sumptuously\nbeing\n\nkind\n     because i trust him to\nyour grace,and for\nin his own land\n\nhe is called death.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi.txt"
   },
   {
     "slug": "amores-viii",
@@ -99,17 +99,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.txt"
   },
   {
-    "slug": "chansons-innocentes-ii",
-    "title": "Chansons Innocentes II",
-    "first_line": "hist    whist",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "hist    whist\nlittle ghostthings\ntip-toe\ntwinkle-toe\n\nlittle twitchy\nwitches and tingling\ngoblins\nhob-a-nob    hob-a-nob\n\nlittle hoppy happy\ntoad in tweeds\ntweeds\nlittle itchy mousies\n\nwith scuttling\neyes    rustle and run    and\nhidehidehide\nwhisk\n\nwhisk   look out for the old woman\nwith the wart on her nose\nwhat she'll do to yer\nnobody knows\n\nfor she knows the devil   ooch\nthe devil    ouch\nthe devil\nach      the great\n\ngreen\ndancing\ndevil\ndevil\n\ndevil\ndevil\n\n        wheeEEE",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.txt"
-  },
-  {
     "slug": "chansons-innocentes-iii",
     "title": "Chansons Innocentes III",
     "first_line": "Tumbling-hair\n              picker of buttercups\n                                   violets",
@@ -119,6 +108,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii.txt"
+  },
+  {
+    "slug": "chansons-innocentes-ii",
+    "title": "Chansons Innocentes II",
+    "first_line": "hist    whist",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "hist    whist\nlittle ghostthings\ntip-toe\ntwinkle-toe\n\nlittle twitchy\nwitches and tingling\ngoblins\nhob-a-nob    hob-a-nob\n\nlittle hoppy happy\ntoad in tweeds\ntweeds\nlittle itchy mousies\n\nwith scuttling\neyes    rustle and run    and\nhidehidehide\nwhisk\n\nwhisk   look out for the old woman\nwith the wart on her nose\nwhat she'll do to yer\nnobody knows\n\nfor she knows the devil   ooch\nthe devil    ouch\nthe devil\nach      the great\n\ngreen\ndancing\ndevil\ndevil\n\ndevil\ndevil\n\n        wheeEEE",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.txt"
   },
   {
     "slug": "epithalamion",
@@ -154,17 +154,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii.txt"
   },
   {
-    "slug": "impressions-iv",
-    "title": "Impressions IV",
-    "first_line": "the hours rise up putting off stars and it is",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the hours rise up putting off stars and it is\ndawn\ninto the street of the sky light walks scattering poems\n\non earth a candle is\nextinguished       the city\nwakes\nwith a song upon her\nmouth having death in her eyes\n\nand it is dawn\nthe world\ngoes forth to murder dreams....\n\ni see in the street where strong\nmen are digging bread\nand i see the brutal faces of\npeople contented hideous hopeless cruel happy\n\nand it is day,\n\nin the mirror\ni see a frail\nman\ndreaming\ndreams\ndreams in the mirror\n\nand it\nis dusk    on earth\n\na candle is lighted\nand it is dark.\nthe people are in their houses\nthe frail main is in his bed\nthe city\n\nsleeps with death upon her mouth having a song in her eyes\nthe hours descend,\nputting on stars....\n\nin the street of the sky night walks scattering poems",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv.txt"
-  },
-  {
     "slug": "impressions-iii",
     "title": "Impressions III",
     "first_line": "i was considering how",
@@ -174,6 +163,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.txt"
+  },
+  {
+    "slug": "impressions-iv",
+    "title": "Impressions IV",
+    "first_line": "the hours rise up putting off stars and it is",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the hours rise up putting off stars and it is\ndawn\ninto the street of the sky light walks scattering poems\n\non earth a candle is\nextinguished       the city\nwakes\nwith a song upon her\nmouth having death in her eyes\n\nand it is dawn\nthe world\ngoes forth to murder dreams....\n\ni see in the street where strong\nmen are digging bread\nand i see the brutal faces of\npeople contented hideous hopeless cruel happy\n\nand it is day,\n\nin the mirror\ni see a frail\nman\ndreaming\ndreams\ndreams in the mirror\n\nand it\nis dusk    on earth\n\na candle is lighted\nand it is dark.\nthe people are in their houses\nthe frail main is in his bed\nthe city\n\nsleeps with death upon her mouth having a song in her eyes\nthe hours descend,\nputting on stars....\n\nin the street of the sky night walks scattering poems",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv.txt"
   },
   {
     "slug": "impressions-v",
@@ -198,17 +198,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.txt"
   },
   {
-    "slug": "of-nicolette",
-    "title": "Of Nicolette",
-    "first_line": "dreaming in marble all the castle lay",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "dreaming in marble all the castle lay\nlike some gigantic ghost-flower born of night\nblossoming in white towers to the moon,\nsoft sighed the passionate darkness to the tune\nof tiny troubadours,and(phantom-white)\ndumb-blooming boughs let fall their glorious snows,\nand the unearthly sweetness of a rose\nswam upward from the troubled heart of May;\n\na Winged Passion woke one by one\nthere fell upon the night,like angel's tears,\nthe syllables of that mysterious prayer,\nand as an opening lily drowsy-fair\n(when from her couch of poppy petals peers\nthe sleepy morning)gently draws apart\nher curtains,and lays bare her trembling heart,\nwith beads of dew made jewels by the sun,\n\nso one high shining tower(which as a glass\nturned light to flame and blazed with snowy fire)\nunfolding,gave the moon a nymphlike face,\na form whose snowy symmetry of grace\nhaunted the limbs of as music haunts the lyre,\na creature of white hands,who letting fall\na thread of lustre from the castle wall\ngilded,a drop of radiance,to the grass—\n\nshunning the sudden moonbeam's treacherous snare\nshe sought the harbouring dark,and(catching up\nher delicate silk)all white,with shining feet,\nwent forth into the dew:right wildly beat\nher heart at every kiss of daisy-cup,\nand from her cheek beauteous colour went\nwith every bough that reverently bent\nto touch the yellow wonder of her hair.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette.txt"
-  },
-  {
     "slug": "la-guerre-ii",
     "title": "La Guerre II",
     "first_line": "O sweet spontaneous",
@@ -218,6 +207,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii.txt"
+  },
+  {
+    "slug": "of-nicolette",
+    "title": "Of Nicolette",
+    "first_line": "dreaming in marble all the castle lay",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "dreaming in marble all the castle lay\nlike some gigantic ghost-flower born of night\nblossoming in white towers to the moon,\nsoft sighed the passionate darkness to the tune\nof tiny troubadours,and(phantom-white)\ndumb-blooming boughs let fall their glorious snows,\nand the unearthly sweetness of a rose\nswam upward from the troubled heart of May;\n\na Winged Passion woke one by one\nthere fell upon the night,like angel's tears,\nthe syllables of that mysterious prayer,\nand as an opening lily drowsy-fair\n(when from her couch of poppy petals peers\nthe sleepy morning)gently draws apart\nher curtains,and lays bare her trembling heart,\nwith beads of dew made jewels by the sun,\n\nso one high shining tower(which as a glass\nturned light to flame and blazed with snowy fire)\nunfolding,gave the moon a nymphlike face,\na form whose snowy symmetry of grace\nhaunted the limbs of as music haunts the lyre,\na creature of white hands,who letting fall\na thread of lustre from the castle wall\ngilded,a drop of radiance,to the grass—\n\nshunning the sudden moonbeam's treacherous snare\nshe sought the harbouring dark,and(catching up\nher delicate silk)all white,with shining feet,\nwent forth into the dew:right wildly beat\nher heart at every kiss of daisy-cup,\nand from her cheek beauteous colour went\nwith every bough that reverently bent\nto touch the yellow wonder of her hair.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette.txt"
   },
   {
     "slug": "orientale-i",
@@ -363,17 +363,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi.txt"
   },
   {
-    "slug": "portraits-vii",
-    "title": "Portraits VII",
-    "first_line": "the rose",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the rose\nis dying the\nlips of an old man murder\n\nthe petals\nhush\nmysteriously\ninvisible mourners move\nwith prose faces and sobbing,garments\nThe symbol of the rose\n\nmotionless\nwith grieving feet and\nwings\nmounts\n\nagainst the margins of steep song\na stallion sweetness     ,the\n\nlips of an old man murder\n\nthe petals.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.txt"
-  },
-  {
     "slug": "portraits-viii",
     "title": "Portraits VIII",
     "first_line": "Buffalo Bill ’s",
@@ -383,6 +372,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.txt"
+  },
+  {
+    "slug": "portraits-vii",
+    "title": "Portraits VII",
+    "first_line": "the rose",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the rose\nis dying the\nlips of an old man murder\n\nthe petals\nhush\nmysteriously\ninvisible mourners move\nwith prose faces and sobbing,garments\nThe symbol of the rose\n\nmotionless\nwith grieving feet and\nwings\nmounts\n\nagainst the margins of steep song\na stallion sweetness     ,the\n\nlips of an old man murder\n\nthe petals.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.txt"
   },
   {
     "slug": "portraits-x",
@@ -451,17 +451,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-v.txt"
   },
   {
-    "slug": "puella-mea",
-    "title": "Puella Mea",
-    "first_line": "Harun Omar and Master Hafiz",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "Harun Omar and Master Hafiz\nkeep your dead beautiful ladies.\nMine is a little lovelier\nthan any of your ladies were.\n\nIn her perfectest array\nmy lady,moving in the day,\nis a little stranger thing\nthan crisp Sheba with her king\nin the morning wandering.\n  Through the young and awkward hours\nmy lady perfectly moving,\nthrough the new world scarce astir\nmy fragile lady wandering\nin whose perishable poise\nis the mystery of Spring\n(with her beauty more than snow\ndexterous and fugitive\nmy very frail lady drifting\ndistinctly,moving like a myth\nin the uncertain morning,with\nApril feet like sudden flowers\nand all her body filled with May)\n—moving in the unskilful day\nmy lady utterly alive,\nto me is a more curious thing\n(a thing more nimble and complete)\nthan ever to Judea’s king\nwere the shapely sharp cunning\nand withal delirious feet\nof the Princess Salomé\ncarefully dancing in the noise\nof Herod’s silence,long ago.\n\nIf she a little turn her head\ni know that i am wholly dead:\nnor ever did on such a throat\nthe lips of Tristam slowly dote,\nLa beale Isoud whose leman was.\nAnd if my lady look at me\n(with her eyes which like two elves\nincredibly amuse themselves)\nwith a look of færie,\nperhaps a little suddenly\n(as sometimes the improbably\nbeauty of my lady will)\n—at her glace my spirit shies\nrearing(as in the miracle\nof a lady who had eyes\nwhich the king’s horses might not kill.)\n  But should my lady smile,it were\na flower of so pure surprise\n(it were so very new a flower,\na flower so frail,a flower so glad)\nas trembling used to yield with dew\nwhen the world was young and new\n(a flower such as the world had\nin Springtime when the world was mad\nand Launcelot spoke to Guenever,\na flower which most heavy hung\nwith silence when the world was young\nand Diarmid looked in Grania’s eyes.)\n  But should my lady’s beauty play\nat not speaking(sometimes as\nit will)the silence of her face\ndoth immediately make\nin my heart so great a noise,\nas in the sharp and thirsty blood\nof Paris would not all the Troys\nof Helen’s beauty:never did\nLord Jason(in impossible things\nvictorious impossibly)\nso wholly burn,to undertake\nMedea’s rescuing eyes;nor he\nwhen swooned the white egyptian day\nwho with Egypt’s body lay.\n\nLove as those ladies were\nmine is a little lovelier.\nAnd if she speak in her frail way,\nit is wholly to bewitch\nmy smallest thought with a most swift\nradiance wherein slowly drift\nmurmurous things divinely bright;\nit is foolingly to smite\nmy spirit with the lithe free twitch\nof scintillant space,with the cool writhe\nof gloom truly which syncopate\nsome sunbeam’s skilful fingerings;\nit is utterly to lull\nwith foliate inscrutable\nsweetness my soul obedient;\nit is to stroke my being with\nnumbing forests frolicsome,\nfleetly mystical,aroam\nwith keen creatures of idiom\n(beings alert and innocent\nvery deftly upon which\nindolent miracles impinge)\n—it is distinctly to confute\nmy reason with the deep caress\nof every most shy thing and mute,\nit is to quell me with the twinge\nof all living intense things.\n  Never my soul so fortunate\nis(past the luck of all dead men\nand loving)-as invisibly when\nupon her palpable solitude\na furtive occult fragrance steals,\na gesture of immaculate\nperfume—whereby (with fear aglow)\nmy soul is wont wholly to know\nthe poignant instantaneous fern\nwhose scrupulous enchanted fronds\ntoward all things intrinsic yearn,\nthe immanent subliminal\nfern of her delicious voice\n(of her voice which always dwells\nbesides the vivid magical\nimpetuous and utter ponds\nof dream;and very secret food\nits leaves inimitable find\nbeyond the white authentic springs,\nbeyond the sweet instinctive wells,\nwhich make to flourish the minute\nspontaneous meadow of her mind)\n—the vocal fern,always which feels\nthe keen ecstatic actual tread\n(and thereto perfectly responds)\nof all things exquisite and dead,\nall living things and beautiful.\n(Caliph and king their ladies had\nto love them and to make them glad\nwhen the world was young and mad,\nin the city of Bagdad—\nmine is a little lovelier\nthan any of those ladies were.)\n\nHer body is most beauteous,\nbeing for all things amorous\nfashioned very curiously\nof roses and of ivory.\nThe immaculate crisp head\nis such as only certain dead\nand careful painters love to use\nfor their youngest angels(whose\npraising bodies in a row\nbetween slow glories fleetly go.)\nUpon a keen and lovely throad\nthe strangeness of her face doth float,\nwhich in eyes and lips consists\n—always upon the mouth there trysts\ncurvingly a fragile smile\nwhich like a flower lieth(while\nwithing the eyes is dimly hear\na wistful and precarious bird.)\nSpringing from fragrant shoulders small,\nardent,and perfectly withal\nsmooth to stroke and sweet to see\nas a supple and young tree,\nher slim lascivious arms alight\nin skilful wrists which hint at flight\n—my lady’s very singular\nand slenderest hands moreover are\n(which as lilies smile and quail)\nof all things perfect the most frail.\n\n(Whose rideth in the tale\nof Chaucer knoweth many a pair\nof companions blithe and fair;\nwho to walk with Master Gower\nin Confessio doth prefer\nshall not lack for beauty there,\nnor he that will amaying go\nwith my log Boccaccio—\nwhose knocketh at the door\nof Marie and of Maleore\nfindeth of ladies goodly store\nwhose beauty did in nothing err.\nIf to me there shall appear\nthan a rose more sweetly known,\nmore silently than a flower,\nmy lady naked in her hair—\ni for those ladies nothing care\nnor any lady dead and gone.)\n\nEach tapering breast is firm and smooth\nthan in a lovely fashion doth\nfrom my lady’s body grow;\nas morning may a lily known,\nher petaled flesh doth entertain\nthe adriot blood’s mysterious skein\n(but like some passionate earlier\nflower, the snow will oft utter,\nwhereof the year has perfect bliss—\nfor each breast a blossom is,\nwhich being a little while caressed\nits fragrance makes the lover blest.)\nHer waist is a most tiny hinge\nof flesh,a winsome thing and strange;\napt in my hand warmly to lie\nit is a throbbing neck whereby\nto grasp the belly’s ample vase\n(that urgent urn which doth amass\nfor whoso drinks,a dizzier wine\nthan should the grapes of heaven combine\nwith earth’s madness)—’tis a gate\nunto a palace intricate\n(whereof the luscious pillars rise\nwhich are her lage and shapely thighs)\nin whose dome the trembling bliss\nof a kingdom wholly is.\n  Beneath her thighs such legs are seen\nas were the pride of the world’s queen:\neach is a verb,miraculous\ninflected oral devious,\nbeneath the body’s breathing noun\n(moreover the delicious frown\nof the grave great sensual knees\nwell might any monarch please.)\nEach ankle is divinely shy;\nas if for fear you would espy\nthe little distinct food(if whose\nvery minuteness doth abuse\nreason,why then the artificer\ndid most exquistiely err.)\n\nWhen the world was like a song\nheard behind a golden door,\npoet and sage and caliph had\nto love them and to make them glad\nladies with lithe eyes and long\n(when the world was like a flower\nOmar Hafiz and Harun\nloved their ladies in the moon)\n—fashioned very curiously\nof roses and of ivory\nif naked she appear to me\nmy flesh is an enchanted tree;\nwith her lips’ most frail parting\nmy body hears the cry of Spring,\nand with their frailest syllable\nits leaves go crisp with miracle.\n\nLove!—maker of my lady,\nin that alway beyond this\npoem or any poem she\nof whose body words are afraid\nperfectly beautiful is.\nforgive these words which i have made.\nAnd never boast your dead beauties,\nyou greatest lovers in the world!\nwho with Grania strangely fled,\nwho with Egypt went to bed,\nwhom white-thighed Semiramis\nput up her mouth to wholly kiss—\nnever boast your dead beauties,\nmine being unto me sweeter\n(of whose shy delicious glance\nthings which never more shall be,\nperfect things of færie,\nare intense inhabitants;\nin whose warm superlative\nbody do distinctly live\nall sweet cities passed away—\nin her flesh at break of day\nare the smells of Nineveh,\nin her eyes when day is gone\nare the cries of Babylon.)\nDiarmuid Paris and Solomon,\nOmar Harun and Master Hafiz,\nto me your ladies are all one—\nkeep your dead beautiful ladies.\n\nEater of all things lovely—Time!\nupon whose watering lips the world\npoises a moment(futile,proud,\na costly morsel of sweet tears)\ngesticulates,and disappears—\nof all dainties which do crowd\ngaily upon oblivion\nsweeter than any there is one;\nto touch it is the fear of rhyme—\nin life’s very fragile hour\n(when the world was like a tale\nmade of laughter and of dew,\nwas a flight,a flower,a flame,\nwas a tendril fleety curled\nupon frailness)used to stroll\n(very slowly)one or two\nladies like flowers made,\nsoftly used to wholly move\nslender ladies made of dream\n(in the lazy world and new\nsweetly used to laugh and love\nladies with crisp eyes and frail,\nin the city of Bagdad.)\n\nKeep your dead beautiful ladies\nHarun Omar and Master Hafiz.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/puella-mea/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/puella-mea.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/puella-mea.txt"
-  },
-  {
     "slug": "post-impressions-vi",
     "title": "Post Impressions VI",
     "first_line": "at the head of this street a gasping organ is waving moth-eaten",
@@ -473,15 +462,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-vi.txt"
   },
   {
-    "slug": "songs-i",
-    "title": "Songs I",
-    "first_line": "(thee will i praise between those rivers whose",
+    "slug": "puella-mea",
+    "title": "Puella Mea",
+    "first_line": "Harun Omar and Master Hafiz",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "(thee will i praise between those rivers whose\nwhite voices pass upon forgetting(fail\nme not)whose courseless waters are a gloat\nof silver;o’er whose night three willows wail,\na slender dimness in the unshapeful hour\nmaking dear moan in tones of stroked flower;\nlet not thy lust one threaded moment lose:\nhaste)the very shadowy sheep float\nfree upon terrific pastures pale,\n\nwhose tall mysterious shepherd lifts a cheek\nteartroubled to the momentary wind\nwith guiding smile,lips wisely minced for blown\nkisses,condemnatory fingers thinned\nof pity—so he stands counting the moved\nmyriads wonderfully loved,\n(hasten, it is the moment which shall seek\nall blossoms that do learn,scents of not known\nmusics in whose careful eyes are dinned;\n\nand the people of the perfect darkness fills\nhis mind who will their hungering whispers hear\nwith weepings soundless,saying of “alas\nwe were chaste on earth we ghosts:hark to the sheer\ncadence of our gray flesh in the gloom!\nand still to be immortal is our doom;\nbut a rain frailly raging whom the hills\nsink into and their sunsets,it shall pass.\nOur feet tread sleepless meadows sweet with fear”)\n\nthen be with me:unseriously seem\nby the perusing greenness of thy thought\nmy golden soul fabulously to glue\nin a superior terror;be thy taut\nflesh silver,like the currency of faint\ncities eternal—ere the sinless taint\nof thy long sinful arms about me dream\nshall my love wholly taste thee as a new\nwine from steep hills by darkness softly brought—\n\n(be with me in the sacred witchery\nof almostness which May makes follow soon\non the sweet heels of passed afterday,\nclothe thy soul’s coming merely,with a croon\nof mingling robes musically revealed\nin rareness:let thy twain eyes deeply wield\na noise of petals falling silently\nthrough the far-spaced possible nearaway\nfrom huge trees drenched by a rounding moon)",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i.txt"
+    "text": "Harun Omar and Master Hafiz\nkeep your dead beautiful ladies.\nMine is a little lovelier\nthan any of your ladies were.\n\nIn her perfectest array\nmy lady,moving in the day,\nis a little stranger thing\nthan crisp Sheba with her king\nin the morning wandering.\n  Through the young and awkward hours\nmy lady perfectly moving,\nthrough the new world scarce astir\nmy fragile lady wandering\nin whose perishable poise\nis the mystery of Spring\n(with her beauty more than snow\ndexterous and fugitive\nmy very frail lady drifting\ndistinctly,moving like a myth\nin the uncertain morning,with\nApril feet like sudden flowers\nand all her body filled with May)\n—moving in the unskilful day\nmy lady utterly alive,\nto me is a more curious thing\n(a thing more nimble and complete)\nthan ever to Judea’s king\nwere the shapely sharp cunning\nand withal delirious feet\nof the Princess Salomé\ncarefully dancing in the noise\nof Herod’s silence,long ago.\n\nIf she a little turn her head\ni know that i am wholly dead:\nnor ever did on such a throat\nthe lips of Tristam slowly dote,\nLa beale Isoud whose leman was.\nAnd if my lady look at me\n(with her eyes which like two elves\nincredibly amuse themselves)\nwith a look of færie,\nperhaps a little suddenly\n(as sometimes the improbably\nbeauty of my lady will)\n—at her glace my spirit shies\nrearing(as in the miracle\nof a lady who had eyes\nwhich the king’s horses might not kill.)\n  But should my lady smile,it were\na flower of so pure surprise\n(it were so very new a flower,\na flower so frail,a flower so glad)\nas trembling used to yield with dew\nwhen the world was young and new\n(a flower such as the world had\nin Springtime when the world was mad\nand Launcelot spoke to Guenever,\na flower which most heavy hung\nwith silence when the world was young\nand Diarmid looked in Grania’s eyes.)\n  But should my lady’s beauty play\nat not speaking(sometimes as\nit will)the silence of her face\ndoth immediately make\nin my heart so great a noise,\nas in the sharp and thirsty blood\nof Paris would not all the Troys\nof Helen’s beauty:never did\nLord Jason(in impossible things\nvictorious impossibly)\nso wholly burn,to undertake\nMedea’s rescuing eyes;nor he\nwhen swooned the white egyptian day\nwho with Egypt’s body lay.\n\nLove as those ladies were\nmine is a little lovelier.\nAnd if she speak in her frail way,\nit is wholly to bewitch\nmy smallest thought with a most swift\nradiance wherein slowly drift\nmurmurous things divinely bright;\nit is foolingly to smite\nmy spirit with the lithe free twitch\nof scintillant space,with the cool writhe\nof gloom truly which syncopate\nsome sunbeam’s skilful fingerings;\nit is utterly to lull\nwith foliate inscrutable\nsweetness my soul obedient;\nit is to stroke my being with\nnumbing forests frolicsome,\nfleetly mystical,aroam\nwith keen creatures of idiom\n(beings alert and innocent\nvery deftly upon which\nindolent miracles impinge)\n—it is distinctly to confute\nmy reason with the deep caress\nof every most shy thing and mute,\nit is to quell me with the twinge\nof all living intense things.\n  Never my soul so fortunate\nis(past the luck of all dead men\nand loving)-as invisibly when\nupon her palpable solitude\na furtive occult fragrance steals,\na gesture of immaculate\nperfume—whereby (with fear aglow)\nmy soul is wont wholly to know\nthe poignant instantaneous fern\nwhose scrupulous enchanted fronds\ntoward all things intrinsic yearn,\nthe immanent subliminal\nfern of her delicious voice\n(of her voice which always dwells\nbesides the vivid magical\nimpetuous and utter ponds\nof dream;and very secret food\nits leaves inimitable find\nbeyond the white authentic springs,\nbeyond the sweet instinctive wells,\nwhich make to flourish the minute\nspontaneous meadow of her mind)\n—the vocal fern,always which feels\nthe keen ecstatic actual tread\n(and thereto perfectly responds)\nof all things exquisite and dead,\nall living things and beautiful.\n(Caliph and king their ladies had\nto love them and to make them glad\nwhen the world was young and mad,\nin the city of Bagdad—\nmine is a little lovelier\nthan any of those ladies were.)\n\nHer body is most beauteous,\nbeing for all things amorous\nfashioned very curiously\nof roses and of ivory.\nThe immaculate crisp head\nis such as only certain dead\nand careful painters love to use\nfor their youngest angels(whose\npraising bodies in a row\nbetween slow glories fleetly go.)\nUpon a keen and lovely throad\nthe strangeness of her face doth float,\nwhich in eyes and lips consists\n—always upon the mouth there trysts\ncurvingly a fragile smile\nwhich like a flower lieth(while\nwithing the eyes is dimly hear\na wistful and precarious bird.)\nSpringing from fragrant shoulders small,\nardent,and perfectly withal\nsmooth to stroke and sweet to see\nas a supple and young tree,\nher slim lascivious arms alight\nin skilful wrists which hint at flight\n—my lady’s very singular\nand slenderest hands moreover are\n(which as lilies smile and quail)\nof all things perfect the most frail.\n\n(Whose rideth in the tale\nof Chaucer knoweth many a pair\nof companions blithe and fair;\nwho to walk with Master Gower\nin Confessio doth prefer\nshall not lack for beauty there,\nnor he that will amaying go\nwith my log Boccaccio—\nwhose knocketh at the door\nof Marie and of Maleore\nfindeth of ladies goodly store\nwhose beauty did in nothing err.\nIf to me there shall appear\nthan a rose more sweetly known,\nmore silently than a flower,\nmy lady naked in her hair—\ni for those ladies nothing care\nnor any lady dead and gone.)\n\nEach tapering breast is firm and smooth\nthan in a lovely fashion doth\nfrom my lady’s body grow;\nas morning may a lily known,\nher petaled flesh doth entertain\nthe adriot blood’s mysterious skein\n(but like some passionate earlier\nflower, the snow will oft utter,\nwhereof the year has perfect bliss—\nfor each breast a blossom is,\nwhich being a little while caressed\nits fragrance makes the lover blest.)\nHer waist is a most tiny hinge\nof flesh,a winsome thing and strange;\napt in my hand warmly to lie\nit is a throbbing neck whereby\nto grasp the belly’s ample vase\n(that urgent urn which doth amass\nfor whoso drinks,a dizzier wine\nthan should the grapes of heaven combine\nwith earth’s madness)—’tis a gate\nunto a palace intricate\n(whereof the luscious pillars rise\nwhich are her lage and shapely thighs)\nin whose dome the trembling bliss\nof a kingdom wholly is.\n  Beneath her thighs such legs are seen\nas were the pride of the world’s queen:\neach is a verb,miraculous\ninflected oral devious,\nbeneath the body’s breathing noun\n(moreover the delicious frown\nof the grave great sensual knees\nwell might any monarch please.)\nEach ankle is divinely shy;\nas if for fear you would espy\nthe little distinct food(if whose\nvery minuteness doth abuse\nreason,why then the artificer\ndid most exquistiely err.)\n\nWhen the world was like a song\nheard behind a golden door,\npoet and sage and caliph had\nto love them and to make them glad\nladies with lithe eyes and long\n(when the world was like a flower\nOmar Hafiz and Harun\nloved their ladies in the moon)\n—fashioned very curiously\nof roses and of ivory\nif naked she appear to me\nmy flesh is an enchanted tree;\nwith her lips’ most frail parting\nmy body hears the cry of Spring,\nand with their frailest syllable\nits leaves go crisp with miracle.\n\nLove!—maker of my lady,\nin that alway beyond this\npoem or any poem she\nof whose body words are afraid\nperfectly beautiful is.\nforgive these words which i have made.\nAnd never boast your dead beauties,\nyou greatest lovers in the world!\nwho with Grania strangely fled,\nwho with Egypt went to bed,\nwhom white-thighed Semiramis\nput up her mouth to wholly kiss—\nnever boast your dead beauties,\nmine being unto me sweeter\n(of whose shy delicious glance\nthings which never more shall be,\nperfect things of færie,\nare intense inhabitants;\nin whose warm superlative\nbody do distinctly live\nall sweet cities passed away—\nin her flesh at break of day\nare the smells of Nineveh,\nin her eyes when day is gone\nare the cries of Babylon.)\nDiarmuid Paris and Solomon,\nOmar Harun and Master Hafiz,\nto me your ladies are all one—\nkeep your dead beautiful ladies.\n\nEater of all things lovely—Time!\nupon whose watering lips the world\npoises a moment(futile,proud,\na costly morsel of sweet tears)\ngesticulates,and disappears—\nof all dainties which do crowd\ngaily upon oblivion\nsweeter than any there is one;\nto touch it is the fear of rhyme—\nin life’s very fragile hour\n(when the world was like a tale\nmade of laughter and of dew,\nwas a flight,a flower,a flame,\nwas a tendril fleety curled\nupon frailness)used to stroll\n(very slowly)one or two\nladies like flowers made,\nsoftly used to wholly move\nslender ladies made of dream\n(in the lazy world and new\nsweetly used to laugh and love\nladies with crisp eyes and frail,\nin the city of Bagdad.)\n\nKeep your dead beautiful ladies\nHarun Omar and Master Hafiz.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/puella-mea/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/puella-mea.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/puella-mea.txt"
   },
   {
     "slug": "songs-ii",
@@ -493,6 +482,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.txt"
+  },
+  {
+    "slug": "songs-i",
+    "title": "Songs I",
+    "first_line": "(thee will i praise between those rivers whose",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "(thee will i praise between those rivers whose\nwhite voices pass upon forgetting(fail\nme not)whose courseless waters are a gloat\nof silver;o’er whose night three willows wail,\na slender dimness in the unshapeful hour\nmaking dear moan in tones of stroked flower;\nlet not thy lust one threaded moment lose:\nhaste)the very shadowy sheep float\nfree upon terrific pastures pale,\n\nwhose tall mysterious shepherd lifts a cheek\nteartroubled to the momentary wind\nwith guiding smile,lips wisely minced for blown\nkisses,condemnatory fingers thinned\nof pity—so he stands counting the moved\nmyriads wonderfully loved,\n(hasten, it is the moment which shall seek\nall blossoms that do learn,scents of not known\nmusics in whose careful eyes are dinned;\n\nand the people of the perfect darkness fills\nhis mind who will their hungering whispers hear\nwith weepings soundless,saying of “alas\nwe were chaste on earth we ghosts:hark to the sheer\ncadence of our gray flesh in the gloom!\nand still to be immortal is our doom;\nbut a rain frailly raging whom the hills\nsink into and their sunsets,it shall pass.\nOur feet tread sleepless meadows sweet with fear”)\n\nthen be with me:unseriously seem\nby the perusing greenness of thy thought\nmy golden soul fabulously to glue\nin a superior terror;be thy taut\nflesh silver,like the currency of faint\ncities eternal—ere the sinless taint\nof thy long sinful arms about me dream\nshall my love wholly taste thee as a new\nwine from steep hills by darkness softly brought—\n\n(be with me in the sacred witchery\nof almostness which May makes follow soon\non the sweet heels of passed afterday,\nclothe thy soul’s coming merely,with a croon\nof mingling robes musically revealed\nin rareness:let thy twain eyes deeply wield\na noise of petals falling silently\nthrough the far-spaced possible nearaway\nfrom huge trees drenched by a rounding moon)",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i.txt"
   },
   {
     "slug": "songs-iii",
@@ -649,17 +649,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-v.txt"
   },
   {
-    "slug": "sonnets-realities-vi",
-    "title": "Sonnets—Realities VI",
-    "first_line": "when thou hast taken thy last applause,and when",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "when thou hast taken thy last applause,and when\nthe final curtain strikes the world away,\nleaving to shadowy silence and dismay\nthat stage which shall not know they smile again,\nlingering a little while i see thee then\nponder the tinsel part they let thee play;\ni see the large lips livid,the face grey,\nand silent smileless eyes of Magdalen.\nThe lights have laughed their last;without,the street\ndarkling awaiteth her whose feet have trod\nthe silly souls of men to golden dust:\nshe pauses on the lintel of defeat,\nher heart breaks in a smile—and she is Lust....\n\nmine also,little painted poem of god",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-vi.txt"
-  },
-  {
     "slug": "sonnets-unrealities-i",
     "title": "Sonnets—Unrealities I",
     "first_line": "it may not always be so;and i say",
@@ -680,6 +669,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii.txt"
+  },
+  {
+    "slug": "sonnets-realities-vi",
+    "title": "Sonnets—Realities VI",
+    "first_line": "when thou hast taken thy last applause,and when",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "when thou hast taken thy last applause,and when\nthe final curtain strikes the world away,\nleaving to shadowy silence and dismay\nthat stage which shall not know they smile again,\nlingering a little while i see thee then\nponder the tinsel part they let thee play;\ni see the large lips livid,the face grey,\nand silent smileless eyes of Magdalen.\nThe lights have laughed their last;without,the street\ndarkling awaiteth her whose feet have trod\nthe silly souls of men to golden dust:\nshe pauses on the lintel of defeat,\nher heart breaks in a smile—and she is Lust....\n\nmine also,little painted poem of god",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-vi.txt"
   },
   {
     "slug": "sonnets-unrealities-iii",
@@ -737,17 +737,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/and-seven-poems-i.txt"
   },
   {
-    "slug": "and-seven-poems-iii",
-    "title": "&:Seven Poems III",
-    "first_line": "Spring is like a perhaps hand",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "Spring is like a perhaps hand\n(which comes carefully\nout of Nowhere)arranging\na window,into which people look(while\npeople stare arranging and changing placing\ncarefully there a strange\nthing and a known thing here)and\n\nchanging everything carefully\n\nspring is like a perhaps\nHand in a window\n(carefully to\nand fro moving New and\nOld things,while\npeople stare carefully\nmoving a perhaps\nfraction of flower here placing\nan inch of air there)and\n\nwithout breaking anything.",
-    "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-iii/",
-    "json_url": "https://cummings.ee/book/and/poem/and-seven-poems-iii.json",
-    "txt_url": "https://cummings.ee/book/and/poem/and-seven-poems-iii.txt"
-  },
-  {
     "slug": "and-seven-poems-ii",
     "title": "&:Seven Poems II",
     "first_line": "i’ll tell you a dream i had once i was away up in the sky Blue,everything:",
@@ -757,6 +746,17 @@
     "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-ii/",
     "json_url": "https://cummings.ee/book/and/poem/and-seven-poems-ii.json",
     "txt_url": "https://cummings.ee/book/and/poem/and-seven-poems-ii.txt"
+  },
+  {
+    "slug": "and-seven-poems-iii",
+    "title": "&:Seven Poems III",
+    "first_line": "Spring is like a perhaps hand",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "Spring is like a perhaps hand\n(which comes carefully\nout of Nowhere)arranging\na window,into which people look(while\npeople stare arranging and changing placing\ncarefully there a strange\nthing and a known thing here)and\n\nchanging everything carefully\n\nspring is like a perhaps\nHand in a window\n(carefully to\nand fro moving New and\nOld things,while\npeople stare carefully\nmoving a perhaps\nfraction of flower here placing\nan inch of air there)and\n\nwithout breaking anything.",
+    "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-iii/",
+    "json_url": "https://cummings.ee/book/and/poem/and-seven-poems-iii.json",
+    "txt_url": "https://cummings.ee/book/and/poem/and-seven-poems-iii.txt"
   },
   {
     "slug": "and-seven-poems-iv",
@@ -858,17 +858,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/portraits-ix.txt"
   },
   {
-    "slug": "portraits-v",
-    "title": "Portraits V",
-    "first_line": "raise the shade",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "raise the shade\nwill youse dearie?\nrain\nwouldn’t that\n\nget yer goat but\nwe don’t care do\nwe dearie we should\nworry about the rain\n\nhuh\ndearie?\nyknow\ni’m\n\nsorry for awl the\npoor girls that\ngets up god\nknows when every\n\nday of their\nlives\naint you,\n            oo-oo.    dearie\n\nnot so\nhard dear\n\nyou’re killing me",
-    "html_url": "https://cummings.ee/book/and/poem/portraits-v/",
-    "json_url": "https://cummings.ee/book/and/poem/portraits-v.json",
-    "txt_url": "https://cummings.ee/book/and/poem/portraits-v.txt"
-  },
-  {
     "slug": "portraits-vi",
     "title": "Portraits VI",
     "first_line": "Cleopatra built",
@@ -889,6 +878,17 @@
     "html_url": "https://cummings.ee/book/and/poem/portraits-vii/",
     "json_url": "https://cummings.ee/book/and/poem/portraits-vii.json",
     "txt_url": "https://cummings.ee/book/and/poem/portraits-vii.txt"
+  },
+  {
+    "slug": "portraits-v",
+    "title": "Portraits V",
+    "first_line": "raise the shade",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "raise the shade\nwill youse dearie?\nrain\nwouldn’t that\n\nget yer goat but\nwe don’t care do\nwe dearie we should\nworry about the rain\n\nhuh\ndearie?\nyknow\ni’m\n\nsorry for awl the\npoor girls that\ngets up god\nknows when every\n\nday of their\nlives\naint you,\n            oo-oo.    dearie\n\nnot so\nhard dear\n\nyou’re killing me",
+    "html_url": "https://cummings.ee/book/and/poem/portraits-v/",
+    "json_url": "https://cummings.ee/book/and/poem/portraits-v.json",
+    "txt_url": "https://cummings.ee/book/and/poem/portraits-v.txt"
   },
   {
     "slug": "portraits-viii",
@@ -957,17 +957,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/post-impressions-ii.txt"
   },
   {
-    "slug": "post-impressions-iii",
-    "title": "Post Impressions III",
-    "first_line": "this wind is a Lady with",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "this wind is a Lady with\nbright slender eyes(who\n\nmoves)at sunset\nand who—touches—the\nhills without any reason\n\n(i have spoken with this\nindubitable and green person “Are\nYou the wind?” “Yes” “why do you touch flowers\nas if they were unalive,as\n\nif They were ideas?” “because,sir\nthings which in my mind blossom will\nstumble beneath a clumsiest disguise,appear\ncapable of fragility and indecision\n\n—do not suppose these\nwithout any reason and otherwise\nroses and mountains\ndifferent from the i am who wanders\n\nimminently across the renewed world”\nto me said the)wind being A lady in a green\ndress,who;touches:the fields\n(at sunset)",
-    "html_url": "https://cummings.ee/book/and/poem/post-impressions-iii/",
-    "json_url": "https://cummings.ee/book/and/poem/post-impressions-iii.json",
-    "txt_url": "https://cummings.ee/book/and/poem/post-impressions-iii.txt"
-  },
-  {
     "slug": "post-impressions-iv",
     "title": "Post Impressions IV",
     "first_line": "Take for example this:",
@@ -977,6 +966,17 @@
     "html_url": "https://cummings.ee/book/and/poem/post-impressions-iv/",
     "json_url": "https://cummings.ee/book/and/poem/post-impressions-iv.json",
     "txt_url": "https://cummings.ee/book/and/poem/post-impressions-iv.txt"
+  },
+  {
+    "slug": "post-impressions-iii",
+    "title": "Post Impressions III",
+    "first_line": "this wind is a Lady with",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "this wind is a Lady with\nbright slender eyes(who\n\nmoves)at sunset\nand who—touches—the\nhills without any reason\n\n(i have spoken with this\nindubitable and green person “Are\nYou the wind?” “Yes” “why do you touch flowers\nas if they were unalive,as\n\nif They were ideas?” “because,sir\nthings which in my mind blossom will\nstumble beneath a clumsiest disguise,appear\ncapable of fragility and indecision\n\n—do not suppose these\nwithout any reason and otherwise\nroses and mountains\ndifferent from the i am who wanders\n\nimminently across the renewed world”\nto me said the)wind being A lady in a green\ndress,who;touches:the fields\n(at sunset)",
+    "html_url": "https://cummings.ee/book/and/poem/post-impressions-iii/",
+    "json_url": "https://cummings.ee/book/and/poem/post-impressions-iii.json",
+    "txt_url": "https://cummings.ee/book/and/poem/post-impressions-iii.txt"
   },
   {
     "slug": "post-impressions-ix",
@@ -990,17 +990,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/post-impressions-ix.txt"
   },
   {
-    "slug": "post-impressions-vi",
-    "title": "Post Impressions VI",
-    "first_line": "I remark this beach has been used too.    much Too.    originally",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "I remark this beach has been used too.    much Too.    originally\nspontaneous twurls-of-excrement inanely codified with superb\nsunlight,    jolts of delapidation bath-houses whose opened\nwithins ejaculate. obscenity    the tide Did dl es a,fad ed\nexplosion of, pink!stocking\n\nw h e e saysthesea-brE aking-b Re  akin g(brea )K    ing\n\nmy Nose puts on sharp robes of uncouth odour,for an onion!for\none—onion for.   putrescence is Cubical    sliced-nicelybits\nOf,  shivers ofcrin Ging stink.dull, globular glows and\nflatchatte ringarom a .s\n\n—w hee e;\n\nseasays.Break snice-Ly in-twin K les Of,CleaN\n\na booming smell waddles toward,me,dressed like a Plum grinning\nsoftly,New   focus-of disintegrat i o n ?    my\n\nmind laughsin- to Slivers of (unthinking.c’est\n\nl’heure\n\n       exquise)i remind Me of HerThe delicate-swill tints of\n\nhair Whose(the lit-tle m-oo-n’s o u t )    flesh    stalks\nthe Momentinmyarms\n\nyour expression\n               my love\n                      when most passionate.,\n\n                                           my,love\nis thatofa  fly.pre cisel  Yhalf\n\n(squashe)d\n\n          with,its,little,solemn,    entrails",
-    "html_url": "https://cummings.ee/book/and/poem/post-impressions-vi/",
-    "json_url": "https://cummings.ee/book/and/poem/post-impressions-vi.json",
-    "txt_url": "https://cummings.ee/book/and/poem/post-impressions-vi.txt"
-  },
-  {
     "slug": "post-impressions-v",
     "title": "Post Impressions V",
     "first_line": "Paris;this April sunset completely utters;",
@@ -1010,6 +999,17 @@
     "html_url": "https://cummings.ee/book/and/poem/post-impressions-v/",
     "json_url": "https://cummings.ee/book/and/poem/post-impressions-v.json",
     "txt_url": "https://cummings.ee/book/and/poem/post-impressions-v.txt"
+  },
+  {
+    "slug": "post-impressions-vi",
+    "title": "Post Impressions VI",
+    "first_line": "I remark this beach has been used too.    much Too.    originally",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "I remark this beach has been used too.    much Too.    originally\nspontaneous twurls-of-excrement inanely codified with superb\nsunlight,    jolts of delapidation bath-houses whose opened\nwithins ejaculate. obscenity    the tide Did dl es a,fad ed\nexplosion of, pink!stocking\n\nw h e e saysthesea-brE aking-b Re  akin g(brea )K    ing\n\nmy Nose puts on sharp robes of uncouth odour,for an onion!for\none—onion for.   putrescence is Cubical    sliced-nicelybits\nOf,  shivers ofcrin Ging stink.dull, globular glows and\nflatchatte ringarom a .s\n\n—w hee e;\n\nseasays.Break snice-Ly in-twin K les Of,CleaN\n\na booming smell waddles toward,me,dressed like a Plum grinning\nsoftly,New   focus-of disintegrat i o n ?    my\n\nmind laughsin- to Slivers of (unthinking.c’est\n\nl’heure\n\n       exquise)i remind Me of HerThe delicate-swill tints of\n\nhair Whose(the lit-tle m-oo-n’s o u t )    flesh    stalks\nthe Momentinmyarms\n\nyour expression\n               my love\n                      when most passionate.,\n\n                                           my,love\nis thatofa  fly.pre cisel  Yhalf\n\n(squashe)d\n\n          with,its,little,solemn,    entrails",
+    "html_url": "https://cummings.ee/book/and/poem/post-impressions-vi/",
+    "json_url": "https://cummings.ee/book/and/poem/post-impressions-vi.json",
+    "txt_url": "https://cummings.ee/book/and/poem/post-impressions-vi.txt"
   },
   {
     "slug": "post-impressions-vii",
@@ -1155,17 +1155,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-v.txt"
   },
   {
-    "slug": "sonnets-actualities-vi",
-    "title": "Sonnets—Actualities VI",
-    "first_line": "when i have thought of you somewhat too",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "when i have thought of you somewhat too\nmuch and am become perfectly and\nsimply Lustful....sense a gradual stir\nof beginning muscle,and what it will do\nto me before shutting....understand\ni love you....feel your suddenly body reach\nfor me with a speed of white speech\n\n(the simple instant of perfect hunger\nYes)\n    how beautifully swims\nthe fooling world in my huge blood,\ncracking brains A swiftlyenormous light\n—and furiously puzzling through,prismatic,whims\nthe chattering self perceives with hysterical fright\n\na comic tadpole wriggling in delicious mud",
-    "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vi/",
-    "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vi.json",
-    "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vi.txt"
-  },
-  {
     "slug": "sonnets-actualities-vii",
     "title": "Sonnets—Actualities VII",
     "first_line": "autumn is:that between there and here",
@@ -1175,6 +1164,17 @@
     "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vii/",
     "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vii.json",
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vii.txt"
+  },
+  {
+    "slug": "sonnets-actualities-vi",
+    "title": "Sonnets—Actualities VI",
+    "first_line": "when i have thought of you somewhat too",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "when i have thought of you somewhat too\nmuch and am become perfectly and\nsimply Lustful....sense a gradual stir\nof beginning muscle,and what it will do\nto me before shutting....understand\ni love you....feel your suddenly body reach\nfor me with a speed of white speech\n\n(the simple instant of perfect hunger\nYes)\n    how beautifully swims\nthe fooling world in my huge blood,\ncracking brains A swiftlyenormous light\n—and furiously puzzling through,prismatic,whims\nthe chattering self perceives with hysterical fright\n\na comic tadpole wriggling in delicious mud",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vi/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vi.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vi.txt"
   },
   {
     "slug": "sonnets-actualities-viii",
@@ -1188,17 +1188,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-viii.txt"
   },
   {
-    "slug": "sonnets-actualities-x",
-    "title": "Sonnets—Actualities X",
-    "first_line": "if i should sleep with a lady called death",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "if i should sleep with a lady called death\nget another man with firmer lips\nto take your new mouth in his teeth\n(hips pumping pleasure into hips).\n\nSeeing how the limp huddling string\nof your smile over his body squirms\nkissingly,i will bring you every spring\nhandfuls of little normal worms.\n\nDress deftly your flesh in stupid stuffs,\nphrase the immense weapon of your hair.\nUnderstanding why his eye laughs.\ni will bring you every year\n\nsomething which is worth the whole,\nan inch of nothing for your soul.",
-    "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-x/",
-    "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-x.json",
-    "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-x.txt"
-  },
-  {
     "slug": "sonnets-actualities-xi",
     "title": "Sonnets—Actualities XI",
     "first_line": "my naked lady framed",
@@ -1210,15 +1199,15 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xi.txt"
   },
   {
-    "slug": "sonnets-actualities-xii",
-    "title": "Sonnets—Actualities XII",
-    "first_line": "i have found what you are like",
+    "slug": "sonnets-actualities-x",
+    "title": "Sonnets—Actualities X",
+    "first_line": "if i should sleep with a lady called death",
     "book_slug": "and",
     "book_title": "&",
-    "text": "i have found what you are like\nthe rain.\n\n         (Who feathers frightened fields\nwith the superior dust-of-sleep.  wields\n\neasily the pale club of the wind\nand swirled justly souls of flower strike\n\nthe air in utterable coolness\n\ndeeds of green thrilling light\n                               with thinned\n\nnewfragile yellows\n\n                    lurch and.press\n\n—in the woods\n              which\n                    stutter\n                            and\n\n                                sing\nAnd the coolness of your smile is\nstirringofbirds between my arms;but\ni should rather than anything\nhave(almost when hugeness will shut\nquietly)almost,\n               your kiss",
-    "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xii/",
-    "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xii.json",
-    "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xii.txt"
+    "text": "if i should sleep with a lady called death\nget another man with firmer lips\nto take your new mouth in his teeth\n(hips pumping pleasure into hips).\n\nSeeing how the limp huddling string\nof your smile over his body squirms\nkissingly,i will bring you every spring\nhandfuls of little normal worms.\n\nDress deftly your flesh in stupid stuffs,\nphrase the immense weapon of your hair.\nUnderstanding why his eye laughs.\ni will bring you every year\n\nsomething which is worth the whole,\nan inch of nothing for your soul.",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-x/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-x.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-x.txt"
   },
   {
     "slug": "sonnets-actualities-xiii",
@@ -1230,6 +1219,17 @@
     "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xiii/",
     "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xiii.json",
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xiii.txt"
+  },
+  {
+    "slug": "sonnets-actualities-xii",
+    "title": "Sonnets—Actualities XII",
+    "first_line": "i have found what you are like",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "i have found what you are like\nthe rain.\n\n         (Who feathers frightened fields\nwith the superior dust-of-sleep.  wields\n\neasily the pale club of the wind\nand swirled justly souls of flower strike\n\nthe air in utterable coolness\n\ndeeds of green thrilling light\n                               with thinned\n\nnewfragile yellows\n\n                    lurch and.press\n\n—in the woods\n              which\n                    stutter\n                            and\n\n                                sing\nAnd the coolness of your smile is\nstirringofbirds between my arms;but\ni should rather than anything\nhave(almost when hugeness will shut\nquietly)almost,\n               your kiss",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xii/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xii.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xii.txt"
   },
   {
     "slug": "sonnets-actualities-xiv",
@@ -1408,17 +1408,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-ix.txt"
   },
   {
-    "slug": "sonnets-realities-vi",
-    "title": "Sonnets—Realities VI",
-    "first_line": "the poem her belly marched through me as",
-    "book_slug": "and",
-    "book_title": "&",
-    "text": "the poem her belly marched through me as\none army.   From her nostrils to her feet\n\nshe smelled of silence.   The inspired cleat\n\nof her glad leg pulled into a sole mass\nmy separate lusts\n                  her hair was like a gas\nevil to feel.   Unwieldy....\n\n                            the bloodbeat\nin her fierce laziness tried to repeat\na trick of syncopation Europe has\n\n—. One day i felt a mountain touch me where\ni stood (maybe nine miles off).   It was spring\n\nsun-stirring.   sweetly to the mangling air\nmuchness of buds mattered.   a valley spilled\nits tickling river in my eyes,\n                              the killed\n\nworld wriggled like a twitched string.",
-    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-vi/",
-    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-vi.json",
-    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-vi.txt"
-  },
-  {
     "slug": "sonnets-realities-v",
     "title": "Sonnets—Realities V",
     "first_line": "the bed is not very big",
@@ -1428,6 +1417,17 @@
     "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-v/",
     "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-v.json",
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-v.txt"
+  },
+  {
+    "slug": "sonnets-realities-vi",
+    "title": "Sonnets—Realities VI",
+    "first_line": "the poem her belly marched through me as",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "the poem her belly marched through me as\none army.   From her nostrils to her feet\n\nshe smelled of silence.   The inspired cleat\n\nof her glad leg pulled into a sole mass\nmy separate lusts\n                  her hair was like a gas\nevil to feel.   Unwieldy....\n\n                            the bloodbeat\nin her fierce laziness tried to repeat\na trick of syncopation Europe has\n\n—. One day i felt a mountain touch me where\ni stood (maybe nine miles off).   It was spring\n\nsun-stirring.   sweetly to the mangling air\nmuchness of buds mattered.   a valley spilled\nits tickling river in my eyes,\n                              the killed\n\nworld wriggled like a twitched string.",
+    "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-vi/",
+    "json_url": "https://cummings.ee/book/and/poem/sonnets-realities-vi.json",
+    "txt_url": "https://cummings.ee/book/and/poem/sonnets-realities-vi.txt"
   },
   {
     "slug": "sonnets-realities-vii",
@@ -1661,17 +1661,6 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-ii.txt"
   },
   {
-    "slug": "portraits-iv",
-    "title": "Portraits IV",
-    "first_line": "the skinny voice",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "the skinny voice\n\nof the leatherfaced\nwoman with the crimson\nnose and coquettishly-\ncocked bonnet\n\nhaving ceased     the\n\ncaptain\nannounces that as three\ndimes seven nickels and ten\npennies have been deposited upon\n\nthe drum   there is need\n\nof just twenty five cents\ndear friends\nto make it an even\ndollar      whereupon\n\nthe Divine Average who was\n\nattracted by the inspired\nsister’s howling moves\noff\nwill anyone tell him why he should\n\nblow two bits for the coming of Christ Jesus\n\n?\n??\n???\n!\n\nnix, kid",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.txt"
-  },
-  {
     "slug": "portraits-iii",
     "title": "Portraits III",
     "first_line": "Picasso",
@@ -1683,15 +1672,15 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-iii.txt"
   },
   {
-    "slug": "portraits-v",
-    "title": "Portraits V",
-    "first_line": "as usual i did not find him in cafes, the more dissolute",
+    "slug": "portraits-iv",
+    "title": "Portraits IV",
+    "first_line": "the skinny voice",
     "book_slug": "xli-poems",
     "book_title": "XLI Poems",
-    "text": "as usual i did not find him in cafes, the more dissolute atmosphere\nof a street superimposing a numbing imperfectness upon such peregri-\nnations as twilight spontaneously by inevitable tiredness of flang-\ning shop-girls impersonally affords furnished a soft first clue to\nhis innumerable whereabouts       violet logic of annihilation demon-\nstrating from woolworthian pinnacle a capable millennium of faces\nmeshing with my curiously instant appreciation exposed his hiber-\nnative contours,\naimiable immensity impeccably extending the courtesy of five o’clock\nbecame the omen of his presence    it was spring by the way in the\nsoiled canary-cage of largest existence\n\n(when he would extemporise the innovation of muscularity upon the\nmost crimson assistance of my comforter a click of deciding glory\ninflicted to the negative silence that primeval exposure whose elec-\ntric solidity remembers some accurately profuse scratchings in a\nrecently discovered cave,   the carouse of geometrical putrescence\nwhereto my invariably commendable room has been forever subject his\nEarliest word wheeled out on the sunny dump of oblivion)\n\na tiny dust finely arising at the integration of my soul i coughed\n\n,naturally",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-v/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-v.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-v.txt"
+    "text": "the skinny voice\n\nof the leatherfaced\nwoman with the crimson\nnose and coquettishly-\ncocked bonnet\n\nhaving ceased     the\n\ncaptain\nannounces that as three\ndimes seven nickels and ten\npennies have been deposited upon\n\nthe drum   there is need\n\nof just twenty five cents\ndear friends\nto make it an even\ndollar      whereupon\n\nthe Divine Average who was\n\nattracted by the inspired\nsister’s howling moves\noff\nwill anyone tell him why he should\n\nblow two bits for the coming of Christ Jesus\n\n?\n??\n???\n!\n\nnix, kid",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-ix",
@@ -1705,6 +1694,17 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-ix.txt"
   },
   {
+    "slug": "portraits-v",
+    "title": "Portraits V",
+    "first_line": "as usual i did not find him in cafes, the more dissolute",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "as usual i did not find him in cafes, the more dissolute atmosphere\nof a street superimposing a numbing imperfectness upon such peregri-\nnations as twilight spontaneously by inevitable tiredness of flang-\ning shop-girls impersonally affords furnished a soft first clue to\nhis innumerable whereabouts       violet logic of annihilation demon-\nstrating from woolworthian pinnacle a capable millennium of faces\nmeshing with my curiously instant appreciation exposed his hiber-\nnative contours,\naimiable immensity impeccably extending the courtesy of five o’clock\nbecame the omen of his presence    it was spring by the way in the\nsoiled canary-cage of largest existence\n\n(when he would extemporise the innovation of muscularity upon the\nmost crimson assistance of my comforter a click of deciding glory\ninflicted to the negative silence that primeval exposure whose elec-\ntric solidity remembers some accurately profuse scratchings in a\nrecently discovered cave,   the carouse of geometrical putrescence\nwhereto my invariably commendable room has been forever subject his\nEarliest word wheeled out on the sunny dump of oblivion)\n\na tiny dust finely arising at the integration of my soul i coughed\n\n,naturally",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-v/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-v.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-v.txt"
+  },
+  {
     "slug": "portraits-vi",
     "title": "Portraits VI",
     "first_line": "it’s just like a coffin’s",
@@ -1716,17 +1716,6 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-vi.txt"
   },
   {
-    "slug": "songs-i",
-    "title": "Songs I",
-    "first_line": "the\n    sky\n        was",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "the\n    sky\n        was\ncan  dy  lu\nminous\n       edible\nspry\n     pinks shy\nlemons\ngreens   coo  l choc\nolate\ns.\n\n   un   der,\n   a  lo\nco\nmo\n   tive     s   pout\n                    ing\n                       vi\n                       o\n                       lets",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/songs-i/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/songs-i.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-i.txt"
-  },
-  {
     "slug": "portraits-vii",
     "title": "Portraits VII",
     "first_line": "my mind is",
@@ -1736,6 +1725,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-vii/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-vii.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-vii.txt"
+  },
+  {
+    "slug": "songs-i",
+    "title": "Songs I",
+    "first_line": "the\n    sky\n        was",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "the\n    sky\n        was\ncan  dy  lu\nminous\n       edible\nspry\n     pinks shy\nlemons\ngreens   coo  l choc\nolate\ns.\n\n   un   der,\n   a  lo\nco\nmo\n   tive     s   pout\n                    ing\n                       vi\n                       o\n                       lets",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/songs-i/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/songs-i.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-i.txt"
   },
   {
     "slug": "songs-ii",
@@ -1848,15 +1848,15 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-xi.txt"
   },
   {
-    "slug": "portraits-viii",
-    "title": "Portraits VIII",
-    "first_line": "5",
+    "slug": "sonnets-i",
+    "title": "Sonnets I",
+    "first_line": "if learned darkness from our searched world",
     "book_slug": "xli-poems",
     "book_title": "XLI Poems",
-    "text": "5\nderbies-with-men-in-them smoke Helmar\ncigarettes    2\nplay backgammon,3 watch\n\na has gold\nteeth b pink\nsuspenders c\nreads Atlantis\n\nx and y play    b\ncries “effendi” “Uh” “coffee”\n“uh”       enter\npaperboy,c\n\nbuys Bawstinamereekin,exit\npaperboy     a finishes\nHelmar     lights\nanother\n\n       x and y\nplay,effendi approaches,sets\ndown coffee       withdraws\na and c discuss news in\n\nturkish x and y play b spits\nx and\ny\nplay,b starts armenian record\n\n                              pho\nnographisrunn\ningd o   w,     n      phonograph\n                          stopS.\n\nb swears in persian at phonograph\nx wins      exeunt ax:by;c,\nGoo dnightef fendi\n....\n\nfive men in derbies",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-viii/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-viii.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-viii.txt"
+    "text": "if learned darkness from our searched world\n\nwrestest the rare unwisdom of thy eyes,\nif thy two hands flowers of silence curled\n\nupon a wish,to rapture should surprise\nmy soul slowly which on thy beauty dreams\n(proud through the cold perfect night whisperless\n\nto mark,how that asleep whitely she seems\n\nwhose lips the whole of life almost do guess)\n\nif god should send the morning;and before\nmy doubting window leaves softly to stir,\nof thoughtful trees whom night hath pondered o’er\n—and frailties of dimension to occur\n\nabout us\n         and birds known,scarcely to sing\n\n(heart,could we bear the marvel of this thing?)",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i.txt"
   },
   {
     "slug": "songs-xii",
@@ -1868,17 +1868,6 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/songs-xii/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/songs-xii.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-xii.txt"
-  },
-  {
-    "slug": "sonnets-i",
-    "title": "Sonnets I",
-    "first_line": "if learned darkness from our searched world",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "if learned darkness from our searched world\n\nwrestest the rare unwisdom of thy eyes,\nif thy two hands flowers of silence curled\n\nupon a wish,to rapture should surprise\nmy soul slowly which on thy beauty dreams\n(proud through the cold perfect night whisperless\n\nto mark,how that asleep whitely she seems\n\nwhose lips the whole of life almost do guess)\n\nif god should send the morning;and before\nmy doubting window leaves softly to stir,\nof thoughtful trees whom night hath pondered o’er\n—and frailties of dimension to occur\n\nabout us\n         and birds known,scarcely to sing\n\n(heart,could we bear the marvel of this thing?)",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i.txt"
   },
   {
     "slug": "sonnets-ii",
@@ -2046,6 +2035,17 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xvi.txt"
   },
   {
+    "slug": "portraits-viii",
+    "title": "Portraits VIII",
+    "first_line": "5",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "5\nderbies-with-men-in-them smoke Helmar\ncigarettes    2\nplay backgammon,3 watch\n\na has gold\nteeth b pink\nsuspenders c\nreads Atlantis\n\nx and y play    b\ncries “effendi” “Uh” “coffee”\n“uh”       enter\npaperboy,c\n\nbuys Bawstinamereekin,exit\npaperboy     a finishes\nHelmar     lights\nanother\n\n       x and y\nplay,effendi approaches,sets\ndown coffee       withdraws\na and c discuss news in\n\nturkish x and y play b spits\nx and\ny\nplay,b starts armenian record\n\n                              pho\nnographisrunn\ningd o   w,     n      phonograph\n                          stopS.\n\nb swears in persian at phonograph\nx wins      exeunt ax:by;c,\nGoo dnightef fendi\n....\n\nfive men in derbies",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-viii/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-viii.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-viii.txt"
+  },
+  {
     "slug": "five-americans-i",
     "title": "LIZ",
     "first_line": "with breathing as(faithfully)her lownecked",
@@ -2090,17 +2090,6 @@
     "txt_url": "https://cummings.ee/book/is-5/poem/one-x.txt"
   },
   {
-    "slug": "one-xi",
-    "title": "ONE XI",
-    "first_line": "now dis “daughter” uv eve(who aint precisely slim)sim",
-    "book_slug": "is-5",
-    "book_title": "is 5",
-    "text": "now dis “daughter” uv eve(who aint precisely slim)sim\n\nply don’t know duh meaning uv duh woid sin in\nnot disagreeable contras tuh dat not exacly fat\n\n“father”(adjustin his robe)who now puts on his flat hat",
-    "html_url": "https://cummings.ee/book/is-5/poem/one-xi/",
-    "json_url": "https://cummings.ee/book/is-5/poem/one-xi.json",
-    "txt_url": "https://cummings.ee/book/is-5/poem/one-xi.txt"
-  },
-  {
     "slug": "one-xii",
     "title": "ONE XII",
     "first_line": "(and i imagine",
@@ -2110,6 +2099,17 @@
     "html_url": "https://cummings.ee/book/is-5/poem/one-xii/",
     "json_url": "https://cummings.ee/book/is-5/poem/one-xii.json",
     "txt_url": "https://cummings.ee/book/is-5/poem/one-xii.txt"
+  },
+  {
+    "slug": "one-xi",
+    "title": "ONE XI",
+    "first_line": "now dis “daughter” uv eve(who aint precisely slim)sim",
+    "book_slug": "is-5",
+    "book_title": "is 5",
+    "text": "now dis “daughter” uv eve(who aint precisely slim)sim\n\nply don’t know duh meaning uv duh woid sin in\nnot disagreeable contras tuh dat not exacly fat\n\n“father”(adjustin his robe)who now puts on his flat hat",
+    "html_url": "https://cummings.ee/book/is-5/poem/one-xi/",
+    "json_url": "https://cummings.ee/book/is-5/poem/one-xi.json",
+    "txt_url": "https://cummings.ee/book/is-5/poem/one-xi.txt"
   },
   {
     "slug": "one-xiii",

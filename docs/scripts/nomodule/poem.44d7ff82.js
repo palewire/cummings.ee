@@ -668,7 +668,7 @@
       Array.from(_n, function () {
         throw 2;
       });
-  } catch (vr) {}
+  } catch (dr) {}
   var In = !(function (t, n) {
     if (!n && !En) return !1;
     var r = !1;
@@ -682,7 +682,7 @@
         };
       }),
         t(e);
-    } catch (vr) {}
+    } catch (dr) {}
     return r;
   })(function (t) {
     Array.from(t);
@@ -777,30 +777,31 @@
   [].keys &&
     ('next' in (kn = [].keys())
       ? (Mn = Dn(Dn(kn))) !== Object.prototype && (xn = Mn)
-      : (Bn = !0)),
-    (null == xn ||
-      o(function () {
-        var t = {};
-        return xn[Vn].call(t) !== t;
-      })) &&
-      (xn = {}),
+      : (Bn = !0));
+  var zn =
+    null == xn ||
+    o(function () {
+      var t = {};
+      return xn[Vn].call(t) !== t;
+    });
+  zn && (xn = {}),
     b(xn, Vn) ||
       _(xn, Vn, function () {
         return this;
       });
-  var zn = { IteratorPrototype: xn, BUGGY_SAFARI_ITERATORS: Bn },
-    Hn = P.f,
-    Wn = Yt('toStringTag'),
-    Un = function (t, n, r) {
+  var Hn = { IteratorPrototype: xn, BUGGY_SAFARI_ITERATORS: Bn },
+    Wn = P.f,
+    Un = Yt('toStringTag'),
+    Yn = function (t, n, r) {
       t &&
-        !b((t = r ? t : t.prototype), Wn) &&
-        Hn(t, Wn, { configurable: !0, value: n });
+        !b((t = r ? t : t.prototype), Un) &&
+        Wn(t, Un, { configurable: !0, value: n });
     },
-    Yn = zn.IteratorPrototype,
-    qn = function () {
+    qn = Hn.IteratorPrototype,
+    Kn = function () {
       return this;
     },
-    Kn =
+    Xn =
       Object.setPrototypeOf ||
       ('__proto__' in {}
         ? (function () {
@@ -813,7 +814,7 @@
                 '__proto__'
               ).set).call(r, []),
                 (n = r instanceof Array);
-            } catch (vr) {}
+            } catch (dr) {}
             return function (r, e) {
               return (
                 L(r),
@@ -829,34 +830,34 @@
             };
           })()
         : void 0),
-    Xn = zn.IteratorPrototype,
-    Jn = zn.BUGGY_SAFARI_ITERATORS,
-    Qn = Yt('iterator'),
-    Zn = 'keys',
-    $n = 'values',
-    tr = 'entries',
-    nr = function () {
+    Jn = Hn.IteratorPrototype,
+    Qn = Hn.BUGGY_SAFARI_ITERATORS,
+    Zn = Yt('iterator'),
+    $n = 'keys',
+    tr = 'values',
+    nr = 'entries',
+    rr = function () {
       return this;
     },
-    rr = Rn.charAt,
-    er = 'String Iterator',
-    or = nt.set,
-    ir = nt.getterFor(er);
+    er = Rn.charAt,
+    or = 'String Iterator',
+    ir = nt.set,
+    cr = nt.getterFor(or);
   !(function (t, n, r, e, o, i, c) {
     !(function (t, n, r) {
       var e = n + ' Iterator';
-      (t.prototype = cn(Yn, { next: f(1, r) })), Un(t, e, !1), (hn[e] = qn);
+      (t.prototype = cn(qn, { next: f(1, r) })), Yn(t, e, !1), (hn[e] = Kn);
     })(r, n, e);
     var u,
       a,
       l,
       s = function (t) {
         if (t === o && d) return d;
-        if (!Jn && t in h) return h[t];
+        if (!Qn && t in h) return h[t];
         switch (t) {
-          case Zn:
           case $n:
           case tr:
+          case nr:
             return function () {
               return new r(this, t);
             };
@@ -868,56 +869,56 @@
       p = n + ' Iterator',
       y = !1,
       h = t.prototype,
-      v = h[Qn] || h['@@iterator'] || (o && h[o]),
-      d = (!Jn && v) || s(o),
+      v = h[Zn] || h['@@iterator'] || (o && h[o]),
+      d = (!Qn && v) || s(o),
       g = ('Array' == n && h.entries) || v;
     if (
       (g &&
         ((u = Dn(g.call(new t()))),
-        Xn !== Object.prototype &&
+        Jn !== Object.prototype &&
           u.next &&
-          (Dn(u) !== Xn &&
-            (Kn ? Kn(u, Xn) : 'function' != typeof u[Qn] && _(u, Qn, nr)),
-          Un(u, p, !0))),
-      o == $n &&
+          (Dn(u) !== Jn &&
+            (Xn ? Xn(u, Jn) : 'function' != typeof u[Zn] && _(u, Zn, rr)),
+          Yn(u, p, !0))),
+      o == tr &&
         v &&
-        v.name !== $n &&
+        v.name !== tr &&
         ((y = !0),
         (d = function () {
           return v.call(this);
         })),
-      h[Qn] !== d && _(h, Qn, d),
+      h[Zn] !== d && _(h, Zn, d),
       (hn[n] = d),
       o)
     )
-      if (((a = { values: s($n), keys: i ? d : s(Zn), entries: s(tr) }), c))
-        for (l in a) (Jn || y || !(l in h)) && rt(h, l, a[l]);
-      else It({ target: n, proto: !0, forced: Jn || y }, a);
+      if (((a = { values: s(tr), keys: i ? d : s($n), entries: s(nr) }), c))
+        for (l in a) (Qn || y || !(l in h)) && rt(h, l, a[l]);
+      else It({ target: n, proto: !0, forced: Qn || y }, a);
   })(
     String,
     'String',
     function (t) {
-      or(this, { type: er, string: String(t), index: 0 });
+      ir(this, { type: or, string: String(t), index: 0 });
     },
     function () {
       var t,
-        n = ir(this),
+        n = cr(this),
         r = n.string,
         e = n.index;
       return e >= r.length
         ? { value: void 0, done: !0 }
-        : ((t = rr(r, e)), (n.index += t.length), { value: t, done: !1 });
+        : ((t = er(r, e)), (n.index += t.length), { value: t, done: !1 });
     }
   );
-  var cr,
-    ur,
-    ar = Qt.forEach,
-    fr =
-      !!(ur = []['forEach']) &&
+  var ur,
+    ar,
+    fr = Qt.forEach,
+    lr =
+      !!(ar = []['forEach']) &&
       o(function () {
-        ur.call(
+        ar.call(
           null,
-          cr ||
+          ur ||
             function () {
               throw 1;
             },
@@ -926,9 +927,9 @@
       })
         ? [].forEach
         : function (t) {
-            return ar(this, t, arguments.length > 1 ? arguments[1] : void 0);
+            return fr(this, t, arguments.length > 1 ? arguments[1] : void 0);
           };
-  for (var lr in {
+  for (var sr in {
     CSSRuleList: 0,
     CSSStyleDeclaration: 0,
     CSSValueList: 0,
@@ -961,27 +962,27 @@
     TextTrackList: 0,
     TouchList: 0,
   }) {
-    var sr = e[lr],
-      pr = sr && sr.prototype;
-    if (pr && pr.forEach !== fr)
+    var pr = e[sr],
+      yr = pr && pr.prototype;
+    if (yr && yr.forEach !== lr)
       try {
-        _(pr, 'forEach', fr);
-      } catch (vr) {
-        pr.forEach = fr;
+        _(yr, 'forEach', lr);
+      } catch (dr) {
+        yr.forEach = lr;
       }
   }
-  var yr = document.getElementById('poem');
-  function hr() {
+  var hr = document.getElementById('poem');
+  function vr() {
     var t = document.getElementsByName('wrap');
     'no' ==
     Array.from(t).find(function (t) {
       return t.checked;
     }).value
-      ? yr.classList.add('nowrap')
-      : yr.classList.remove('nowrap');
+      ? hr.classList.add('nowrap')
+      : hr.classList.remove('nowrap');
   }
   document.getElementsByName('wrap').forEach(function (t) {
-    t.onclick = hr;
+    t.onclick = vr;
   });
 })();
 //# sourceMappingURL=poem.44d7ff82.js.map

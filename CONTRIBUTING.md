@@ -33,7 +33,7 @@ Small exceptions are made when the spellings and spacings in the first editions 
 
 The standard approach for transcribing poems thus far has been to use the first edition as the initial guide. Then, when the poem is proof read prior to being republished, the transcription is compared against the Liveright edition. In the rare case of any inconsistency, the copy found in the Liveright version is substituted.
 
-A scanned first edition of the “Tulips and Chimneys” can be found in [this repository](https://github.com/ee-cummings-archive/cummings.ee/tree/master/_workspace/tulips-and-chimneys). A scanned first edition of “XLI Poems” has been [posted online by Hathi Trust](https://catalog.hathitrust.org/Record/001028344).
+A scanned first edition of the “Tulips and Chimneys” can be found in [this repository](https://github.com/ee-cummings-archive/cummings.ee/tree/master/_workspace/tulips-and-chimneys). A scanned first edition of “XLI Poems” has been [posted online by Hathi Trust](https://catalog.hathitrust.org/Record/001028344). A scanned first edition of "is 5" has been [uploaded to archive.org](https://archive.org/details/is-5-ee-cummings/).
 
 ## Transcribing poems
 

@@ -1,6 +1,6 @@
 # Contributing to cummings.ee
 
-The following is a set of guidelines for contributing to this repository and therefore the e.e. cumming free poetry archive at [cummings.ee](https://cummings.ee/).
+The following is a set of guidelines for contributing to this repository and therefore the e.e. cummings free poetry archive at [cummings.ee](https://cummings.ee/).
 
 #### Table Of Contents
 

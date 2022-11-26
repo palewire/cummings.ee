@@ -1,6 +1,6 @@
 # Contributing to cummings.ee
 
-The following is a set of guidelines for contributing to this repository and therefore the e.e. cumming free poetry archive at [cummings.ee](https://cummings.ee/).
+The following is a set of guidelines for contributing to this repository and therefore the e.e. cummings free poetry archive at [cummings.ee](https://cummings.ee/).
 
 #### Table Of Contents
 
@@ -23,17 +23,17 @@ That is due to the way U.S. copyright law works, each Jan. 1 another year of pas
 
 ## Reporting an error
 
-If you see an error on the site, you can [file an issue](https://github.com/ee-cummings-archive/cummings.ee/issues) here on GitHub or send a report to [b@palewi.re](mailto:b@palewi.re). All types of bug reports are welcome. If believe you have spotted a typo in how the poetry was transcribed, please be as detailed as possible about the error and provide your sourcing, if possible.
+If you see an error on the site, you can [file an issue](https://github.com/ee-cummings-archive/cummings.ee/issues) here on GitHub or send a report to [b@palewi.re](mailto:b@palewi.re). All types of bug reports are welcome. If believe you have spotted a typo in how the poetry was transcribed, please be as detailed as possible about the error and provide your sourcing.
 
 ## Sources
 
-The tables of contents and texts on this site are largely drawn from the first editions published in the 1920's that have entered the public domain. The order of poems and their groupings attempt to be faithful to those texts.
+The tables of contents and texts on this site are largely drawn from first editions published in the 1920's. The order of poems and their groupings attempt to be faithful to those texts.
 
-Small exceptions are made when the spellings and spacings in the first editions vary from Liveright’s [“Complete Poems,”](https://wwnorton.com/books/9781631490415/) which Cummings scholars regard as the most authoritative source.
+Small exceptions are made when spellings and spacings in the first editions vary from Liveright’s [“Complete Poems,”](https://wwnorton.com/books/9781631490415/) which Cummings scholars regard as the most authoritative source.
 
-The standard approach for transcribing poems thus far has been to use the first edition as the initial guide. Then, when the poem is proof read prior to being republished, the transcription is compared against the Liveright edition. In the rare case of any inconsistency, the copy found in the Liveright version is substituted.
+The standard approach for transcribing poems thus far has been to use the first edition as the initial guide. Then, when the poem is proofed prior to being republished, the transcription is compared against the Liveright edition. In the rare case of an inconsistency, the copy found in the Liveright version is substituted.
 
-A scanned first edition of the “Tulips and Chimneys” can be found in [this repository](https://github.com/ee-cummings-archive/cummings.ee/tree/master/_workspace/tulips-and-chimneys). A scanned first edition of “XLI Poems” has been [posted online by Hathi Trust](https://catalog.hathitrust.org/Record/001028344).
+A scanned first edition of the “Tulips and Chimneys” can be found in [this repository](https://github.com/ee-cummings-archive/cummings.ee/tree/master/_workspace/tulips-and-chimneys). A scanned first edition of “XLI Poems” has been [posted online by Hathi Trust](https://catalog.hathitrust.org/Record/001028344). A scanned first edition of "is 5" has been [uploaded to archive.org](https://archive.org/details/is-5-ee-cummings/).
 
 ## Transcribing poems
 

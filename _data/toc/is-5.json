@@ -198,6 +198,36 @@
             "name": "XXXIV",
             "slug": "one-xxxiv",
             "numeral": true
+        },
+        {
+            "name": "XXXV",
+            "slug": "one-xxxv",
+            "numeral": true
+        },
+        {
+            "name": "XXXVI",
+            "slug": "one-xxxvi",
+            "numeral": true
+        },
+        {
+            "name": "XXXVII",
+            "slug": "one-xxxvii",
+            "numeral": true
+        },
+        {
+            "name": "XXXVIII",
+            "slug": "one-xxxviii",
+            "numeral": true
+        },
+        {
+            "name": "XXXIX",
+            "slug": "one-xxxix",
+            "numeral": true
+        },
+        {
+            "name": "XL",
+            "slug": "one-xl",
+            "numeral": true
         }
       ]
     },
@@ -254,6 +284,11 @@
             "name": "X",
             "slug": "two-x",
             "numeral": true
+        },
+        {
+            "name": "XI",
+            "slug": "two-xi",
+            "numeral": true
         }
       ]
     },
@@ -294,6 +329,21 @@
         {
             "name": "VII",
             "slug": "three-vii",
+            "numeral": true
+        },
+        {
+            "name": "VIII",
+            "slug": "three-viii",
+            "numeral": true
+        },
+        {
+            "name": "IX",
+            "slug": "three-ix",
+            "numeral": true
+        },
+        {
+            "name": "X",
+            "slug": "three-x",
             "numeral": true
         }
       ]

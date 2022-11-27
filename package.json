@@ -9,14 +9,14 @@
     "@datagraphics/baker": "file:baker",
     "@datagraphics/delivery": "^0.6.0",
     "archieml": "^0.4.2",
+    "browserslist": ">=4.16.5",
     "hosted-git-info": ">=2.8.9",
     "intersection-observer": "^0.12.0",
     "json-2-csv": "^3.10.3",
     "lodash": ">=4.17.21",
     "rfs": "^9.0.3",
     "sass-mq": "^5.0.1",
-    "trim-newlines": ">=3.0.1",
-    "browserslist": ">=4.16.5"
+    "trim-newlines": ">=3.0.1"
   },
   "devDependencies": {
     "@datagraphics/prettier-config": "^2.0.0",

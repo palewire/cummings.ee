@@ -332,10 +332,16 @@
   &[data-poem-slug='five-americans-i'] {
     @include indent.spacing(6, 0.165rem, 0.155rem);
   }
-  &[data-poem-slug='one-xl'] {
-    writing-mode: vertical-rl;
-  }
   &[data-poem-slug='five-americans-iv'] {
     @include indent.spacing(2, 0.1rem, 0.09rem);
+  }
+  &[data-poem-slug='one-xl'] {
+    writing-mode: vertical-rl;
+    .stanza {
+      margin-left: 0.5rem;
+    }
+    .line {
+      padding: 0;
+    }
   }
 }

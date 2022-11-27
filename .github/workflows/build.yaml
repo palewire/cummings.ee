@@ -5,6 +5,8 @@ on:
       - master
   workflow_dispatch:
 
+permissions: write-all
+
 jobs:
   build:
     name: Build 

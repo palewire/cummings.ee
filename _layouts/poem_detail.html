@@ -19,7 +19,7 @@
            data-book-slug="{{ book.slug }}"
            data-poem-slug="{{ poem.slug }}">
     {% for stanza in poem.text|parsePoem -%}
-    <p class="stanza}">
+    <p class="stanza">
     {% for line in stanza -%}
       <span class="line" {% if line.number %}data-line-number="{{ line.number }}"{% endif %}>{{ line.text|formatLine }}</span><br/>
     {% endfor %}

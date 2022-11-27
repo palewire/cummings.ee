@@ -2,7 +2,7 @@ title: ONE XIV
 
 first_line: it really must
 
-unwrap: true
+nowrap: true
 
 text: |-1
  it really must

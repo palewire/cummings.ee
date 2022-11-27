@@ -2,7 +2,6 @@
 @use '../settings/fonts';
 @use '../settings/grid';
 @use '../settings/indent';
-
 .poem {
   font-family: fonts.$font-family-serif;
   color: #222;
@@ -336,4 +335,8 @@
   &[data-poem-slug='five-americans-iv'] {
     @include indent.spacing(2, 0.1rem, 0.09rem);
   }
+}
+
+.rotate {
+  writing-mode: vertical-rl;
 }

@@ -13,7 +13,7 @@ npm install
 Start the test server at localhost:3000.
 
 ```zsh
-npm serve
+npm run start
 ```
 
 Fiddle with the files and the changes will immediately appear on your test site.

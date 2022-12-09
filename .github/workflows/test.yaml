@@ -22,7 +22,7 @@ jobs:
       - name: Build
         run: make build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
-          path: './docs'
+          name: release-candidate
+          path:  './docs'

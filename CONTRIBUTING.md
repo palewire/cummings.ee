@@ -48,7 +48,7 @@ title: Chansons Innocentes I
 
 first_line: in Just-
 
-text: |1-
+text: |-1
  in Just-
  spring     when the world is mud-
  luscious the little

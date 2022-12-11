@@ -8,7 +8,7 @@ The following is a set of guidelines for contributing to this repository and the
 - [About this site](#about-this-site)
 - [Reporting an error](#reporting-an-error)
 - [Sources](#sources)
-- [Transcribing poems](#reporting-an-error)
+- [Transcribing poems](#transcribing-poems)
 - [Style](#style)
 
 ## Code of Conduct
@@ -90,9 +90,8 @@ Most of Cummings’s poems don't have a title or headline. When they do, the `ti
 
 ## Style
 
-*White space*: When entering poems into the YAML file, you should endeavor to include white spaces that, as best as possible, line up with the indentations seen on the page. Use spaces rather than tabs. Due to the variable letter spacing of fonts, there is no way to perfectly recreate the original document. [The stylesheets](https://github.com/ee-cummings-archive/cummings.ee/blob/master/styles/components/_poem.scss#L48) used to format the archive's website allow for the letter spacing of fonts to be adjusted on a line by line basis, which is where fine tuning can be applied.
+_White space_: When entering poems into the YAML file, you should endeavor to include white spaces that, as best as possible, line up with the indentations seen on the page. Use spaces rather than tabs. Due to the variable letter spacing of fonts, there is no way to perfectly recreate the original document. [The stylesheets](https://github.com/ee-cummings-archive/cummings.ee/blob/master/styles/components/_poem.scss#L48) used to format the archive's website allow for the letter spacing of fonts to be adjusted on a line by line basis, which is where fine tuning can be applied.
 
-*Quotation marks*: Curly quotes should be used unless it's clear the author intended otherwise. 
+_Quotation marks_: Curly quotes should be used unless it's clear the author intended otherwise.
 
-*Ellipses*: Consecutive periods should be used, not any special character marks. Look carefully and count how many the author included. If there are no white spaces between the periods and the surrounding words, do not insert any.
-
+_Ellipses_: Consecutive periods should be used, not any special character marks. Look carefully and count how many the author included. If there are no white spaces between the periods and the surrounding words, do not insert any.

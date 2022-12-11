@@ -2,7 +2,10 @@ title: FOUR XVIII
 
 first_line: i go to this window
 
-text: | -1
+nowrap: true
+
+text: |-1
+ i go to this window
  just as day dissolves
  when it is twilight(and
  looking up in fear
@@ -12,7 +15,7 @@ text: | -1
  
  making me feel
  how myself has been coerse and dull
- compared with you, silently who are 
+ compared with you,silently who are 
  and cling
  to my mind always
  
@@ -23,5 +26,5 @@ text: | -1
  the sprouting largest final air
  
  plunges
- inward with hurled
+         inward with hurled
  downward thousands of enormous dreams

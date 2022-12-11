@@ -1,5 +1,11 @@
 [
     {
+        "name": "FORWARD",
+        "slug": "forward",
+        "numeral": false,
+        "children": []
+    },
+    {
       "name": "ONE",
       "slug": "one",
       "children": [

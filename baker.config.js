@@ -211,6 +211,8 @@ export default {
     createPage('sitemap.xml.njk', `sitemap.xml`, {
       urlList,
     });
+    // Make robots.txt
+    createPage('robots.txt.njk', 'robots.txt');
     // Make data dumps
     createPage('book_list.json.njk', `/downloads/books.json`, {
       text: JSON.stringify(bookList, null, 2),

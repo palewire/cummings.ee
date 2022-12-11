@@ -64,13 +64,13 @@
         line-height: 150%;
         display: inline-block;
         width: 40px;
-        min-width: 58px;
+        min-width: 49px;
         text-align: right;
         margin-right: 0.35rem;
         @media (max-width: 480px) {
           line-height: 170%;
           width: 36px;
-          min-width: 44px;
+          min-width: 36px;
         }
       }
       .line {
@@ -83,6 +83,21 @@
           @media (max-width: 480px) {
             letter-spacing: 0.175rem;
           }
+        }
+      }
+    }
+  }
+}
+
+// Book specific hacks
+article[data-slug='is-5'] {
+  ul,
+  ol {
+    li {
+      .numeral {
+        min-width: 70px;
+        @media (max-width: 480px) {
+          min-width: 52px;
         }
       }
     }

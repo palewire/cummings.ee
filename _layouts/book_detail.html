@@ -31,7 +31,7 @@
 
 {% block content %}
 {% include "includes/nav.html" %}
-<article>
+<article data-slug="{{ book.slug }}" data-public-domain="{{ book.public_domain }}">
 <header class="book">
   <h1>{{ book.title }}</h1>
 </header>

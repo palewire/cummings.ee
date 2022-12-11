@@ -54,6 +54,7 @@
   <ol class="level1">
   {% for level1 in toc[book.slug] %}
     {{ poem_html(level1, '1') }}
+    {% if level1.children|length > 0 %}
     <li>
     <ol class="level2">
     {% for level2 in level1.children %}
@@ -70,6 +71,7 @@
     {% endfor %}
     </ol>
     </li>
+    {% endif %}
   {% endfor %}
   </ol>
 </section>

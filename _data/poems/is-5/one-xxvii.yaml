@@ -2,9 +2,11 @@ title: ONE XXVII
 
 first_line: (as that named Fred
 
+nowrap: true
+
 text: |-1
  (as that named Fred
- -someBody:hippopotamus, scratch-
+ -someBody:hippopotamus,scratch-
  ing,one,knee with,its,
  friend observes I
 

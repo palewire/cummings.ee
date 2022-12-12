@@ -19,7 +19,7 @@ This project and everyone participating in it is governed by the project's [Code
 
 This site is run by [Ben Welsh](https://palewi.re/who-is-ben-welsh/). You can reach him at [b@palewi.re](mailto:b@palewi.re). All of the poems here, as well as all of the code, are available for free in the public domain.
 
-That is due to the way U.S. copyright law works, each Jan. 1 another year of past literature opens up. In the last few years, Cummings' first books have clicked over. As more poems enter the public domain, they will be added here. Since the poems are free, I figure the code ought to be too.
+Due to the way U.S. copyright law works, each Jan. 1 another year of past literature opens up. In the last few years, Cummings' first books have clicked over. As more poems enter the public domain, they will be added here. Since the poems are free, I figure the code ought to be too.
 
 ## Reporting an error
 

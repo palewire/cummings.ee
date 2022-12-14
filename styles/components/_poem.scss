@@ -347,6 +347,10 @@
       padding: 0;
     }
   }
+  &[data-poem-slug='three-iv'] {
+    @include indent.spacing(6, 0.145rem, 0.14rem);
+    @include indent.spacing(15, 0.17rem, 0.15rem);
+  }
   &[data-poem-slug='five-ii'] {
     @include indent.spacing(8, 0.14rem, 0.13rem);
   }

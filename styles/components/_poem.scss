@@ -347,6 +347,9 @@
       padding: 0;
     }
   }
+  &[data-poem-slug='one-xxii'] {
+    @include indent.spacing(24, 0.17rem, 0.165rem);
+  }
   &[data-poem-slug='three-iv'] {
     @include indent.spacing(6, 0.145rem, 0.14rem);
     @include indent.spacing(15, 0.17rem, 0.15rem);

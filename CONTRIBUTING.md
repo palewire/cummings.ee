@@ -1,6 +1,6 @@
 # Contributing to cummings.ee
 
-The following is a set of guidelines for contributing to this repository and therefore the e.e. cummings free poetry archive at [cummings.ee](https://cummings.ee/).
+The following is a set of guidelines for contributing to this repository and the e.e. cummings free poetry archive at [cummings.ee](https://cummings.ee/).
 
 #### Table Of Contents
 
@@ -13,7 +13,7 @@ The following is a set of guidelines for contributing to this repository and the
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the project's [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [b@palewi.re](mailto:b@palewi.re).
+This project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [b@palewi.re](mailto:b@palewi.re).
 
 ## About this site
 

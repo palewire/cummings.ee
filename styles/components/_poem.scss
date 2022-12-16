@@ -358,6 +358,10 @@
     @include indent.spacing(7, 0.145rem, 0.14rem);
     @include indent.spacing(18, 0.145rem, 0.14rem);
   }
+  &[data-poem-slug='four-xv'] {
+    @include indent.spacing(12, 0.145rem, 0.14rem);
+    @include indent.spacing(25, 0.21rem, 0.17rem);
+  }
   &[data-poem-slug='five-ii'] {
     @include indent.spacing(8, 0.14rem, 0.13rem);
   }

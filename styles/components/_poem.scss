@@ -350,6 +350,13 @@
   &[data-poem-slug='one-xxii'] {
     @include indent.spacing(24, 0.17rem, 0.165rem);
   }
+  &[data-poem-slug='one-xxxviii'] {
+    .stanza .line {
+      text-indent: 1em;
+      padding-left: 0;
+      max-width: 850px;
+    }
+  }
   &[data-poem-slug='two-x'] {
     @include indent.spacing(16, 0.18rem, 0.165rem);
   }

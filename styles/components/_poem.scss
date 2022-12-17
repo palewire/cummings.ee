@@ -367,6 +367,9 @@
   &[data-poem-slug='three-vi'] {
     @include indent.spacing(31, 0.12rem, 0.11rem);
   }
+  &[data-poem-slug='three-vii'] {
+    @include indent.spacing(9, 0.21rem, 0.2rem);
+  }
   &[data-poem-slug='three-viii'] {
     [data-line-number='14'] {
       .indent {

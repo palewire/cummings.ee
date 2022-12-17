@@ -350,6 +350,13 @@
   &[data-poem-slug='one-xxii'] {
     @include indent.spacing(24, 0.17rem, 0.165rem);
   }
+  &[data-poem-slug='three-iv'] {
+    @include indent.spacing(6, 0.145rem, 0.14rem);
+    @include indent.spacing(15, 0.17rem, 0.15rem);
+  }
+  &[data-poem-slug='three-vi'] {
+    @include indent.spacing(31, 0.12rem, 0.11rem);
+  }
   &[data-poem-slug='three-viii'] {
     [data-line-number='14'] {
       .indent {
@@ -358,10 +365,6 @@
       }
       padding-left: 220px;
     }
-  }
-  &[data-poem-slug='three-iv'] {
-    @include indent.spacing(6, 0.145rem, 0.14rem);
-    @include indent.spacing(15, 0.17rem, 0.15rem);
   }
   &[data-poem-slug='three-ix'] {
     @include indent.spacing(9, 0.175rem, 0.15rem);

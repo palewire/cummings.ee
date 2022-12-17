@@ -354,6 +354,11 @@
     @include indent.spacing(6, 0.145rem, 0.14rem);
     @include indent.spacing(15, 0.17rem, 0.15rem);
   }
+  &[data-poem-slug='three-ix'] {
+    @include indent.spacing(9, 0.175rem, 0.15rem);
+    @include indent.spacing(21, 0.1rem, 0.11rem);
+    @include indent.spacing(29, 0.175rem, 0.15rem);
+  }
   &[data-poem-slug='four-iii'] {
     @include indent.spacing(14, 0.145rem, 0.14rem);
     @include indent.spacing(16, 0.18rem, 0.175rem);

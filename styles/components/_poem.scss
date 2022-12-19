@@ -369,6 +369,9 @@
   &[data-poem-slug='one-xxii'] {
     @include indent.spacing(24, 0.17rem, 0.165rem);
   }
+  &[data-poem-slug='one-xxxi'] {
+    @include indent.spacing(37, 0.16rem, 0.15rem);
+  }
   &[data-poem-slug='one-xxxviii'] {
     .stanza .line {
       text-indent: 1em;

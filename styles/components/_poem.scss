@@ -338,6 +338,17 @@
   &[data-poem-slug='one-iii'] {
     @include indent.spacing(8, 0.22rem, 0.215rem);
   }
+  &[data-poem-slug='one-vi'] {
+    @include indent.spacing(2, 0.155rem, 0.15rem);
+    @include indent.spacing(3, 0.155rem, 0.15rem);
+    @include indent.spacing(4, 0.155rem, 0.15rem);
+    @include indent.spacing(14, 0.17rem, 0.15rem);
+    @include indent.spacing(15, 0.17rem, 0.15rem);
+    @include indent.spacing(16, 0.17rem, 0.15rem);
+    @include indent.spacing(20, 0.17rem, 0.15rem);
+    @include indent.spacing(21, 0.17rem, 0.15rem);
+    @include indent.spacing(22, 0.17rem, 0.15rem);
+  }
   &[data-poem-slug='one-xl'] {
     writing-mode: vertical-rl;
     .stanza {

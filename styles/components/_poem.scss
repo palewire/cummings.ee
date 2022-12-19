@@ -329,6 +329,14 @@
 }
 
 .poem[data-book-slug='is-5'] {
+  &[data-poem-slug='forward'] {
+    .stanza .line {
+      text-indent: 1em;
+      padding-left: 0;
+      max-width: 800px;
+      text-align: justify;
+    }
+  }
   &[data-poem-slug='five-americans-i'] {
     @include indent.spacing(6, 0.165rem, 0.155rem);
   }

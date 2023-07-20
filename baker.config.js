@@ -1,4 +1,5 @@
 const csv = require('json-2-csv');
+const he = require('he');
 
 const entrypoints = ['poem'];
 
@@ -59,17 +60,19 @@ function clone(a) {
   return JSON.parse(JSON.stringify(a));
 }
 
+function escapeObjectValues(obj) {
+  console.log(obj);
+  if (obj.description) {
+    obj.description = he.encode(obj.description);
+  }
+  if (obj.source) {
+    obj.source = he.encode(obj.source);
+  }
+  return obj;
+}
+
 function toJson(obj) {
-  var myJSONString = JSON.stringify(obj, null, 2);
-  var myEscapedJSONString = myJSONString.replace(/\\n/g, "\\n")
-                                      .replace(/\\'/g, "\\'")
-                                      .replace(/\\"/g, '\\"')
-                                      .replace(/\\&/g, "\\&")
-                                      .replace(/\\r/g, "\\r")
-                                      .replace(/\\t/g, "\\t")
-                                      .replace(/\\b/g, "\\b")
-                                      .replace(/\\f/g, "\\f");
-  return myEscapedJSONString
+  return JSON.stringify(obj, null, 2);
 }
 
 export default {
@@ -124,7 +127,7 @@ export default {
       bookList.push(bookJson);
 
       createPage('book_detail.json.njk', `/book/${book.slug}.json`, {
-        text: toJson({ book: bookJson, toc: allPoems }),
+        text: toJson({ book: escapeObjectValues(bookJson), toc: allPoems }),
       });
 
       // Pull the poems that have actually been keypunched
@@ -227,7 +230,7 @@ export default {
     createPage('robots.txt.njk', 'robots.txt');
     // Make data dumps
     createPage('book_list.json.njk', `/downloads/books.json`, {
-      text: toJson(bookList),
+      text: toJson(bookList.map(escapeObjectValues)),
     });
     csv.json2csv(bookList, (err, text) => {
       if (err) {

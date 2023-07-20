@@ -10,6 +10,7 @@
     "@datagraphics/delivery": "^0.6.0",
     "archieml": "^0.4.2",
     "browserslist": ">=4.16.5",
+    "he": "^1.2.0",
     "hosted-git-info": ">=2.8.9",
     "intersection-observer": "^0.12.0",
     "js-yaml": "^4.1.0",

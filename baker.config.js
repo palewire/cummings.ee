@@ -1,4 +1,3 @@
-const yaml = require('js-yaml');
 const csv = require('json-2-csv');
 
 const entrypoints = ['poem'];
@@ -60,6 +59,19 @@ function clone(a) {
   return JSON.parse(JSON.stringify(a));
 }
 
+function toJson(obj) {
+  var myJSONString = JSON.stringify(obj, null, 2);
+  var myEscapedJSONString = myJSONString.replace(/\\n/g, "\\n")
+                                      .replace(/\\'/g, "\\'")
+                                      .replace(/\\"/g, '\\"')
+                                      .replace(/\\&/g, "\\&")
+                                      .replace(/\\r/g, "\\r")
+                                      .replace(/\\t/g, "\\t")
+                                      .replace(/\\b/g, "\\b")
+                                      .replace(/\\f/g, "\\f");
+  return myEscapedJSONString
+}
+
 export default {
   domain: 'https://cummings.ee/',
   output: process.env.BAKER_OUTPUT || '_dist',
@@ -112,7 +124,7 @@ export default {
       bookList.push(bookJson);
 
       createPage('book_detail.json.njk', `/book/${book.slug}.json`, {
-        text: JSON.stringify({ book: bookJson, toc: allPoems }, null, 2),
+        text: toJson({ book: bookJson, toc: allPoems }),
       });
 
       // Pull the poems that have actually been keypunched
@@ -165,7 +177,7 @@ export default {
           'poem_detail.json.njk',
           `/book/${book.slug}/poem/${poem.slug}.json`,
           {
-            text: JSON.stringify(poem, null, 2),
+            text: toJson(poem),
           }
         );
 
@@ -215,7 +227,7 @@ export default {
     createPage('robots.txt.njk', 'robots.txt');
     // Make data dumps
     createPage('book_list.json.njk', `/downloads/books.json`, {
-      text: JSON.stringify(bookList, null, 2),
+      text: toJson(bookList),
     });
     csv.json2csv(bookList, (err, text) => {
       if (err) {
@@ -226,7 +238,7 @@ export default {
       });
     });
     createPage('poem_list.json.njk', `/downloads/poems.json`, {
-      text: JSON.stringify(poemList, null, 2),
+      text: toJson(poemList),
     });
     csv.json2csv(poemList, (err, text) => {
       if (err) {

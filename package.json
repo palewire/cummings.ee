@@ -6,7 +6,7 @@
     "start": "NODE_ENV=development bake serve --config"
   },
   "dependencies": {
-    "@datagraphics/baker": "^0.44.0",
+    "@datagraphics/baker": "https://github.com/brandonrobertz/baker#createpages-dev-fix",
     "@datagraphics/delivery": "^0.6.0",
     "archieml": "^0.4.2",
     "browserslist": ">=4.16.5",

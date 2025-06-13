@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
 
       - name: Use Node.js 16.x
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: 16
 
@@ -29,13 +29,13 @@ jobs:
         run: make build
 
       - name: Setup Pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v5
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: './docs'
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4

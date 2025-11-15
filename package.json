@@ -13,7 +13,7 @@
     "he": "^1.2.0",
     "hosted-git-info": ">=2.8.9",
     "intersection-observer": "^0.12.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "json-2-csv": "^3.10.3",
     "lodash": ">=4.17.21",
     "rfs": "^9.0.3",

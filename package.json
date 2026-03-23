@@ -24,6 +24,7 @@
     "@datagraphics/prettier-config": "^2.0.0",
     "@zeit/git-hooks": "^0.1.4",
     "lint-staged": "^10.5.4",
+    "pagefind": "^1.4.0",
     "prettier": "^2.2.1"
   },
   "prettier": "@datagraphics/prettier-config",

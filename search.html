@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% set meta = search %}
+
+{% block extra_styles %}
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+{% endblock extra_styles %}
+
+{% block extra_scripts %}
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    new PagefindUI({ element: '#search', showSubResults: true });
+  });
+</script>
+{% endblock extra_scripts %}
+
+{% block content %}
+{% include "includes/nav.html" %}
+<article data-pagefind-ignore>
+<header class="book">
+  <h1>{{ meta.title }}</h1>
+</header>
+<section class="search">
+  <div id="search"></div>
+</section>
+</article>
+{% endblock %}

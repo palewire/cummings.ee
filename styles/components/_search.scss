@@ -1,0 +1,14 @@
+@use '../settings/colors';
+@use '../settings/fonts';
+
+.search {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: #{colors.$black};
+  --pagefind-ui-text: #{colors.$black};
+  --pagefind-ui-background: #{colors.$white};
+  --pagefind-ui-border: #{colors.$gray};
+  --pagefind-ui-tag: #{colors.$white};
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 0;
+  --pagefind-ui-font: #{fonts.$font-family-serif};
+}
